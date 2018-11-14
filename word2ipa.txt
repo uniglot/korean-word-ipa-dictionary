@@ -283,21 +283,12 @@
 가나 ka̠na̠
 가나다 ka̠na̠da̠
 가나다라 ka̠na̠da̠ɾa̠
-가나다라도 모른다 <EMPTY>
 가나다순 ka̠na̠da̠sʰun
 가나다차례 ka̠na̠da̠t͡ɕʰa̠ɾje̞/ ~ /ka̠na̠da̠t͡ɕʰa̠ɾe̞
 가난 ka̠na̠n
-가난과 거지는 사촌 간이다 <EMPTY>
-가난도 비단 가난 <EMPTY>
 가난뱅이 ka̠na̠nbɛ̝ŋi
 가난이 죄 ka̠na̠ni t͡ɕø̞/ ~ /ka̠na̠ni t͡ɕwe̞
 가난하다 ka̠na̠nɦa̠da̠
-가난한 양반 씻나락 주무르듯 <EMPTY>
-가난한 집 신주 굶듯 <EMPTY>
-가난한 집 제삿날 돌아오듯 <EMPTY>
-가난한 집에 자식이 많다 <EMPTY>
-가난한 집에서 효자 난다 <EMPTY>
-가난할수록 기와집 짓는다 <EMPTY>
 가난히 ka̠na̠nʝi
 가납 ka̠na̠p̚
 가납사니 ka̠na̠ps͈a̠ni
@@ -319,12 +310,6 @@
 가느다래지다 ka̠nɯda̠ɾɛ̝d͡ʑida̠
 가느스름하다 ka̠nɯsʰɯɾɯmɦa̠da̠
 가는 ka̠nɯn
-가는 날이 장날 <EMPTY>
-가는 말 채찍질 <EMPTY>
-가는 말이 고와야 오는 말도 곱다 <EMPTY>
-가는 방망이 오는 홍두깨 <EMPTY>
-가는 세월에 오는 백발 <EMPTY>
-가는 토끼 잡으려다 잡은 토끼 놓친다 <EMPTY>
 가는갈퀴 ka̠nɯnɡa̠ɭkʰɥi/ ~ /ka̠nɯnɡa̠ɭkʰy
 가는갈퀴나물 ka̠nɯnɡa̠ɭkʰɥina̠muɭ/ ~ /ka̠nɯnɡa̠ɭkʰyna̠muɭ
 가는귀 ka̠nɯnɡɥi/ ~ /ka̠nɯnɡy
@@ -350,12 +335,10 @@
 가늠자 ka̠nɯmd͡ʑa̠
 가늠하다 ka̠nɯmɦa̠da̠
 가능 ka̠nɯŋ
-가능 최대 강수량 <EMPTY>
 가능바람 ka̠nɯŋba̠ɾa̠m
 가능보조어간 ka̠nɯŋbo̞d͡ʑo̞ʌ̹ɡa̠n
 가능성 ka̠nɯŋsʰʌ̹ŋ
 가능액 ka̠nɯŋɛ̝k̚
-가능 최대 강수량 <EMPTY>
 가능하다 ka̠nɯŋɦa̠da̠
 가능해지다 ka̠nɯŋɦɛ̝d͡ʑida̠
 가닐 ka̠niɭ
@@ -506,12 +489,8 @@
 가랑대다 ka̠ɾa̠ŋdɛ̝da̠
 가랑무 ka̠ɾa̠ŋmu
 가랑비 ka̠ɾa̠ŋbi
-가랑비에 옷 젖는 줄 모른다 <EMPTY>
 가랑이 ka̠ɾa̠ŋi
 가랑잎 ka̠ɾa̠ŋip̚
-가랑잎에 불붙듯 <EMPTY>
-가랑잎으로 눈 가리고 아웅 한다 <EMPTY>
-가랑잎이 솔잎더러 바스락거린다고 한다 <EMPTY>
 가래 ka̠ɾɛ̝
 가래떡 ka̠ɾɛ̝t͈ʌ̹k̚
 가래침 ka̠ɾɛ̝t͡ɕʰim
@@ -574,9 +553,7 @@
 가로축 ka̠ɾo̞t͡ɕʰuk̚
 가료 ka̠ɾjo
 가루 ka̠ɾu
-가루 가지고 떡 못 만들랴 <EMPTY>
 가루눈 ka̠ɾunun
-가루는 칠수록 고와지고 말은 할수록 거칠어진다 <EMPTY>
 가루다 ka̠ɾuda̠
 가루비누 ka̠ɾubinu
 가루약 ka̠ɾuja̠k̚
@@ -594,7 +571,6 @@
 가르쳐지다 ka̠ɾɯt͡ɕʰjʌ̹d͡ʑida̠
 가르치다 ka̠ɾɯt͡ɕʰida̠
 가르침 ka̠ɾɯt͡ɕʰim
-가르키다 <EMPTY>
 가름 ka̠ɾɯm
 가름대 ka̠ɾɯmdɛ̝
 가름하다 ka̠ɾɯmɦa̠da̠
@@ -613,8 +589,6 @@
 가린 ka̠ɾin
 가린하다 ˈka̠ːɾinɦa̠da̠
 가마 ka̠ma̠
-가마 속의 콩도 삶아야 먹는다 <EMPTY>
-가마 타고 시집가기는 다 틀렸다 <EMPTY>
 가마가맣다 ka̠ma̠ɡa̠ma̠tʰa̠
 가마괴 ka̠ma̠ɡø̞/ ~ /ka̠ma̠ɡwe̞
 가마노르께 ka̠ma̠no̞ɾɯk͈e̞
@@ -727,7 +701,6 @@
 가물다 ka̠muɭda̠
 가물대다 ka̠muɭdɛ̝da̠
 가물어 ka̠muɾʌ̹
-가물에 콩 나듯 <EMPTY>
 가물치 ka̠muɭt͡ɕʰi
 가뭄 ka̠mum
 가뭄해 ka̠mumɦɛ̝
@@ -1042,7 +1015,6 @@
 가유 ka̠ju
 가으내 ka̠ɯnɛ̝
 가을 ka̠ɯɭ
-가을 바람에 새털 <EMPTY>
 가을갈이 ka̠ɯɭɡa̠ɾi
 가을갈이하다 ka̠ɯɭɡa̠ɾiɦa̠da̠
 가을걷이 ka̠ɯɭɡʌ̹d͡ʑi
@@ -1058,8 +1030,6 @@
 가을붙임 ka̠ɯɭbutʰim
 가을비 ka̠ɯɭbi
 가을빛 ka̠ɯɭbit̚
-가을에 못 지낸 제사를 봄에는 지낼까 <EMPTY>
-가을에는 부지깽이도 덤빈다 <EMPTY>
 가을장마 ka̠ɯɭd͡ʑa̠ŋma̠
 가을철 ka̠ɯɭt͡ɕʰʌ̹ɭ
 가의 ka̠ɰi
@@ -1083,7 +1053,6 @@
 가입자 ka̠ip̚t͡ɕ͈a̠
 가입하다 ka̠ipʰa̠da̠
 가자 ka̠d͡ʑa̠
-가자니 태산이요 돌아서자니 숭산이라 <EMPTY>
 가자리 ka̠d͡ʑa̠ɾi
 가자미 ka̠d͡ʑa̠mi
 가자지대 ka̠d͡ʑa̠d͡ʑidɛ̝
@@ -1099,9 +1068,6 @@
 가장하다 ka̠d͡ʑa̠ŋɦa̠da̠
 가장행렬 ka̠d͡ʑa̠ŋɦɛ̝ŋɲjʌ̹ɭ
 가재 ka̠d͡ʑɛ̝
-가재 뒷걸음이나 게 옆걸음이나 <EMPTY>
-가재는 게 편 <EMPTY>
-가재는 게 편이라 <EMPTY>
 가재도구 ka̠d͡ʑɛ̝do̞ɡu
 가적 ka̠d͡ʑʌ̹k̚
 가전 ka̠d͡ʑʌ̹n
@@ -1157,7 +1123,6 @@
 가죽단백질 ka̠d͡ʑuk̚t͈a̠nbɛ̝k̚t͡ɕ͈iɭ
 가죽색 ka̠d͡ʑuks͈ɛ̝k̚
 가죽신 ka̠d͡ʑukɕ͈in
-가죽이 있어야 털이 나지 <EMPTY>
 가죽점퍼 ka̠d͡ʑuk̚t͡ɕ͈ʌ̹mpʰʌ̹
 가중 ka̠d͡ʑuŋ
 가중되다 ka̠d͡ʑuŋdø̞da̠/ ~ /ka̠d͡ʑuŋdwe̞da̠
@@ -1167,9 +1132,6 @@
 가증스럽다 ka̠d͡ʑɯŋsʰɯɾʌ̹p̚t͈a̠
 가증하다 ka̠d͡ʑɯŋɦa̠da̠
 가지 ka̠d͡ʑi
-가지 따먹고 외수 한다 <EMPTY>
-가지 많은 나무 바람 잘 날 없다 <EMPTY>
-가지 많은 나무에 바람 잘 날 없다 <EMPTY>
 가지가지 ka̠d͡ʑiɡa̠d͡ʑi
 가지각색 ka̠d͡ʑiɡa̠ks͈ɛ̝k̚
 가지급금 ka̠d͡ʑiɡɯp̚k͈ɯm
@@ -1432,11 +1394,8 @@
 간극 ka̠nɡɯk̚
 간나 ka̠nna̠
 간난 ka̠nna̠n
-간난아이 <EMPTY>
-간난애 <EMPTY>
 간날 ka̠nna̠ɭ
 간뇌 ka̠nnø̞/ ~ /ka̠nnwe̞
-간다 간다 하면서 아이 셋 낳고 간다 <EMPTY>
 간닥 ka̠nda̠k̚
 간닥간닥 ka̠nda̠k̚k͈a̠nda̠k̚
 간닥간닥하다 ka̠nda̠k̚k͈a̠nda̠kʰa̠da̠
@@ -1521,7 +1480,6 @@
 간방 ka̠nba̠ŋ
 간병 ka̠nbjʌ̹ŋ
 간부 ka̠nbu
-간빵 <EMPTY>
 간사 ka̠nsʰa̠
 간사하다 ka̠nsʰa̠ɦa̠da̠
 간살 ka̠nsʰa̠ɭ
@@ -1549,10 +1507,6 @@
 간악무쌍 ka̠na̠ŋmus͈a̠ŋ
 간악하다 ka̠na̠kʰa̠da̠
 간언 ka̠nʌ̹n
-간에 가 붙고 쓸개에 가 붙는다 <EMPTY>
-간에 기별도 안 간다 <EMPTY>
-간에 붙고 염통에 붙는다 <EMPTY>
-간에 붙었다 쓸개에 붙었다 <EMPTY>
 간염 ka̠ɲjʌ̹m
 간예 ka̠ɲje̞
 간요 ka̠ɲjo
@@ -1561,8 +1515,6 @@
 간음 ka̠nɯm
 간의 ka̠nɰi
 간이 ka̠ni
-간이 뒤집혔나 허파에 바람이 들었나 <EMPTY>
-간이 콩알만해지다 <EMPTY>
 간이역 ka̠nijʌ̹k̚
 간인 ka̠nin
 간장 ka̠nd͡ʑa̠ŋ
@@ -1794,7 +1746,6 @@
 감금하다 ka̠mɡɯmɦa̠da̠
 감기 ka̠mɡi
 감기다 ka̠mɡida̠
-감나무 밑에서 홍시 떨어지기 기다린다 <EMPTY>
 감다 ˈka̠ːmt͈a̠
 감당하다 ka̠mda̠ŋɦa̠da̠
 감독 ka̠mdo̞k̚
@@ -1820,8 +1771,6 @@
 감봉 ka̠mbo̞ŋ
 감비아 ka̠mbia̠
 감사 ka̠msʰa̠
-감사가 행차하면 사또만 죽어난다 <EMPTY>
-감사면 다 평양감사인가 <EMPTY>
 감사하다 ka̠msʰa̠ɦa̠da̠
 감사합니다 ka̠msʰa̠ɦa̠mnida̠
 감사히 ka̠msʰa̠ʝi
@@ -1899,7 +1848,6 @@
 갑각류 ka̠p̚k͈a̠ŋɲju
 갑갑 ka̠p̚k͈a̠p̚
 갑갑하다 ka̠p̚k͈a̠pʰa̠da̠
-갑갑한 놈이 송사한다 <EMPTY>
 갑갑히 ka̠p̚k͈a̠pʰi
 갑병 ka̠p̚p͈jʌ̹ŋ
 갑삭 ka̠ps͈a̠k̚
@@ -1933,11 +1881,8 @@
 갑진 ka̠p̚t͡ɕ͈in
 갑질 ka̠p̚t͡ɕ͈iɭ
 값 ka̠p̚
-값 싼 비지떡 <EMPTY>
 값싸다 ka̠ps͈a̠da̠
 값어치 ka̠bʌ̹t͡ɕʰi
-갓 사러 갔다 망건 산다 <EMPTY>
-갓 쓰고 자전거 타기 <EMPTY>
 갓난아이 ka̠nna̠na̠i
 갓난애 ka̠nna̠nɛ̝
 갓짐치 ka̠t̚t͡ɕ͈imt͡ɕʰi
@@ -1984,7 +1929,6 @@
 강매되다 ka̠ŋmɛ̝dø̞da̠/ ~ /ka̠ŋmɛ̝dwe̞da̠
 강목 ka̠ŋmo̞k̚
 강물 ka̠ŋmuɭ
-강물도 쓰면 준다 <EMPTY>
 강박 ka̠ŋba̠k̚
 강변 ka̠ŋbjʌ̹n
 강보리밥 ka̠ŋbo̞ɾiba̠p̚
@@ -2057,7 +2001,6 @@
 강취하다 ka̠ŋt͡ɕʰɥiɦa̠da̠/ ~ /ka̠ŋt͡ɕʰyɦa̠da̠
 강탈 ka̠ŋtʰa̠ɭ
 강탈하다 ka̠ŋtʰa̠ɾɦa̠da̠
-강태공이 세월 낚듯 한다 <EMPTY>
 강퍅 ka̠ŋpʰja̠k̚
 강풍 ka̠ŋpʰuŋ
 강풍경보 ka̠ŋpʰuŋɡjʌ̹ŋbo̞
@@ -2082,8 +2025,6 @@
 갖춤새 ka̠t̚t͡ɕʰumsʰɛ̝
 같다 ka̠t̚t͈a̠
 같은 ka̠tʰɯn
-같은 값이면 과부집 머슴살이 <EMPTY>
-같은 말이라도 아 다르고 어 다르다 <EMPTY>
 같음 ka̠tʰɯm
 같이 ka̠t͡ɕʰi
 같이하다 ka̠t͡ɕʰiɦa̠da̠
@@ -2091,19 +2032,13 @@
 갚다 ka̠p̚t͈a̠
 개 kɛ̝
 개- kɛ̝
-개 발에 놋대갈 <EMPTY>
-개 밥에 도토리 <EMPTY>
-개 팔자가 상팔자 <EMPTY>
 개가 kɛ̝ɡa̠
-개가 똥을 마다 할까 <EMPTY>
-개가 벼룩 씹듯 <EMPTY>
 개가하다 kɛ̝ɡa̠ɦa̠da̠
 개각 kɛ̝ɡa̠k̚
 개각도 kɛ̝ɡa̠k̚t͈o̞
 개각하다 kɛ̝ɡa̠kʰa̠da̠
 개간 kɛ̝ɡa̠n
 개감스럽다 kɛ̝ɡa̠msʰɯɾʌ̹p̚t͈a̠
-개같이 벌어서 정승같이 산다 <EMPTY>
 개개고찰 kɛ̝ɡɛ̝ɡo̞t͡ɕʰa̠ɭ
 개개다 kɛ̝ɡɛ̝da̠
 개개인 kɛ̝ɡɛ̝in
@@ -2119,12 +2054,9 @@
 개괄하다 kɛ̝ɡwa̠ɾɦa̠da̠
 개구락지 kɛ̝ɡuɾa̠k̚t͡ɕ͈i
 개구리 kɛ̝ɡuɾi
-개구리 낯짝에 물 퍼붓기 <EMPTY>
-개구리 올챙이 적 생각 못한다 <EMPTY>
 개구리매 kɛ̝ɡuɾimɛ̝
 개구장마누라 kɛ̝ɡud͡ʑa̠ŋma̠nuɾa̠
 개구장애 kɛ̝ɡud͡ʑa̠ŋɛ̝
-개구장이 <EMPTY>
 개구쟁이 kɛ̝ɡud͡ʑɛ̝ŋi
 개국 kɛ̝ɡuk̚
 개굴개굴 kɛ̝ɡuɭɡɛ̝ɡuɭ
@@ -2147,7 +2079,6 @@
 개두덜거리다 kɛ̝dudʌ̹ɭɡʌ̹ɾida̠
 개떡 kɛ̝t͈ʌ̹k̚
 개똥 kɛ̝t͈o̞ŋ
-개똥참외도 임자가 있다 <EMPTY>
 개락 kɛ̝ɾa̠k̚
 개량하다 kɛ̝ɾja̠ŋɦa̠da̠
 개르다 kɛ̝ɾɯda̠
@@ -2176,7 +2107,6 @@
 개발 교육 kɛ̝ba̠ɭ kjojuk̚
 개발되다 kɛ̝ba̠ɭdø̞da̠/ ~ /kɛ̝ba̠ɭdwe̞da̠
 개발새발 kɛ̝ba̠ɭsʰɛ̝ba̠ɭ
-개발쇠발 <EMPTY>
 개발하다 kɛ̝ba̠ɾɦa̠da̠
 개방 kɛ̝ba̠ŋ
 개방하다 kɛ̝ba̠ŋɦa̠da̠
@@ -2282,7 +2212,6 @@
 개찰구 kɛ̝t͡ɕʰa̠ɭɡu
 개척 kɛ̝t͡ɕʰʌ̹k̚
 개척하다 kɛ̝t͡ɕʰʌ̹kʰa̠da̠
-개천에서 용 난다 <EMPTY>
 개천절 kɛ̝t͡ɕʰʌ̹nd͡ʑʌ̹ɭ
 개체생활 kɛ̝t͡ɕʰe̞sʰɛ̝ŋβwa̠ɭ
 개체수피라미드 kɛ̝t͡ɕʰe̞sʰupʰiɾa̠midɯ
@@ -2319,12 +2248,10 @@
 객체 높임법 kɛ̝k̚t͡ɕʰe̞ no̞pʰimbʌ̹p̚
 객체계 kɛ̝k̚t͡ɕʰe̞ɡje̞/ ~ /kɛ̝k̚t͡ɕʰe̞ɡe̞
 객체 높임법 kɛ̝k̚t͡ɕʰe̞ no̞pʰimbʌ̹p̚
-갤갤 <EMPTY>
 갤갤하다 kɛ̝ɭɡɛ̝ɾɦa̠da̠
 갤러빠지다 kɛ̝ɭɭʌ̹p͈a̠d͡ʑida̠
 갤러터지다 kɛ̝ɭɭʌ̹tʰʌ̹d͡ʑida̠
 갤리 kɛ̝ɭʎi
-갤리다 <EMPTY>
 갤쑥갤쑥 kɛ̝ɭs͈uk̚k͈ɛ̝ɭs͈uk̚
 갤쑥갤쑥하다 kɛ̝ɭs͈uk̚k͈ɛ̝ɭs͈ukʰa̠da̠
 갤쑥이 kɛ̝ɭs͈uɡi
@@ -2355,7 +2282,6 @@
 갭직하다 kɛ̝p̚t͡ɕ͈ikʰa̠da̠
 갯가재 kɛ̝t̚k͈a̠d͡ʑɛ̝
 갯과 kɛ̝t̚k͈wa̠
-갯수 <EMPTY>
 갱 kɛ̝ŋ
 갱개 kɛ̝ŋɡɛ̝
 갱내가스 kɛ̝ŋnɛ̝ɡa̠sʰɯ
@@ -2582,8 +2508,6 @@
 거물대다 kʌ̹muɭdɛ̝da̠
 거뭇 kʌ̹mut̚
 거미 kʌ̹mi
-거미도 줄을 쳐야 벌레를 잡는다 <EMPTY>
-거미줄로 방귀 동이듯 <EMPTY>
 거밀거밀 kʌ̹miɭɡʌ̹miɭ
 거밀거밀하다 kʌ̹miɭɡʌ̹miɾɦa̠da̠
 거벅 kʌ̹bʌ̹k̚
@@ -2595,7 +2519,6 @@
 거볍다 kʌ̹bjʌ̹p̚t͈a̠
 거병 kʌ̹bjʌ̹ŋ
 거부 kʌ̹bu
-거부기 <EMPTY>
 거부하다 kʌ̹buɦa̠da̠
 거북 kʌ̹buk̚
 거북목 kʌ̹buŋmo̞k̚
@@ -2674,7 +2597,6 @@
 거죽 kʌ̹d͡ʑuk̚
 거즈 kʌ̹d͡ʑɯ
 거지 kʌ̹d͡ʑi
-거지가 도승지를 불쌍타 한다 <EMPTY>
 거지반 kʌ̹d͡ʑiba̠n
 거지발싸개 kʌ̹d͡ʑiba̠ɭs͈a̠ɡɛ̝
 거진 kʌ̹d͡ʑin
@@ -2682,7 +2604,6 @@
 거짓되다 kʌ̹d͡ʑit̚t͈ø̞da̠/ ~ /kʌ̹d͡ʑit̚t͈we̞da̠
 거짓말 kʌ̹d͡ʑinma̠ɭ
 거짓말 탐지기 kʌ̹d͡ʑinma̠ɭ tʰa̠md͡ʑiɡi
-거짓말장이 <EMPTY>
 거짓말쟁이 kʌ̹d͡ʑinma̠ɭd͡ʑɛ̝ŋi
 거짓말 탐지기 kʌ̹d͡ʑinma̠ɭ tʰa̠md͡ʑiɡi
 거짓말하다 kʌ̹d͡ʑinma̠ɾɦa̠da̠
@@ -2751,7 +2672,6 @@
 걱실걱실히 kʌ̹kɕ͈iɭɡʌ̹kɕ͈iɾʝi
 걱실대다 kʌ̹kɕ͈iɭdɛ̝da̠
 걱정 kʌ̹k̚t͡ɕ͈ʌ̹ŋ
-걱정도 팔자다 <EMPTY>
 걱정되다 kʌ̹k̚t͡ɕ͈ʌ̹ŋdø̞da̠/ ~ /kʌ̹k̚t͡ɕ͈ʌ̹ŋdwe̞da̠
 걱정스럽다 kʌ̹k̚t͡ɕ͈ʌ̹ŋsʰɯɾʌ̹p̚t͈a̠
 걱정하다 kʌ̹k̚t͡ɕ͈ʌ̹ŋɦa̠da̠
@@ -2772,7 +2692,6 @@
 건너 kʌ̹nnʌ̹
 건너가다 kʌ̹nnʌ̹ɡa̠da̠
 건너다 ˈkɘːnnʌ̹da̠
-건너다 보니 절터 <EMPTY>
 건너오다 kʌ̹nnʌ̹o̞da̠
 건너편 kʌ̹nnʌ̹pʰjʌ̹n
 건넌방 kʌ̹nnʌ̹nba̠ŋ
@@ -2793,7 +2712,6 @@
 건덩건덩 kʌ̹ndʌ̹ŋɡʌ̹ndʌ̹ŋ
 건덩건덩하다 kʌ̹ndʌ̹ŋɡʌ̹ndʌ̹ŋɦa̠da̠
 건덩대다 kʌ̹ndʌ̹ŋdɛ̝da̠
-건데기 <EMPTY>
 건뎅거리다 kʌ̹nde̞ŋɡʌ̹ɾida̠
 건뎅건뎅 kʌ̹nde̞ŋɡʌ̹nde̞ŋ
 건뎅건뎅하다 kʌ̹nde̞ŋɡʌ̹nde̞ŋɦa̠da̠
@@ -2906,7 +2824,6 @@
 걸떡걸떡 kʌ̹ɭt͈ʌ̹k̚k͈ʌ̹ɭt͈ʌ̹k̚
 걸레 kʌ̹ɭɭe̞
 걸레미질 kʌ̹ɭɭe̞mid͡ʑiɭ
-걸르다 <EMPTY>
 걸리다 kʌ̹ɭʎida̠
 걸리적 kʌ̹ɭʎid͡ʑʌ̹k̚
 걸림씨 kʌ̹ɭʎimɕ͈i
@@ -2976,8 +2893,6 @@
 검실대다 kʌ̹mɕʰiɭdɛ̝da̠
 검어지다 kʌ̹mʌ̹d͡ʑida̠
 검은 kʌ̹mɯn
-검은 고양이 눈 감은 듯 <EMPTY>
-검은 머리 파뿌리 되도록 <EMPTY>
 검은가뢰 kʌ̹mɯnɡa̠ɾø̞/ ~ /kʌ̹mɯnɡa̠ɾwe̞
 검은가슴물떼새 kʌ̹mɯnɡa̠sʰɯmmuɭt͈e̞sʰɛ̝
 검은가슴알도요 kʌ̹mɯnɡa̠sʰɯma̠ɭdo̞jo
@@ -3026,7 +2941,6 @@
 겁신겁신 kʌ̹pɕ͈inɡʌ̹pɕ͈in
 겁신겁신하다 kʌ̹pɕ͈inɡʌ̹pɕ͈inɦa̠da̠
 겁신대다 kʌ̹pɕ͈indɛ̝da̠
-겁장이 <EMPTY>
 겁쟁이 kʌ̹p̚t͡ɕ͈ɛ̝ŋi
 것 kʌ̹t̚
 겅둥 kʌ̹ŋduŋ
@@ -3058,7 +2972,6 @@
 겅충대다 kʌ̹ŋt͡ɕʰuŋdɛ̝da̠
 겅충하다 kʌ̹ŋt͡ɕʰuŋɦa̠da̠
 겉 kʌ̹t̚
-겉 다르고 속 다르다 <EMPTY>
 겉가마 kʌ̹t̚k͈a̠ma̠
 겉모습 kʌ̹nmo̞sʰɯp̚
 겉모양 kʌ̹nmo̞ja̠ŋ
@@ -3077,7 +2990,6 @@
 게검스럽다 ke̞ɡʌ̹msʰɯɾʌ̹p̚t͈a̠
 게검스레 ke̞ɡʌ̹msʰɯɾe̞
 게기 ke̞ɡi
-게기다 <EMPTY>
 게다가 ke̞da̠ɡa̠
 게두덜 ke̞dudʌ̹ɭ
 게두덜거리다 ke̞dudʌ̹ɭɡʌ̹ɾida̠
@@ -3122,7 +3034,6 @@
 게을러터짐 ke̞ɯɭɭʌ̹tʰʌ̹d͡ʑim
 게을리 ke̞ɯɭʎi
 게이 ke̞i
-게이뤼삭의 제일 법칙 <EMPTY>
 게임 k͈e̞im
 게임기 ke̞imɡi
 게저분 ke̞d͡ʑʌ̹bun
@@ -3154,7 +3065,6 @@
 겠 ke̞t̚
 겨 kjʌ̹
 겨드랑이 kjʌ̹dɯɾa̠ŋi
-겨드랭이 <EMPTY>
 겨란 kjʌ̹ɾa̠n
 겨레 kjʌ̹ɾe̞
 겨를 kjʌ̹ɾɯɭ
@@ -3201,7 +3111,6 @@
 견공 kjʌ̹nɡo̞ŋ
 견과 kjʌ̹nɡwa̠
 견관절 kjʌ̹nɡwa̠nd͡ʑʌ̹ɭ
-견데다 <EMPTY>
 견디다 kjʌ̹ndida̠
 견련 kjʌ̹ɭʎjʌ̹n
 견마 kjʌ̹nma̠
@@ -3648,7 +3557,6 @@
 경추 kjʌ̹ŋt͡ɕʰu
 경축 kjʌ̹ŋt͡ɕʰuk̚
 경축사 kjʌ̹ŋt͡ɕʰuks͈a̠
-경치고 포도청 간다 <EMPTY>
 경치다 kjʌ̹ŋt͡ɕʰida̠
 경칩 kjʌ̹ŋt͡ɕʰip̚
 경칭 kjʌ̹ŋt͡ɕʰiŋ
@@ -3696,7 +3604,6 @@
 곁눈 kjʌ̹nnun
 곁바다 kjʌ̹t̚p͈a̠da̠
 계 kje̞/ ~ /ke̞
-계 타고 집 판다 <EMPTY>
 계간 kje̞ɡa̠n/ ~ /ke̞ɡa̠n
 계곡 kje̞ɡo̞k̚/ ~ /ke̞ɡo̞k̚
 계교 kje̞ɡjo/ ~ /ke̞ɡjo
@@ -3711,7 +3618,6 @@
 계란 kje̞ɾa̠n/ ~ /ke̞ɾa̠n
 계란마키 kje̞ɾa̠nma̠kçi/ ~ /ke̞ɾa̠nma̠kçi
 계란색 kje̞ɾa̠nsʰɛ̝k̚/ ~ /ke̞ɾa̠nsʰɛ̝k̚
-계란에도 뼈가 있다 <EMPTY>
 계란유골 kje̞ɾa̠ɲjuɡo̞ɭ/ ~ /ke̞ɾa̠ɲjuɡo̞ɭ
 계량형컴퓨터 kje̞ɾja̠ŋʝjʌ̹ŋkʰʌ̹mpʰjutʰʌ̹/ ~ /ke̞ɾja̠ŋʝjʌ̹ŋkʰʌ̹mpʰjutʰʌ̹
 계렬 kje̞ɾjʌ̹ɭ/ ~ /ke̞ɾjʌ̹ɭ
@@ -3738,7 +3644,6 @@
 계승하다 kje̞sʰɯŋɦa̠da̠/ ~ /ke̞sʰɯŋɦa̠da̠
 계시 kje̞ɕʰi/ ~ /ke̞ɕʰi
 계시다 kje̞ɕʰida̠/ ~ /ke̞ɕʰida̠
-계시판 <EMPTY>
 계실 kje̞ɕʰiɭ/ ~ /ke̞ɕʰiɭ
 계약 kje̞ja̠k̚/ ~ /ke̞ja̠k̚
 계약자 kje̞ja̠k̚t͡ɕ͈a̠/ ~ /ke̞ja̠k̚t͡ɕ͈a̠
@@ -3760,7 +3665,6 @@
 계좌 kje̞d͡ʑwa̠/ ~ /ke̞d͡ʑwa̠
 계주 kje̞d͡ʑu/ ~ /ke̞d͡ʑu
 계집 kje̞d͡ʑip̚/ ~ /ke̞d͡ʑip̚
-계집 때린 날 장모 온다 <EMPTY>
 계집년 kje̞d͡ʑimɲjʌ̹n/ ~ /ke̞d͡ʑimɲjʌ̹n
 계집아이 kje̞d͡ʑiba̠i/ ~ /ke̞d͡ʑiba̠i
 계집애 kje̞d͡ʑibɛ̝/ ~ /ke̞d͡ʑibɛ̝
@@ -3820,9 +3724,7 @@
 고기 ko̞ɡi
 고기겹빵 ko̞ɡiɡjʌ̹p̚p͈a̠ŋ
 고기기지 ko̞ɡiɡid͡ʑi
-고기는 씹어야 맛이요, 말은 해야 맛이라 <EMPTY>
 고기다 ko̞ɡida̠
-고기도 저 놀던 물이 좋다 <EMPTY>
 고기떡 ko̞ɡit͈ʌ̹k̚
 고기비늘 ko̞ɡibinɯɭ
 고기압 ko̞ɡia̠p̚
@@ -3843,7 +3745,6 @@
 고깃거리다 ko̞ɡit̚k͈ʌ̹ɾida̠
 고깃고깃 ko̞ɡit̚k͈o̞ɡit̚
 고깃고깃하다 ko̞ɡit̚k͈o̞ɡitʰa̠da̠
-고깃관 <EMPTY>
 고깃깃 ko̞ɡit̚k͈it̚
 고깃대다 ko̞ɡit̚t͈ɛ̝da̠
 고까옷 ko̞k͈a̠o̞t̚
@@ -3898,7 +3799,6 @@
 고동 ko̞do̞ŋ
 고동색 ko̞do̞ŋsʰɛ̝k̚
 고두 ko̞du
-고둥어 <EMPTY>
 고드러지다 ko̞dɯɾʌ̹d͡ʑida̠
 고드름 ko̞dɯɾɯm
 고들고들 ko̞dɯɭɡo̞dɯɭ
@@ -3972,7 +3872,6 @@
 고르릉고르릉하다 ko̞ɾɯɾɯŋɡo̞ɾɯɾɯŋɦa̠da̠
 고른 ko̞ɾɯn
 고름 ko̞ɾɯm
-고름이 살 되랴 <EMPTY>
 고리 ko̞ɾi
 고리고리 ko̞ɾiɡo̞ɾi
 고리고리하다 ko̞ɾiɡo̞ɾiɦa̠da̠
@@ -4014,7 +3913,6 @@
 고모 ko̞mo̞
 고모부 ko̞mo̞bu
 고목 ko̞mo̞k̚
-고목에 꽃이 피랴 <EMPTY>
 고무 ko̞mu
 고무가락지바킹 ko̞muɡa̠ɾa̠k̚t͡ɕ͈iba̠kçiŋ
 고무라기 ko̞muɾa̠ɡi
@@ -4130,7 +4028,6 @@
 고붓하다 ko̞butʰa̠da̠
 고비리 ko̞biɾi
 고뿌 ko̞p͈u
-고뿔앓이 <EMPTY>
 고사 ko̞sʰa̠
 고사리 ko̞sʰa̠ɾi
 고사성어 ko̞sʰa̠sʰʌ̹ŋʌ̹
@@ -4149,7 +4046,6 @@
 고색 ko̞sʰɛ̝k̚
 고색창연 ko̞sʰɛ̝k̚t͡ɕʰa̠ŋjʌ̹n
 고생 ko̞sʰɛ̝ŋ
-고생 끝에 낙이 온다 <EMPTY>
 고생대 ko̞sʰɛ̝ŋdɛ̝
 고생물 ko̞sʰɛ̝ŋmuɭ
 고생물학 ko̞sʰɛ̝ŋmuɾɦa̠k̚
@@ -4183,7 +4079,6 @@
 고슬고슬 ko̞sʰɯɭɡo̞sʰɯɭ
 고슬고슬하다 ko̞sʰɯɭɡo̞sʰɯɾɦa̠da̠
 고슴도치 ko̞sʰɯmdo̞t͡ɕʰi
-고슴도치도 제 새끼가 함함하다면 좋아한다 <EMPTY>
 고승 ko̞sʰɯŋ
 고시 ko̞ɕʰi
 고시가격 ko̞ɕʰiɡa̠ɡjʌ̹k̚
@@ -4211,12 +4106,7 @@
 고약하다 ko̞ja̠kʰa̠da̠
 고양고양 ko̞ja̠ŋɡo̞ja̠ŋ
 고양이 ko̞ja̠ŋi
-고양이 목에 방울 달기 <EMPTY>
-고양이 보고 반찬가게 지키라는 격이다 <EMPTY>
-고양이 쥐 생각 <EMPTY>
 고양이곰 ko̞ja̠ŋiɡo̞m
-고양이는 발톱을 감춘다 <EMPTY>
-고양이한테 생선을 맡긴다 <EMPTY>
 고어 ko̞ʌ̹
 고언 ko̞ʌ̹n
 고역 ko̞jʌ̹k̚
@@ -4331,12 +4221,10 @@
 고체화 ko̞t͡ɕʰe̞βwa̠
 고초 ko̞t͡ɕʰo̞
 고추 ko̞t͡ɕʰu
-고추 밭에 말 달리기 <EMPTY>
 고추가루 ko̞t͡ɕʰuɡa̠ɾu
 고추같다 ko̞t͡ɕʰuɡa̠t̚t͈a̠
 고추자지 ko̞t͡ɕʰud͡ʑa̠d͡ʑi
 고추장 ko̞t͡ɕʰud͡ʑa̠ŋ
-고추장 단지가 열둘이라도 서방님 비위를 못 맞춘다 <EMPTY>
 고출력 ko̞t͡ɕʰuɭʎjʌ̹k̚
 고춧가루 ko̞t͡ɕʰut̚k͈a̠ɾu/ ~ /ko̞t͡ɕʰuk͈a̠ɾu
 고충 ko̞t͡ɕʰuŋ
@@ -4412,7 +4300,6 @@
 곡물 ko̞ŋmuɭ
 곡물상 ko̞ŋmuɭsʰa̠ŋ
 곡사포 ko̞ks͈a̠pʰo̞
-곡석 <EMPTY>
 곡선 ko̞ks͈ʌ̹n
 곡선미 ko̞ks͈ʌ̹nmi
 곡선운동 ko̞ks͈ʌ̹nundo̞ŋ
@@ -4435,7 +4322,6 @@
 곤경 ko̞nɡjʌ̹ŋ
 곤괘 ko̞nɡwɛ̝
 곤궁 ko̞nɡuŋ
-곤난 <EMPTY>
 곤독 ko̞ndo̞k̚
 곤독거리다 ko̞ndo̞k̚k͈ʌ̹ɾida̠
 곤독곤독 ko̞ndo̞k̚k͈o̞ndo̞k̚
@@ -4476,7 +4362,6 @@
 곤약 ko̞ɲja̠k̚
 곤욕 ko̞ɲjok̚
 곤장 ko̞nd͡ʑa̠ŋ
-곤장 메고 매 맞으러 간다 <EMPTY>
 곤조 ko̞nd͡ʑo̞
 곤충 ko̞nt͡ɕʰuŋ
 곤충류 ko̞nt͡ɕʰuŋɲju
@@ -4487,7 +4372,6 @@
 곧바로 ko̞t̚p͈a̠ɾo̞
 곧서다 ko̞t̚s͈ʌ̹da̠
 곧은 ko̞dɯn
-곧은 나무 먼저 찍힌다 <EMPTY>
 곧은달림길 ko̞dɯnda̠ɭʎimɡiɭ
 곧은창자 ko̞dɯnt͡ɕʰa̠ŋd͡ʑa̠
 곧음 ko̞dɯm
@@ -4626,7 +4510,6 @@
 곱박곱박 ko̞p̚p͈a̠k̚k͈o̞p̚p͈a̠k̚
 곱박곱박하다 ko̞p̚p͈a̠k̚k͈o̞p̚p͈a̠kʰa̠da̠
 곱박하다 ko̞p̚p͈a̠kʰa̠da̠
-곱배기 <EMPTY>
 곱삭 ko̞ps͈a̠k̚
 곱삭거리다 ko̞ps͈a̠k̚k͈ʌ̹ɾida̠
 곱삭곱삭 ko̞ps͈a̠k̚k͈o̞ps͈a̠k̚
@@ -4680,8 +4563,6 @@
 공강 ko̞ŋɡa̠ŋ
 공개 ko̞ŋɡɛ̝
 공개하다 ko̞ŋɡɛ̝ɦa̠da̠
-공것 바라면 이마가 벗어진다 <EMPTY>
-공것이라면 양잿물도 먹는다 <EMPTY>
 공격 ko̞ŋɡjʌ̹k̚
 공격어김 ko̞ŋɡjʌ̹ɡʌ̹ɡim
 공격하다 ko̞ŋɡjʌ̹kʰa̠da̠
@@ -4770,14 +4651,12 @@
 공원개구 ko̞ŋwʌ̹nɡɛ̝ɡu
 공유 ko̞ŋju
 공유하다 ko̞ŋjuɦa̠da̠
-공은 공이고, 사는 사다 <EMPTY>
 공익광고 ko̞ŋik̚k͈wa̠ŋɡo̞
 공익권 ko̞ŋik̚k͈wʌ̹n
 공인 ko̞ŋin
 공일 ko̞ŋiɭ
 공임 ko̞ŋim
 공자 ko̞ŋd͡ʑa̠
-공자 앞에서 문자 쓴다 <EMPTY>
 공작 ko̞ŋd͡ʑa̠k̚
 공작석 ko̞ŋd͡ʑa̠ks͈ʌ̹k̚
 공장 ko̞ŋd͡ʑa̠ŋ
@@ -4799,7 +4678,6 @@
 공중화장실 ko̞ŋd͡ʑuŋβwa̠d͡ʑa̠ŋɕʰiɭ
 공지 ko̞ŋd͡ʑi
 공짜 ko̞ŋt͡ɕ͈a̠
-공짜라면 양잿물이라도 먹는다 <EMPTY>
 공책 ko̞ŋt͡ɕʰɛ̝k̚
 공쳐내기 ko̞ŋt͡ɕʰjʌ̹nɛ̝ɡi
 공통 ko̞ŋtʰo̞ŋ
@@ -4816,8 +4694,6 @@
 공학도 ko̞ŋɦa̠k̚t͈o̞
 공함 ko̞ŋɦa̠m
 공항 ko̞ŋɦa̠ŋ
-공항 기상 관측 시스템 <EMPTY>
-공항 기상 관측 시스템 <EMPTY>
 공항버스 ko̞ŋɦa̠ŋbʌ̹sʰɯ
 공항예보 ko̞ŋɦa̠ŋje̞bo̞
 공항특보 ko̞ŋɦa̠ŋtʰɯk̚p͈o̞
@@ -4830,7 +4706,6 @@
 공황 ko̞ŋβwa̠ŋ
 공휴일 ko̞ŋʝjuiɭ
 곶 ko̞t̚
-곶감 꼬치에서 곶감 빼 먹듯 <EMPTY>
 곹이 ko̞t͡ɕʰi
 과 kwa̠
 과감 kwa̠ɡa̠m
@@ -4886,9 +4761,7 @@
 과반수 kwa̠ba̠nsʰu
 과보호 kwa̠bo̞βo̞
 과부 kwa̠bu
-과부 설움은 과부가 안다 <EMPTY>
 과부댁 kwa̠budɛ̝k̚
-과부의 심정은 홀아비가 알고 도적놈의 심보는 도적놈이 잘 안다 <EMPTY>
 과부족 kwa̠bud͡ʑo̞k̚
 과부하 kwa̠buɦa̠
 과분 kwa̠bun
@@ -5088,7 +4961,6 @@
 관서팔경 kwa̠nsʰʌ̹pʰa̠ɭɡjʌ̹ŋ
 관설 kwa̠nsʰʌ̹ɭ
 관성 kwa̠nsʰʌ̹ŋ
-관성 불안정 <EMPTY>
 관성류 kwa̠nsʰʌ̹ŋɲju
 관세 kwa̠nsʰe̞
 관세경찰 kwa̠nsʰe̞ɡjʌ̹ŋt͡ɕʰa̠ɭ
@@ -5193,7 +5065,6 @@
 괄괄 kwa̠ɭɡwa̠ɭ
 괄목 kwa̠ɭmo̞k̚
 괄목상대 kwa̠ɭmo̞ks͈a̠ŋdɛ̝
-괄세 <EMPTY>
 괄시 kwa̠ɭɕʰi
 괄약 kwa̠ɾja̠k̚
 괄약근 kwa̠ɾja̠k̚k͈ɯn
@@ -5757,7 +5628,6 @@
 교회음악 kjoɦø̞ɯma̠k̚/ ~ /kjoβwe̞ɯma̠k̚
 교훈 kjoβun
 구 ku
-구ᇚ <EMPTY>
 구가 kuɡa̠
 구가타 kuɡa̠tʰa̠
 구가타 kuɡa̠tʰa̠
@@ -5787,7 +5657,6 @@
 구공탄 kuɡo̞ŋtʰa̠n
 구관 kuɡwa̠n
 구관당상 kuɡwa̠nda̠ŋsʰa̠ŋ
-구관이 명관이다 <EMPTY>
 구관조 kuɡwa̠nd͡ʑo̞
 구교 kuɡjo
 구구 kuɡu
@@ -5842,7 +5711,6 @@
 구대륙 kudɛ̝ɾjuk̚
 구덕구덕 kudʌ̹k̚k͈udʌ̹k̚
 구덕구덕하다 kudʌ̹k̚k͈udʌ̹kʰa̠da̠
-구데기 <EMPTY>
 구데이 kude̞i
 구뎅이 kude̞ŋi
 구도 kudo̞
@@ -5955,7 +5823,6 @@
 구명부표 kumjʌ̹ŋbupʰjo
 구명정 kumjʌ̹ŋd͡ʑʌ̹ŋ
 구명하다 kumjʌ̹ŋɦa̠da̠
-구무 <EMPTY>
 구무럭 kumuɾʌ̹k̚
 구무럭거리다 kumuɾʌ̹k̚k͈ʌ̹ɾida̠
 구무럭구무럭 kumuɾʌ̹k̚k͈umuɾʌ̹k̚
@@ -6104,7 +5971,6 @@
 구술시험 kusʰuɭɕʰiɦʌ̹m
 구슬구슬 kusʰɯɭɡusʰɯɭ
 구슬구슬하다 kusʰɯɭɡusʰɯɾɦa̠da̠
-구슬이 서 말이라도 꿰어야 보배 <EMPTY>
 구습 kusʰɯp̚
 구승문학 kusʰɯŋmunɦa̠k̚
 구시가 kuɕʰiɡa̠
@@ -6348,7 +6214,6 @@
 국자 kuk̚t͡ɕ͈a̠
 국적 kuk̚t͡ɕ͈ʌ̹k̚
 국제 kuk̚t͡ɕ͈e̞
-국제 민간 항공 기구 <EMPTY>
 국제 연합 개발 계획 kuk̚t͡ɕ͈e̞ jʌ̹nɦa̠p̚ kɛ̝ba̠ɭ kje̞ɦø̞k̚/ ~ /kuk̚t͡ɕ͈e̞ jʌ̹nɦa̠p̚ kɛ̝ba̠ɭ ke̞βwe̞k̚
 국제 올림픽 경기 대회 kuk̚t͡ɕ͈e̞ o̞ɭʎimpʰik̚ kjʌ̹ŋɡi tɛ̝ɦø̞/ ~ /kuk̚t͡ɕ͈e̞ o̞ɭʎimpʰik̚ kjʌ̹ŋɡi tɛ̝βwe̞
 국제 음성 기호 kuk̚t͡ɕ͈e̞ ɯmsʰʌ̹ŋ kiβo̞
@@ -6356,7 +6221,6 @@
 국제기능올림픽대회 kuk̚t͡ɕ͈e̞ɡinɯŋo̞ɭʎimpʰik̚t͈ɛ̝ɦø̞/ ~ /kuk̚t͡ɕ͈e̞ɡinɯŋo̞ɭʎimpʰik̚t͈ɛ̝βwe̞
 국제기상통보식 kuk̚t͡ɕ͈e̞ɡisʰa̠ŋtʰo̞ŋbo̞ɕʰik̚
 국제로동절 kuk̚t͡ɕ͈e̞ɾo̞do̞ŋd͡ʑʌ̹ɭ
-국제 민간 항공 기구 <EMPTY>
 국제선 kuk̚t͡ɕ͈e̞sʰʌ̹n
 국제수지 kuk̚t͡ɕ͈e̞sʰud͡ʑi
 국제어 kuk̚t͡ɕ͈e̞ʌ̹
@@ -6371,8 +6235,6 @@
 국지기상 kuk̚t͡ɕ͈iɡisʰa̠ŋ
 국지기후 kuk̚t͡ɕ͈iɡiβu
 국지바람 kuk̚t͡ɕ͈iba̠ɾa̠m
-국지성 강수 <EMPTY>
-국지성 강수 <EMPTY>
 국지순환 kuk̚t͡ɕ͈isʰunβwa̠n
 국지예보 kuk̚t͡ɕ͈ije̞bo̞
 국지풍 kuk̚t͡ɕ͈ipʰuŋ
@@ -6622,7 +6484,6 @@
 굴썩굴썩 kuɭs͈ʌ̹k̚k͈uɭs͈ʌ̹k̚
 굴썩굴썩하다 kuɭs͈ʌ̹k̚k͈uɭs͈ʌ̹kʰa̠da̠
 굴썩하다 kuɭs͈ʌ̹kʰa̠da̠
-굴에 <EMPTY>
 굴욕 kuɾjok̚
 굴욕감 kuɾjok̚k͈a̠m
 굴장 kuɭd͡ʑa̠ŋ
@@ -6634,7 +6495,6 @@
 굴절면 kuɭd͡ʑʌ̹ɭmjʌ̹n
 굴절선 kuɭd͡ʑʌ̹ɭsʰʌ̹n
 굴절어 kuɭd͡ʑʌ̹ɾʌ̹
-굴절율 <EMPTY>
 굴절하다 kuɭd͡ʑʌ̹ɾɦa̠da̠
 굴지 kuɭd͡ʑi
 굴지성 kuɭd͡ʑisʰʌ̹ŋ
@@ -6651,11 +6511,9 @@
 굵다 kuk̚t͈a̠
 굵은 kuɭɡɯn
 굵음 kuɭɡɯm
-굶기를 부잣집 밥 먹듯 한다 <EMPTY>
 굶다 kumt͈a̠
 굶주리다 kumd͡ʑuɾida̠
 굻다 kuɭtʰa̠
-굼벵이도 구르는 재주가 있다 <EMPTY>
 굼슬겁다 kumsʰɯɭɡʌ̹p̚t͈a̠
 굼실 kumɕʰiɭ
 굼실거리다 kumɕʰiɭɡʌ̹ɾida̠
@@ -6681,7 +6539,6 @@
 굼질굼질하다 kumd͡ʑiɭɡumd͡ʑiɾɦa̠da̠
 굼질대다 kumd͡ʑiɭdɛ̝da̠
 굼질하다 kumd͡ʑiɾɦa̠da̠
-굼쩍 <EMPTY>
 굼튼튼 kumtʰɯntʰɯn
 굼틀 kumtʰɯɭ
 굼틀거리다 kumtʰɯɭɡʌ̹ɾida̠
@@ -6724,7 +6581,6 @@
 굽적하다 kup̚t͡ɕ͈ʌ̹kʰa̠da̠
 굽히다 kupʰida̠
 굿 kut̚
-굿이나 보고 떡이나 먹지 <EMPTY>
 궁 kuŋ
 궁겁다 kuŋɡʌ̹p̚t͈a̠
 궁구 kuŋɡu
@@ -6759,9 +6615,6 @@
 궁성 kuŋsʰʌ̹ŋ
 궁수 kuŋsʰu
 궁술 kuŋsʰuɭ
-궁시렁 <EMPTY>
-궁시렁거리다 <EMPTY>
-궁시렁궁시렁 <EMPTY>
 궁시렁궁시렁하다 kuŋɕʰiɾʌ̹ŋɡuŋɕʰiɾʌ̹ŋɦa̠da̠
 궁싯 kuŋɕʰit̚
 궁싯거리다 kuŋɕʰit̚k͈ʌ̹ɾida̠
@@ -6895,11 +6748,9 @@
 귀때기 kɥit͈ɛ̝ɡi/ ~ /kyt͈ɛ̝ɡi
 귀뚜라미 kɥit͈uɾa̠mi/ ~ /kyt͈uɾa̠mi
 귀뚤귀뚤 kɥit͈uɭɡɥit͈uɭ/ ~ /kyt͈uɭɡyt͈uɭ
-귀뜸 <EMPTY>
 귀띔 kɥit͈im/ ~ /kyt͈im
 귀리 kɥiɾi/ ~ /kyɾi
 귀마개 kɥima̠ɡɛ̝/ ~ /kyma̠ɡɛ̝
-귀믿터리 <EMPTY>
 귀밑 kɥimit̚/ ~ /kymit̚
 귀밑털 kɥimit̚tʰʌ̹ɭ/ ~ /kymit̚tʰʌ̹ɭ
 귀부 kɥibu/ ~ /kybu
@@ -6926,10 +6777,8 @@
 귀신 kɥiɕʰin/ ~ /kyɕʰin
 귀신날 kɥiɕʰinna̠ɭ/ ~ /kyɕʰinna̠ɭ
 귀신단오 kɥiɕʰinda̠no̞/ ~ /kyɕʰinda̠no̞
-귀신이 곡할 노릇 <EMPTY>
 귀싸대기 kɥis͈a̠dɛ̝ɡi/ ~ /kys͈a̠dɛ̝ɡi
 귀에고리 kɥie̞ɡo̞ɾi/ ~ /kye̞ɡo̞ɾi
-귀에다 말뚝을 박았나 <EMPTY>
 귀엣말 kɥie̞nma̠ɭ/ ~ /kye̞nma̠ɭ
 귀엣말하다 kɥie̞nma̠ɾɦa̠da̠/ ~ /kye̞nma̠ɾɦa̠da̠
 귀여운 kɥijʌ̹un/ ~ /kyjʌ̹un
@@ -6952,7 +6801,6 @@
 귀일법 kɥiiɭbʌ̹p̚/ ~ /kyiɭbʌ̹p̚
 귀일산 kɥiiɭsʰa̠n/ ~ /kyiɭsʰa̠n
 귀재 kɥid͡ʑɛ̝/ ~ /kyd͡ʑɛ̝
-귀절 <EMPTY>
 귀정 kɥid͡ʑʌ̹ŋ/ ~ /kyd͡ʑʌ̹ŋ
 귀족 kɥid͡ʑo̞k̚/ ~ /kyd͡ʑo̞k̚
 귀족계급 kɥid͡ʑo̞k̚k͈je̞ɡɯp̚/ ~ /kɥid͡ʑo̞k̚k͈e̞ɡɯp̚/ ~ /kyd͡ʑo̞k̚k͈je̞ɡɯp̚/ ~ /kyd͡ʑo̞k̚k͈e̞ɡɯp̚
@@ -6983,7 +6831,6 @@
 귀태 kɥitʰɛ̝/ ~ /kytʰɛ̝
 귀하 kɥiɦa̠/ ~ /kyɦa̠
 귀하다 kɥiɦa̠da̠/ ~ /kyɦa̠da̠
-귀한 자식 매 한 대 더 때리고 미운 자식 떡 한 개 더 준다 <EMPTY>
 귀함 kɥiɦa̠m/ ~ /kyɦa̠m
 귀항 kɥiɦa̠ŋ/ ~ /kyɦa̠ŋ
 귀항하다 kɥiɦa̠ŋɦa̠da̠/ ~ /kyɦa̠ŋɦa̠da̠
@@ -7006,7 +6853,6 @@
 귓구멍 kɥit̚k͈umʌ̹ŋ/ ~ /kyt̚k͈umʌ̹ŋ
 귓불 kɥit̚p͈uɭ/ ~ /kyt̚p͈uɭ
 귓속 kɥit̚s͈o̞k̚/ ~ /kyt̚s͈o̞k̚
-귓쌈 <EMPTY>
 규 kju
 규각 kjuɡa̠k̚
 규각나다 kjuɡa̠ŋna̠da̠
@@ -7101,8 +6947,6 @@
 귤색 kjuɭsʰɛ̝k̚
 귤피 kjuɭpʰi
 그 kɯ
-그 나물에 그 밥 <EMPTY>
-그 아비에 그 아들 <EMPTY>
 그간 kɯɡa̠n
 그거 kɯɡʌ̹
 그것 kɯɡʌ̹t̚
@@ -7136,7 +6980,6 @@
 그득그득 kɯdɯk̚k͈ɯdɯk̚
 그득그득하다 kɯdɯk̚k͈ɯdɯkʰa̠da̠
 그득그득히 kɯdɯk̚k͈ɯdɯkçi
-그득이 <EMPTY>
 그득하다 kɯdɯkʰa̠da̠
 그득히 kɯdɯkçi
 그들먹 kɯdɯɭmʌ̹k̚
@@ -7153,9 +6996,7 @@
 그뜩그뜩하다 kɯt͈ɯk̚k͈ɯt͈ɯkʰa̠da̠
 그뜩이 kɯt͈ɯɡi
 그뜩하다 kɯt͈ɯkʰa̠da̠
-그뜩히 <EMPTY>
 그라프 kɯɾa̠pʰɯ
-그람 <EMPTY>
 그랑프리 kɯɾa̠ŋpʰɯɾi
 그래 kɯɾɛ̝
 그래도 kɯɾɛ̝do̞
@@ -7173,7 +7014,6 @@
 그런데 kɯɾʌ̹nde̞
 그럴듯하다 kɯɾʌ̹ɭdɯtʰa̠da̠
 그럼 kɯɾʌ̹m
-그럼에도 불구하고 <EMPTY>
 그렁 kɯɾʌ̹ŋ
 그렁거리다 kɯɾʌ̹ŋɡʌ̹ɾida̠
 그렁그렁 kɯɾʌ̹ŋɡɯɾʌ̹ŋ
@@ -7257,7 +7097,6 @@
 그저끼 kɯd͡ʑʌ̹k͈i
 그전 kɯd͡ʑʌ̹n
 그제 kɯd͡ʑe̞
-그제서야 <EMPTY>
 그제야 kɯd͡ʑe̞ja̠
 그중 kɯd͡ʑuŋ
 그지 kɯd͡ʑi
@@ -7923,7 +7762,6 @@
 급파 kɯp̚pʰa̠
 급파되다 kɯp̚pʰa̠dø̞da̠/ ~ /kɯp̚pʰa̠dwe̞da̠
 급파하다 kɯp̚pʰa̠ɦa̠da̠
-급하기는 우물에 가서 숭늉 달라겠다 <EMPTY>
 급하다 kɯpʰa̠da̠
 급행 kɯpʰɛ̝ŋ
 급행권 kɯpʰɛ̝ŋɡwʌ̹n
@@ -8053,7 +7891,6 @@
 기념탑 kiɲjʌ̹mtʰa̠p̚
 기념품 kiɲjʌ̹mpʰum
 기념하다 kiɲjʌ̹mɦa̠da̠
-기는 놈 위에 나는 놈이 있다 <EMPTY>
 기능 kinɯŋ
 기능검사 kinɯŋɡʌ̹msʰa̠
 기능공 kinɯŋɡo̞ŋ
@@ -8238,7 +8075,6 @@
 기상 경보 kisʰa̠ŋ kjʌ̹ŋbo̞
 기상 관측 kisʰa̠ŋ kwa̠nt͡ɕʰɯk̚
 기상 관측선 kisʰa̠ŋ kwa̠nt͡ɕʰɯks͈ʌ̹n
-기상 요소 <EMPTY>
 기상 현상 kisʰa̠ŋ çjʌ̹nsʰa̠ŋ
 기상개황 kisʰa̠ŋɡɛ̝βwa̠ŋ
 기상 경보 kisʰa̠ŋ kjʌ̹ŋbo̞
@@ -8261,7 +8097,6 @@
 기상브리핑 kisʰa̠ŋbɯɾipʰiŋ
 기상실황 kisʰa̠ŋɕʰiɾβwa̠ŋ
 기상예보 kisʰa̠ŋje̞bo̞
-기상 요소 <EMPTY>
 기상위성 kisʰa̠ŋɥisʰʌ̹ŋ/ ~ /kisʰa̠ŋysʰʌ̹ŋ
 기상인자 kisʰa̠ŋind͡ʑa̠
 기상자료 kisʰa̠ŋd͡ʑa̠ɾjo
@@ -8493,7 +8328,6 @@
 기원후 kiwʌ̹nβu
 기유 kiju
 기율 kijuɭ
-기으르다 <EMPTY>
 기윽 kiɯk̚
 기이 kii
 기이하다 kiiɦa̠da̠
@@ -8652,7 +8486,6 @@
 기획하다 kiɦø̞kʰa̠da̠/ ~ /kiβwe̞kʰa̠da̠
 기효 kiʝjo
 기후 kiβu
-기후 자료 <EMPTY>
 기후감시 kiβuɡa̠mɕʰi
 기후경향 kiβuɡjʌ̹ŋʝja̠ŋ
 기후계절관측 kiβuɡje̞d͡ʑʌ̹ɭɡwa̠nt͡ɕʰɯk̚/ ~ /kiβuɡe̞d͡ʑʌ̹ɭɡwa̠nt͡ɕʰɯk̚
@@ -8676,13 +8509,11 @@
 기후요법 kiβujobʌ̹p̚
 기후요소 kiβujosʰo̞
 기후인자 kiβuind͡ʑa̠
-기후 자료 <EMPTY>
 기후적응 kiβud͡ʑʌ̹ɡɯŋ
 기후전망 kiβud͡ʑʌ̹nma̠ŋ
 기후조절 kiβud͡ʑo̞d͡ʑʌ̹ɭ
 기후표준평년값 kiβupʰjod͡ʑunpʰjʌ̹ŋɲjʌ̹nɡa̠p̚
 기후학 kiβuɦa̠k̚
-기후학적 예보 <EMPTY>
 기후한계 kiβuɦa̠nɡje̞/ ~ /kiβuɦa̠nɡe̞
 기후형 kiβuʝjʌ̹ŋ
 긴 kin
@@ -8707,7 +8538,6 @@
 긴박 kinba̠k̚
 긴박감 kinba̠k̚k͈a̠m
 긴박하다 kinba̠kʰa̠da̠
-긴병에 효자 없다 <EMPTY>
 긴요 kiɲjo
 긴요하다 kiɲjoɦa̠da̠
 긴장 kind͡ʑa̠ŋ
@@ -8750,7 +8580,6 @@
 길쑴히 kiɭs͈umʝi
 길어지다 kiɾʌ̹d͡ʑida̠
 길이 kiɾi
-길이 아니면 가지 말고 말이 아니면 탓하지 마라 <EMPTY>
 길일 kiɾiɭ
 길조 kiɭd͡ʑo̞
 길죽하다 kiɭd͡ʑukʰa̠da̠
@@ -8785,7 +8614,6 @@
 김충신 kimt͡ɕʰuŋɕʰin
 김치 kimt͡ɕʰi
 김치찌개 kimt͡ɕʰit͡ɕ͈iɡɛ̝
-김칫국부터 마신다 <EMPTY>
 깁다 ˈkiːp̚t͈a̠
 깁스 kips͈ɯ
 깃 kit̚
@@ -8805,7 +8633,6 @@
 까근까근 k͈a̠ɡɯnk͈a̠ɡɯn
 까근까근하다 k͈a̠ɡɯnk͈a̠ɡɯnɦa̠da̠
 까근하다 k͈a̠ɡɯnɦa̠da̠
-까께 <EMPTY>
 까꾸러뜨리다 k͈a̠k͈uɾʌ̹t͈ɯɾida̠
 까꾸러지다 k͈a̠k͈uɾʌ̹d͡ʑida̠
 까꾸러트리다 k͈a̠k͈uɾʌ̹tʰɯɾida̠
@@ -8901,8 +8728,6 @@
 까리브 해 k͈a̠ɾibɯ hɛ̝
 까마구 k͈a̠ma̠ɡu
 까마귀 k͈a̠ma̠ɡɥi/ ~ /k͈a̠ma̠ɡy
-까마귀 날자 배 떨어진다 <EMPTY>
-까마귀가 아저씨 하겠다 <EMPTY>
 까마득 k͈a̠ma̠dɯk̚
 까마득하다 k͈a̠ma̠dɯkʰa̠da̠
 까마득히 k͈a̠ma̠dɯkçi
@@ -8925,7 +8750,6 @@
 까막대다 k͈a̠ma̠k̚t͈ɛ̝da̠
 까막조개 k͈a̠ma̠k̚t͡ɕ͈o̞ɡɛ̝
 까만색 k͈a̠ma̠nsʰɛ̝k̚
-까망 <EMPTY>
 까맣다 k͈a̠ma̠tʰa̠
 까먹다 k͈a̠mʌ̹k̚t͈a̠
 까메룬 k͈a̠me̞ɾun
@@ -9015,7 +8839,6 @@
 까실까실 k͈a̠ɕʰiɭk͈a̠ɕʰiɭ
 까실까실하다 k͈a̠ɕʰiɭk͈a̠ɕʰiɾɦa̠da̠
 까실하다 k͈a̠ɕʰiɾɦa̠da̠
-까아나 <EMPTY>
 까악 k͈a̠a̠k̚
 까악거리다 k͈a̠a̠k̚k͈ʌ̹ɾida̠
 까악까악 k͈a̠a̠k̚k͈a̠a̠k̚
@@ -9067,7 +8890,6 @@
 까탈대다 k͈a̠tʰa̠ɭdɛ̝da̠
 까탈스럽다 k͈a̠tʰa̠ɭsʰɯɾʌ̹p̚t͈a̠
 까탈지다 k͈a̠tʰa̠ɭd͡ʑida̠
-까투리 <EMPTY>
 까풀 k͈a̠pʰuɭ
 까풀지다 k͈a̠pʰuɭd͡ʑida̠
 까히라 k͈a̠ʝiɾa̠
@@ -9225,7 +9047,6 @@
 깜작이다 k͈a̠md͡ʑa̠ɡida̠
 깜작하다 k͈a̠md͡ʑa̠kʰa̠da̠
 깜장 k͈a̠md͡ʑa̠ŋ
-깜정 <EMPTY>
 깜짝 k͈a̠mt͡ɕ͈a̠k̚
 깜짝거리다 k͈a̠mt͡ɕ͈a̠k̚k͈ʌ̹ɾida̠
 깜짝깜짝 k͈a̠mt͡ɕ͈a̠k̚k͈a̠mt͡ɕ͈a̠k̚
@@ -9233,7 +9054,6 @@
 깜짝대다 k͈a̠mt͡ɕ͈a̠k̚t͈ɛ̝da̠
 깜짝이다 k͈a̠mt͡ɕ͈a̠ɡida̠
 깜짝하다 k͈a̠mt͡ɕ͈a̠kʰa̠da̠
-깜쪽같다 <EMPTY>
 깜찍 k͈a̠mt͡ɕ͈ik̚
 깜찍스럽다 k͈a̠mt͡ɕ͈iks͈ɯɾʌ̹p̚t͈a̠
 깜찍하다 k͈a̠mt͡ɕ͈ikʰa̠da̠
@@ -9448,7 +9268,6 @@
 꺼꾸러뜨리다 k͈ʌ̹k͈uɾʌ̹t͈ɯɾida̠
 꺼꾸러지다 k͈ʌ̹k͈uɾʌ̹d͡ʑida̠
 꺼꾸러트리다 k͈ʌ̹k͈uɾʌ̹tʰɯɾida̠
-꺼꾸로 <EMPTY>
 꺼끄러기 k͈ʌ̹k͈ɯɾʌ̹ɡi
 꺼끌꺼끌 k͈ʌ̹k͈ɯɭk͈ʌ̹k͈ɯɭ
 꺼끌꺼끌하다 k͈ʌ̹k͈ɯɭk͈ʌ̹k͈ɯɾɦa̠da̠
@@ -9767,10 +9586,8 @@
 껑충하다 k͈ʌ̹ŋt͡ɕʰuŋɦa̠da̠
 께 k͈e̞
 께레따로 주 k͈e̞ɾe̞t͈a̠ɾo̞ t͡ɕu
-께무디안 <EMPTY>
 께서 k͈e̞sʰʌ̹
 께지럭 k͈e̞d͡ʑiɾʌ̹k̚
-껠린찌 <EMPTY>
 꼬기다 k͈o̞ɡida̠
 꼬기작 k͈o̞ɡid͡ʑa̠k̚
 꼬기작거리다 k͈o̞ɡid͡ʑa̠k̚k͈ʌ̹ɾida̠
@@ -9783,7 +9600,6 @@
 꼬깃꼬깃 k͈o̞ɡit̚k͈o̞ɡit̚
 꼬깃꼬깃하다 k͈o̞ɡit̚k͈o̞ɡitʰa̠da̠
 꼬깃대다 k͈o̞ɡit̚t͈ɛ̝da̠
-꼬깝다 <EMPTY>
 꼬꼬댁 k͈o̞k͈o̞dɛ̝k̚
 꼬꼬댁거리다 k͈o̞k͈o̞dɛ̝k̚k͈ʌ̹ɾida̠
 꼬꼬댁꼬꼬댁 k͈o̞k͈o̞dɛ̝k̚k͈o̞k͈o̞dɛ̝k̚
@@ -9811,8 +9627,6 @@
 꼬들꼬들하다 k͈o̞dɯɭk͈o̞dɯɾɦa̠da̠
 꼬뜨디봐르 k͈o̞t͈ɯdibwa̠ɾɯ
 꼬락서니 k͈o̞ɾa̠ks͈ʌ̹ni
-꼬랑내 <EMPTY>
-꼬량주 <EMPTY>
 꼬르륵 k͈o̞ɾɯɾɯk̚
 꼬르륵거리다 k͈o̞ɾɯɾɯk̚k͈ʌ̹ɾida̠
 꼬르륵꼬르륵 k͈o̞ɾɯɾɯk̚k͈o̞ɾɯɾɯk̚
@@ -9827,8 +9641,6 @@
 꼬리 k͈o̞ɾi
 꼬리를 치다 k͈o̞ɾiɾɯɭ t͡ɕʰida̠
 꼬리를 치다 k͈o̞ɾiɾɯɭ t͡ɕʰida̠
-꼬리타분하다 <EMPTY>
-꼬리탑탑하다 <EMPTY>
 꼬마 k͈o̞ma̠
 꼬마잠자리 k͈o̞ma̠d͡ʑa̠md͡ʑa̠ɾi
 꼬마태풍 k͈o̞ma̠tʰɛ̝pʰuŋ
@@ -9962,12 +9774,10 @@
 꼭대기 k͈o̞k̚t͈ɛ̝ɡi
 꼭두각시 k͈o̞k̚t͈uɡa̠kɕ͈i
 꼭두새벽 k͈o̞k̚t͈usʰɛ̝bjʌ̹k̚
-꼭두점 <EMPTY>
 꼭지 k͈o̞k̚t͡ɕ͈i
 꼭짓점 k͈o̞k̚t͡ɕ͈it̚t͡ɕ͈ʌ̹m
 꼭하다 ˈk͈o̞ːkʰa̠da̠
 꼰대 k͈o̞ndɛ̝
-꼰소난 <EMPTY>
 꼲다 k͈o̞ntʰa̠
 꼴 k͈o̞ɭ
 꼴값 k͈o̞ɭɡa̠p̚
@@ -10004,7 +9814,6 @@
 꼼지락대다 k͈o̞md͡ʑiɾa̠k̚t͈ɛ̝da̠
 꼼짝 k͈o̞mt͡ɕ͈a̠k̚
 꼽다 k͈o̞p̚t͈a̠
-꼽슬머리 <EMPTY>
 꼽히다 k͈o̞pʰida̠
 꼿꼿 k͈o̞t̚k͈o̞t̚
 꼿꼿이 k͈o̞t̚k͈o̞ɕʰi
@@ -10289,7 +10098,6 @@
 꾸시시 k͈uɕʰiɕʰi
 꾸시시하다 k͈uɕʰiɕʰiɦa̠da̠
 꾸알라룸뿌르 k͈ua̠ɭɭa̠ɾump͈uɾɯ
-꾸어다 놓은 보릿자루 <EMPTY>
 꾸역 k͈ujʌ̹k̚
 꾸역거리다 k͈ujʌ̹k̚k͈ʌ̹ɾida̠
 꾸역꾸역 k͈ujʌ̹k̚k͈ujʌ̹k̚
@@ -10335,7 +10143,6 @@
 꿇다 k͈uɭtʰa̠
 꿈 k͈um
 꿈꾸다 k͈umk͈uda̠
-꿈보다 해몽이 좋다 <EMPTY>
 꿈속 k͈umsʰo̞k̚
 꿈실 k͈umɕʰiɭ
 꿈실거리다 k͈umɕʰiɭɡʌ̹ɾida̠
@@ -10379,14 +10186,12 @@
 꿍얼 k͈uŋʌ̹ɭ
 꿔바로우 k͈wʌ̹ba̠ɾo̞u
 꿩 k͈wʌ̹ŋ
-꿩 먹고 알 먹는다 <EMPTY>
 끄다 k͈ɯda̠
 끄덕 k͈ɯdʌ̹k̚
 끄덕이다 k͈ɯdʌ̹ɡida̠
 끄르륵 k͈ɯɾɯɾɯk̚
 끄먹 k͈ɯmʌ̹k̚
 끄물 k͈ɯmuɭ
-끄치다 <EMPTY>
 끄트머리 k͈ɯtʰɯmʌ̹ɾi
 끅 k͈ɯk̚
 끈 k͈ɯn
@@ -10560,7 +10365,6 @@
 낑낑대다 k͈iŋk͈iŋdɛ̝da̠
 낑낑하다 k͈iŋk͈iŋɦa̠da̠
 나 na̠
-나ᇚ <EMPTY>
 나가곤드라지다 na̠ɡa̠ɡo̞ndɯɾa̠d͡ʑida̠
 나가군드러지다 na̠ɡa̠ɡundɯɾʌ̹d͡ʑida̠
 나가다 na̠ɡa̠da̠
@@ -10663,7 +10467,6 @@
 나릿가 na̠ɾit̚k͈a̠
 나릿나릿 na̠ɾinna̠ɾit̚
 나릿나릿하다 na̠ɾinna̠ɾitʰa̠da̠
-나릿믈 <EMPTY>
 나릿하다 na̠ɾitʰa̠da̠
 나마 na̠ma̠
 나마가시 na̠ma̠ɡa̠ɕʰi
@@ -10803,7 +10606,6 @@
 나약하다 na̠ja̠kʰa̠da̠
 나열 na̠jʌ̹ɭ
 나열하다 na̠jʌ̹ɾɦa̠da̠
-나염 <EMPTY>
 나오다 na̠o̞da̠
 나와틀어 na̠wa̠tʰɯɾʌ̹
 나왕 na̠wa̠ŋ
@@ -10842,7 +10644,6 @@
 나전칠기 na̠d͡ʑʌ̹nt͡ɕʰiɭɡi
 나절 na̠d͡ʑʌ̹ɭ
 나중 na̠d͡ʑuŋ
-나중에 보자는 사람 무섭지 않다 <EMPTY>
 나지다 na̠d͡ʑida̠
 나지막 na̠d͡ʑima̠k̚
 나지막이 na̠d͡ʑima̠ɡi
@@ -10871,7 +10672,6 @@
 나태심 na̠tʰɛ̝ɕʰim
 나태하다 na̠tʰɛ̝ɦa̠da̠
 나태해지다 na̠tʰɛ̝ɦɛ̝d͡ʑida̠
-나토다 <EMPTY>
 나트륨 na̠tʰɯɾjum
 나팔 na̠pʰa̠ɭ
 나팔거리다 na̠pʰa̠ɭɡʌ̹ɾida̠
@@ -10941,7 +10741,6 @@
 낙선자 na̠ks͈ʌ̹nd͡ʑa̠
 낙선하다 na̠ks͈ʌ̹nɦa̠da̠
 낙성 na̠ks͈ʌ̹ŋ
-낙숫물이 댓돌을 뚫는다 <EMPTY>
 낙승 na̠ks͈ɯŋ
 낙승하다 na̠ks͈ɯŋɦa̠da̠
 낙심 na̠kɕ͈im
@@ -11169,7 +10968,6 @@
 날아오다 na̠ɾa̠o̞da̠
 날아오르다 na̠ɾa̠o̞ɾɯda̠
 날염 na̠ɾjʌ̹m
-날옺 <EMPTY>
 날으는 na̠ɾɯnɯn
 날인 na̠ɾin
 날인하다 na̠ɾinɦa̠da̠
@@ -11318,7 +11116,6 @@
 남북문제 na̠mbuŋmund͡ʑe̞
 남북조 na̠mbuk̚t͡ɕ͈o̞
 남북통일 na̠mbuk̚tʰo̞ŋiɭ
-남비 <EMPTY>
 남비탕 na̠mbitʰa̠ŋ
 남빙양 na̠mbiŋja̠ŋ
 남사스럽다 na̠msʰa̠sʰɯɾʌ̹p̚t͈a̠
@@ -11333,7 +11130,6 @@
 남새 na̠msʰɛ̝
 남새밭 na̠msʰɛ̝ba̠t̚
 남색 na̠msʰɛ̝k̚
-남생이 <EMPTY>
 남서 na̠msʰʌ̹
 남서계절풍 na̠msʰʌ̹ɡje̞d͡ʑʌ̹ɭpʰuŋ/ ~ /na̠msʰʌ̹ɡe̞d͡ʑʌ̹ɭpʰuŋ
 남서부 na̠msʰʌ̹bu
@@ -11384,13 +11180,7 @@
 남위 na̠mɥi/ ~ /na̠my
 남위선 na̠mɥisʰʌ̹n/ ~ /na̠mysʰʌ̹n
 남유럽 na̠mjuɾʌ̹p̚
-남의 눈에 눈물 내면 제 눈에는 피눈물이 난다 <EMPTY>
-남의 다리 긁는다 <EMPTY>
-남의 손의 떡은 커 보인다 <EMPTY>
-남의 자식 고운 데 없고 내 자식 미운 데 없다 <EMPTY>
 남의눈 na̠mɰinun
-남이 서울 간다니 저도 간단다 <EMPTY>
-남이야 전봇대로 이를 쑤시건 말건 <EMPTY>
 남인 na̠min
 남자 na̠md͡ʑa̠
 남자친구 na̠md͡ʑa̠t͡ɕʰinɡu
@@ -11438,8 +11228,6 @@
 남파되다 na̠mpʰa̠dø̞da̠/ ~ /na̠mpʰa̠dwe̞da̠
 남파하다 na̠mpʰa̠ɦa̠da̠
 남편 na̠mpʰjʌ̹n
-남편 복 없는 년은 자식 복도 없다 <EMPTY>
-남편 죽었다고 섧게 울던 년이 시집은 먼저 간다 <EMPTY>
 남편감 na̠mpʰjʌ̹nɡa̠m
 남포등 na̠mpʰo̞dɯŋ
 남폿불 na̠mpʰo̞t̚p͈uɭ/ ~ /na̠mpʰo̞p͈uɭ
@@ -11545,10 +11333,6 @@
 낱자 na̠t̚t͡ɕ͈a̠
 낳다 ˈna̠ːtʰa̠
 내 nɛ̝
-내 배가 부르니 종의 배고픔을 모른다 <EMPTY>
-내 사전에 불가능이란 없다 <EMPTY>
-내 손톱에 장을 지져라 <EMPTY>
-내 할 말을 사돈이 한다 <EMPTY>
 내가 nɛ̝ɡa̠
 내각 nɛ̝ɡa̠k̚
 내과 nɛ̝ɡwa̠
@@ -11556,7 +11340,6 @@
 내꼰지다 nɛ̝k͈o̞nd͡ʑida̠
 내내 nɛ̝nɛ̝
 내년 nɛ̝ɲjʌ̹n
-내노라하다 <EMPTY>
 내놓다 nɛ̝no̞tʰa̠
 내다 nɛ̝da̠
 내다보다 nɛ̝da̠bo̞da̠
@@ -11577,7 +11360,6 @@
 내륙안개 nɛ̝ɾjuɡa̠nɡɛ̝
 내리다 nɛ̝ɾida̠
 내리바람 nɛ̝ɾiba̠ɾa̠m
-내리사랑은 있어도 치사랑은 없다 <EMPTY>
 내림차순 nɛ̝ɾimt͡ɕʰa̠sʰun
 내명 nɛ̝mjʌ̹ŋ
 내명하다 nɛ̝mjʌ̹ŋɦa̠da̠
@@ -11599,7 +11381,6 @@
 내심 nɛ̝ɕʰim
 내역 nɛ̝jʌ̹k̚
 내외 nɛ̝ø̞/ ~ /nɛ̝we̞
-내외간도 돌아누우면 남이다 <EMPTY>
 내용 nɛ̝joŋ
 내용물 nɛ̝joŋmuɭ
 내우외환 nɛ̝uø̞βwa̠n/ ~ /nɛ̝uwe̞βwa̠n
@@ -11657,8 +11438,6 @@
 냉면 nɛ̝ŋmjʌ̹n
 냉방 nɛ̝ŋba̠ŋ
 냉방도일 nɛ̝ŋba̠ŋdo̞iɭ
-냉수 먹고 속 차려라 <EMPTY>
-냉수 먹고 이 쑤시기 <EMPTY>
 냉심 nɛ̝ŋɕʰim
 냉엄 nɛ̝ŋʌ̹m
 냉연 nɛ̝ŋjʌ̹n
@@ -11834,7 +11613,6 @@
 넌들넌들하다 nʌ̹ndɯɭɭʌ̹ndɯɾɦa̠da̠
 넌들대다 nʌ̹ndɯɭdɛ̝da̠
 넌떡 nʌ̹nt͈ʌ̹k̚
-넌센스 <EMPTY>
 넌적거리다 nʌ̹nd͡ʑʌ̹k̚k͈ʌ̹ɾida̠
 넌적넌적 nʌ̹nd͡ʑʌ̹ŋnʌ̹nd͡ʑʌ̹k̚
 넌적넌적하다 nʌ̹nd͡ʑʌ̹ŋnʌ̹nd͡ʑʌ̹kʰa̠da̠
@@ -11861,7 +11639,6 @@
 널름대다 nʌ̹ɭɭɯmdɛ̝da̠
 널름하다 nʌ̹ɭɭɯmɦa̠da̠
 널리 nʌ̹ɭʎi
-널린별떼 <EMPTY>
 널무덤 nʌ̹ɭmudʌ̹m
 널문 nʌ̹ɭmun
 널벽 nʌ̹ɭbjʌ̹k̚
@@ -11983,7 +11760,6 @@
 네제곱 ne̞d͡ʑe̞ɡo̞p̚
 네지 ne̞d͡ʑi
 네지마와시 ne̞d͡ʑima̠wa̠ɕʰi
-네째 <EMPTY>
 네코 ne̞kʰo̞
 네타바이 ne̞tʰa̠ba̠i
 네티즌 ne̞tʰid͡ʑɯn
@@ -12066,15 +11842,12 @@
 노동력 no̞do̞ŋɲjʌ̹k̚
 노동법 no̞do̞ŋbʌ̹p̚
 노동복 no̞do̞ŋbo̞k̚
-노동삼권 <EMPTY>
 노동자 no̞do̞ŋd͡ʑa̠
 노동절 no̞do̞ŋd͡ʑʌ̹ɭ
-노동조합 <EMPTY>
 노란 no̞ɾa̠n
 노란색 no̞ɾa̠nsʰɛ̝k̚
 노람 no̞ɾa̠m
 노랑 no̞ɾa̠ŋ
-노랑색 <EMPTY>
 노랗다 no̞ɾa̠tʰa̠
 노래 no̞ɾɛ̝
 노래미 no̞ɾɛ̝mi
@@ -12110,7 +11883,6 @@
 노름 no̞ɾɯm
 노름노름 no̞ɾɯmno̞ɾɯm
 노름노름하다 no̞ɾɯmno̞ɾɯmɦa̠da̠
-노름에 미쳐 나면 여편네도 팔아먹는다 <EMPTY>
 노름하다 no̞ɾɯmɦa̠da̠
 노릇 no̞ɾɯt̚
 노리 no̞ɾi
@@ -12128,7 +11900,6 @@
 노릿이 no̞ɾiɕʰi
 노릿하다 no̞ɾitʰa̠da̠
 노메달 no̞me̞da̠ɭ
-노모로 <EMPTY>
 노무 no̞mu
 노벨륨 no̞be̞ɭʎjum
 노보시비르스크 no̞bo̞ɕʰibiɾɯsʰɯkxɯ
@@ -12161,7 +11932,6 @@
 노착지근 no̞t͡ɕʰa̠k̚t͡ɕ͈iɡɯn
 노착지근하다 no̞t͡ɕʰa̠k̚t͡ɕ͈iɡɯnɦa̠da̠
 노착지근히 no̞t͡ɕʰa̠k̚t͡ɕ͈iɡɯnʝi
-노처녀가 시집을 가려니 등창이 난다 <EMPTY>
 노출 no̞t͡ɕʰuɭ
 노크 no̞kxɯ
 노트 no̞tʰɯ
@@ -12255,7 +12025,6 @@
 논문 no̞nmun
 논물 no̞nmuɭ
 논스톱 no̞nsʰɯtʰo̞p̚
-논우렁이 <EMPTY>
 논의하다 no̞nɰiɦa̠da̠
 논쟁 no̞nd͡ʑɛ̝ŋ
 논쟁되다 no̞nd͡ʑɛ̝ŋdø̞da̠/ ~ /no̞nd͡ʑɛ̝ŋdwe̞da̠
@@ -12268,7 +12037,6 @@
 놀놀하다 no̞ɭɭo̞ɾɦa̠da̠
 놀놀히 no̞ɭɭo̞ɾʝi
 놀다 no̞ɭda̠
-놀던 계집이 결딴나도 엉덩이 짓은 남는다 <EMPTY>
 놀라다 no̞ɭɭa̠da̠
 놀라움 no̞ɭɭa̠um
 놀란돌 no̞ɭɭa̠ndo̞ɭ
@@ -12329,7 +12097,6 @@
 높으락낮으락하다 no̞pʰɯɾa̠ŋna̠d͡ʑɯɾa̠kʰa̠da̠
 높은 no̞pʰɯn
 높은 곳 공포증 no̞pʰɯn ko̞t̚ ko̞ŋpʰo̞d͡ʑɯŋ
-높은 나무에는 바람이 세다 <EMPTY>
 높은 곳 공포증 no̞pʰɯn ko̞t̚ ko̞ŋpʰo̞d͡ʑɯŋ
 높음 no̞pʰɯm
 높이 no̞pʰi
@@ -12439,7 +12206,6 @@
 누릇 nuɾɯt̚
 누리 nuɾi
 누리개 nuɾiɡɛ̝
-누리광나모 <EMPTY>
 누리그물 nuɾiɡɯmuɭ
 누리꾼 nuɾik͈un
 누리끼리 nuɾik͈iɾi
@@ -12472,10 +12238,7 @@
 누옥 nuo̞k̚
 누왁쇼뜨 nuwa̠kɕ͈jot͈ɯ
 누운헤염 nuunɦe̞jʌ̹m
-누울 자리 봐 가며 발을 뻗어라 <EMPTY>
-누워서 침 뱉기 <EMPTY>
 누이 nui
-누이 좋고 매부 좋고 <EMPTY>
 누적강수량 nud͡ʑʌ̹k̚k͈a̠ŋsʰuɾja̠ŋ
 누적온도 nud͡ʑʌ̹ɡo̞ndo̞
 누전 nud͡ʑʌ̹n
@@ -12521,8 +12284,6 @@
 눅질눅질하다 nuk̚t͡ɕ͈iɭɭuk̚t͡ɕ͈iɾɦa̠da̠
 눅질하다 nuk̚t͡ɕ͈iɾɦa̠da̠
 눈 nun
-눈 가리고 아웅 <EMPTY>
-눈 감으면 코 베어 먹을 세상 <EMPTY>
 눈가 nunɡa̠
 눈감다 nunɡa̠mda̠
 눈구멍 nunɡumʌ̹ŋ
@@ -12567,13 +12328,11 @@
 눈알 nuna̠ɭ
 눈앞 nuna̠p̚
 눈얼음 nunʌ̹ɾɯm
-눈에 콩깍지가 씌었다 <EMPTY>
 눈인사 nuninsʰa̠
 눈인사하다 nuninsʰa̠ɦa̠da̠
 눈자곱다 nund͡ʑa̠ɡo̞p̚t͈a̠
 눈점 nund͡ʑʌ̹m
 눈치 nunt͡ɕʰi
-눈치가 빠르면 절에 가도 젓갈을 얻어먹는다 <EMPTY>
 눈치기차 nunt͡ɕʰiɡit͡ɕʰa̠
 눌눌 nuɭɭuɭ
 눌면 nuɭmjʌ̹n
@@ -12601,7 +12360,6 @@
 뉴스 ɲjusʰɯ
 뉴스레터 ɲjusʰɯɾe̞tʰʌ̹
 뉴올리언스 ɲjuo̞ɭʎiʌ̹nsʰɯ
-뉴우스 <EMPTY>
 뉴질랜드 ɲjud͡ʑiɭɭɛ̝ndɯ
 뉴트리아 ɲjutʰɯɾia̠
 느근 nɯɡɯn
@@ -12751,9 +12509,6 @@
 늘큰하다 nɯɭkxɯnɦa̠da̠
 늘큰히 nɯɭkxɯnʝi
 늙다 nɯk̚t͈a̠
-늙으면 눈물이 헤퍼진다 <EMPTY>
-늙으면 설움이 많다 <EMPTY>
-늙으면 아이 된다 <EMPTY>
 늙은이 nɯɭɡɯni
 늠렬 nɯmɲjʌ̹ɭ
 늠름 nɯmnɯm
@@ -12797,7 +12552,6 @@
 능사 nɯŋsʰa̠
 능선 nɯŋsʰʌ̹n
 능소능대 nɯŋsʰo̞nɯŋdɛ̝
-능소니 <EMPTY>
 능수 nɯŋsʰu
 능숙 nɯŋsʰuk̚
 능욕 nɯŋjok̚
@@ -12819,12 +12573,9 @@
 능필 nɯŋpʰiɭ
 늦 nɯt̚
 늦가을 nɯt̚k͈a̠ɯɭ
-늦게 배운 도둑이 날 새는 줄 모른다 <EMPTY>
 늦겨울 nɯt̚k͈jʌ̹uɭ
-늦깍이 <EMPTY>
 늦다 nɯt̚t͈a̠
 늦더위 nɯt̚t͈ʌ̹ɥi/ ~ /nɯt̚t͈ʌ̹y
-늦바람이 용마름을 벗긴다 <EMPTY>
 늦봄 nɯt̚p͈o̞m
 늦서리 nɯt̚s͈ʌ̹ɾi
 늦어지다 nɯd͡ʑʌ̹d͡ʑida̠
@@ -12847,7 +12598,6 @@
 니꼴라이 nik͈o̞ɭɭa̠i
 니꾸사꾸 nik͈usʰa̠k͈u
 니빠 nip͈a̠
-니야기 <EMPTY>
 니얼니얼 niʌ̹ɭʎiʌ̹ɭ
 니얼니얼하다 niʌ̹ɭʎiʌ̹ɾɦa̠da̠
 니연니연 nijʌ̹nnijʌ̹n
@@ -12872,9 +12622,7 @@
 닌자 nind͡ʑa̠
 닌진 nind͡ʑin
 님 nim
-닙 <EMPTY>
 다 ta̠
-다 된 죽에 코 풀기 <EMPTY>
 다가 ta̠ɡa̠
 다가가다 ta̠ɡa̠ɡa̠da̠
 다가닥 ta̠ɡa̠da̠k̚
@@ -12916,7 +12664,6 @@
 다기 ta̠ɡi
 다까르 ta̠k͈a̠ɾɯ
 다쿠앙 ta̠kʰua̠ŋ
-다나우 <EMPTY>
 다난 ta̠na̠n
 다난하다 ta̠na̠nɦa̠da̠
 다녀가다 ta̠ɲjʌ̹ɡa̠da̠
@@ -13547,7 +13294,6 @@
 닫히다 ta̠t͡ɕʰida̠
 닫힌순환 ta̠tʰinsʰunβwa̠n
 달 ta̠ɭ
-달 보고 짖는 개 <EMPTY>
 달가닥 ta̠ɭɡa̠da̠k̚
 달가닥거리다 ta̠ɭɡa̠da̠k̚k͈ʌ̹ɾida̠
 달가닥달가닥 ta̠ɭɡa̠da̠k̚t͈a̠ɭɡa̠da̠k̚
@@ -13560,8 +13306,6 @@
 달가당달가당하다 ta̠ɭɡa̠da̠ŋda̠ɭɡa̠da̠ŋɦa̠da̠
 달가당대다 ta̠ɭɡa̠da̠ŋdɛ̝da̠
 달가당하다 ta̠ɭɡa̠da̠ŋɦa̠da̠
-달가락 <EMPTY>
-달가락달가락 <EMPTY>
 달가림 ta̠ɭɡa̠ɾim
 달각 ta̠ɭɡa̠k̚
 달각거리다 ta̠ɭɡa̠k̚k͈ʌ̹ɾida̠
@@ -13579,8 +13323,6 @@
 달강이다 ta̠ɭɡa̠ŋida̠
 달강하다 ta̠ɭɡa̠ŋɦa̠da̠
 달걀 ta̠ɭɡja̠ɭ
-달걀로 바위 치기 <EMPTY>
-달걀에도 뼈가 있다 <EMPTY>
 달곰 ta̠ɭɡo̞m
 달곰삼삼 ta̠ɭɡo̞msʰa̠msʰa̠m
 달곰새금 ta̠ɭɡo̞msʰɛ̝ɡɯm
@@ -13648,7 +13390,6 @@
 달달하다 ta̠ɭda̠ɾɦa̠da̠
 달덕 ta̠ɭdʌ̹k̚
 달도 ta̠ɭdo̞
-달도 차면 기운다 <EMPTY>
 달뜨다 ta̠ɭt͈ɯda̠
 달라당 ta̠ɭɭa̠da̠ŋ
 달라당거리다 ta̠ɭɭa̠da̠ŋɡʌ̹ɾida̠
@@ -13710,7 +13451,6 @@
 달못찬아이 ta̠ɭmo̞t̚t͡ɕʰa̠na̠i
 달무늬 ta̠ɭmuni
 달무리 ta̠ɭmuɾi
-달밤에 삿갓 쓰고 나온다 <EMPTY>
 달별 ta̠ɭbjʌ̹ɭ
 달보드레 ta̠ɭbo̞dɯɾe̞
 달보드레하다 ta̠ɭbo̞dɯɾe̞ɦa̠da̠
@@ -13805,8 +13545,6 @@
 달필 ta̠ɭpʰiɭ
 달하다 ta̠ɾɦa̠da̠
 닭 ta̠k̚
-닭 잡아먹고 오리 발 내놓기 <EMPTY>
-닭 쫓던 개 지붕 쳐다보듯 <EMPTY>
 닭갈비 ta̠k̚k͈a̠ɭbi
 닭강정 ta̠ɭk͈a̠ŋd͡ʑʌ̹ŋ
 닭개장 ta̠ɭk͈ɛ̝d͡ʑa̠ŋ
@@ -14358,7 +14096,6 @@
 대두하다 tɛ̝duɦa̠da̠
 대들다 tɛ̝dɯɭda̠
 대들보 tɛ̝dɯɭbo̞
-대들보 썩는 줄 모르고 기왓장 아끼는 격 <EMPTY>
 대등 tɛ̝dɯŋ
 대등하다 tɛ̝dɯŋɦa̠da̠
 대딩 tɛ̝diŋ
@@ -14412,8 +14149,6 @@
 대룽대룽 tɛ̝ɾuŋdɛ̝ɾuŋ
 대룽대룽하다 tɛ̝ɾuŋdɛ̝ɾuŋɦa̠da̠
 대류 tɛ̝ɾju
-대류 불안정 <EMPTY>
-대류 안정도 <EMPTY>
 대류고도 tɛ̝ɾjuɡo̞do̞
 대류구름 tɛ̝ɾjuɡuɾɯm
 대류구역 tɛ̝ɾjuɡujʌ̹k̚
@@ -14426,7 +14161,6 @@
 대류성 소나기 tɛ̝ɾjusʰʌ̹ŋ sʰo̞na̠ɡi
 대류성강수 tɛ̝ɾjusʰʌ̹ŋɡa̠ŋsʰu
 대류순환 tɛ̝ɾjusʰunβwa̠n
-대류 안정도 <EMPTY>
 대류역전 tɛ̝ɾjujʌ̹k̚t͡ɕ͈ʌ̹n
 대류온도 tɛ̝ɾjuo̞ndo̞
 대류운 tɛ̝ɾjuun
@@ -14454,7 +14188,6 @@
 대립적 tɛ̝ɾip̚t͡ɕ͈ʌ̹k̚
 대립하다 tɛ̝ɾipʰa̠da̠
 대마 tɛ̝ma̠
-대마도 <EMPTY>
 대마초 tɛ̝ma̠t͡ɕʰo̞
 대만 tɛ̝ma̠n
 대만원 tɛ̝ma̠nwʌ̹n
@@ -14832,7 +14565,6 @@
 대학원생 tɛ̝ɦa̠ɡwʌ̹nsʰɛ̝ŋ
 대한 tɛ̝ɦa̠n
 대한민국 ˈtɛ̝ːɦa̠nminɡuk̚
-대한이 소한의 집에 가서 얼어 죽는다 <EMPTY>
 대한제국 tɛ̝ɦa̠nd͡ʑe̞ɡuk̚
 대한해협 tɛ̝ɦa̠nɦɛ̝ʝjʌ̹p̚
 대할인 tɛ̝ɦa̠ɾin
@@ -14968,12 +14700,10 @@
 더뻑더뻑 tʌ̹p͈ʌ̹k̚t͈ʌ̹p͈ʌ̹k̚
 더뻑더뻑하다 tʌ̹p͈ʌ̹k̚t͈ʌ̹p͈ʌ̹kʰa̠da̠
 더우 tʌ̹u
-더우기 <EMPTY>
 더욱 tʌ̹uk̚
 더욱더 tʌ̹uk̚t͈ʌ̹
 더욱이 tʌ̹uɡi
 더운 tʌ̹un
-더운밥 먹고 식은 소리 한다 <EMPTY>
 더운흐름 tʌ̹unɣɯɾɯm
 더움 tʌ̹um
 더워지다 tʌ̹wʌ̹d͡ʑida̠
@@ -15037,7 +14767,6 @@
 덜거덩덜거덩 tʌ̹ɭɡʌ̹dʌ̹ŋdʌ̹ɭɡʌ̹dʌ̹ŋ
 덜거덩덜거덩하다 tʌ̹ɭɡʌ̹dʌ̹ŋdʌ̹ɭɡʌ̹dʌ̹ŋɦa̠da̠
 덜거덩하다 tʌ̹ɭɡʌ̹dʌ̹ŋɦa̠da̠
-덜거럭 <EMPTY>
 덜걱 tʌ̹ɭɡʌ̹k̚
 덜걱거리다 tʌ̹ɭɡʌ̹k̚k͈ʌ̹ɾida̠
 덜걱대다 tʌ̹ɭɡʌ̹k̚t͈ɛ̝da̠
@@ -15234,7 +14963,6 @@
 덮개 tʌ̹p̚k͈ɛ̝
 덮다 tʌ̹p̚t͈a̠
 덮이다 tʌ̹pʰida̠
-덮히다 <EMPTY>
 데 te̞
 데굴 te̞ɡuɭ
 데기 te̞ɡi
@@ -15296,10 +15024,7 @@
 도꾸멘트 to̞k͈ume̞ntʰɯ
 도쿠이 to̞kʰui
 도끼 ˈto̞ːk͈i
-도끼는 날을 달아 써도 사람은 죽으면 그만 <EMPTY>
 도끼다시 to̞k͈ida̠ɕʰi
-도끼로 제 발등 찍는다 <EMPTY>
-도낏자루 썩는 줄 모른다 <EMPTY>
 도난 to̞na̠n
 도남지익 to̞na̠md͡ʑiik̚
 도넛 to̞nʌ̹t̚
@@ -15348,15 +15073,7 @@
 도두룩하다 to̞duɾukʰa̠da̠
 도둑 to̞duk̚
 도둑놈 to̞duŋno̞m
-도둑놈은 한 죄, 잃은 놈은 열 죄 <EMPTY>
-도둑놈이 제 말에 잡힌다 <EMPTY>
-도둑에게 열쇠 준다 <EMPTY>
-도둑을 뒤로 잡지 앞으로 잡나 <EMPTY>
-도둑을 맞으려면 개도 안 짖는다 <EMPTY>
-도둑의 씨가 따로 없다 <EMPTY>
-도둑이 제 발 저리다 <EMPTY>
 도둑질 to̞duk̚t͡ɕ͈iɭ
-도둑질은 내가 하고 오라는 네가 져라 <EMPTY>
 도둑질하다 to̞duk̚t͡ɕ͈iɾɦa̠da̠
 도드라지다 to̞dɯɾa̠d͡ʑida̠
 도드락 to̞dɯɾa̠k̚
@@ -15367,7 +15084,6 @@
 도드락하다 to̞dɯɾa̠kʰa̠da̠
 도랏쿠 to̞ɾa̠t̚kʰu
 도라무 to̞ɾa̠mu
-도라이바 <EMPTY>
 도란 to̞ɾa̠n
 도란거리다 to̞ɾa̠nɡʌ̹ɾida̠
 도란대다 to̞ɾa̠ndɛ̝da̠
@@ -15375,7 +15091,6 @@
 도란도란하다 to̞ɾa̠ndo̞ɾa̠nɦa̠da̠
 도란스 to̞ɾa̠nsʰɯ
 도랏쿠 to̞ɾa̠t̚kʰu
-도랑 치고 가재 잡는다 <EMPTY>
 도랑물 to̞ɾa̠ŋmuɭ
 도래도래 to̞ɾɛ̝do̞ɾɛ̝
 도려빠지다 to̞ɾjʌ̹p͈a̠d͡ʑida̠
@@ -15388,7 +15103,6 @@
 도로 to̞ɾo̞
 도록 to̞ɾo̞k̚
 도롱뇽 to̞ɾo̞ŋɲjoŋ
-도롱룡 <EMPTY>
 도롱이 to̞ɾo̞ŋi
 도료 to̞ɾjo
 도루메기 to̞ɾume̞ɡi
@@ -15412,7 +15126,6 @@
 도마도 to̞ma̠do̞
 도마리 to̞ma̠ɾi
 도마뱀 to̞ma̠bɛ̝m
-도마에 오른 고기 <EMPTY>
 도막 to̞ma̠k̚
 도막도막 to̞ma̠k̚t͈o̞ma̠k̚
 도망 to̞ma̠ŋ
@@ -15474,7 +15187,6 @@
 도전하다 to̞d͡ʑʌ̹nɦa̠da̠
 도주병 to̞d͡ʑubjʌ̹ŋ
 도중 to̞d͡ʑuŋ
-도중하차 <EMPTY>
 도찌기 현 to̞t͡ɕ͈iɡi çjʌ̹n
 도착 to̞t͡ɕʰa̠k̚
 도착하다 to̞t͡ɕʰa̠kʰa̠da̠
@@ -15490,7 +15202,6 @@
 도큐멘타리 to̞kçjume̞ntʰa̠ɾi
 도태 to̞tʰɛ̝
 도토리 to̞tʰo̞ɾi
-도토리 키 재기 <EMPTY>
 도톨도톨 to̞tʰo̞ɭdo̞tʰo̞ɭ
 도톨도톨하다 to̞tʰo̞ɭdo̞tʰo̞ɾɦa̠da̠
 도톰 to̞tʰo̞m
@@ -15593,7 +15304,6 @@
 독송 to̞ks͈o̞ŋ
 독송하다 to̞ks͈o̞ŋɦa̠da̠
 독수공방 to̞ks͈uɡo̞ŋba̠ŋ
-독수공방에 유정 낭군 기다리듯 <EMPTY>
 독수리 to̞ks͈uɾi
 독숙 to̞ks͈uk̚
 독숙공방 to̞ks͈uk̚k͈o̞ŋba̠ŋ
@@ -15707,8 +15417,6 @@
 돈구루마 to̞nɡuɾuma̠
 돈구멍 to̞nɡumʌ̹ŋ
 돈구멍수 to̞nɡumʌ̹ŋsʰu
-돈까스 <EMPTY>
-돈까쓰 <EMPTY>
 돈끽 to̞nk͈ik̚
 돈끽하다 to̞nk͈ikʰa̠da̠
 돈단무심 to̞nda̠nmuɕʰim
@@ -15723,7 +15431,6 @@
 돈사하다 to̞nsʰa̠ɦa̠da̠
 돈수 to̞nsʰu
 돈수재배 to̞nsʰud͡ʑɛ̝bɛ̝
-돈에 침 뱉는 놈 없다 <EMPTY>
 돈역 to̞ɲjʌ̹k̚
 돈오 to̞no̞
 돈유 to̞ɲju
@@ -15811,7 +15518,6 @@
 돌연히 to̞ɾjʌ̹nʝi
 돌올 to̞ɾo̞ɭ
 돌올하다 to̞ɾo̞ɾɦa̠da̠
-돌을 차면 발부리만 아프다 <EMPTY>
 돌이 to̞ɾi
 돌이점표식 to̞ɾid͡ʑʌ̹mpʰjoɕʰik̚
 돌입 to̞ɾip̚
@@ -15820,7 +15526,6 @@
 돌제 to̞ɭd͡ʑe̞
 돌진 to̞ɭd͡ʑin
 돌진하다 to̞ɭd͡ʑinɦa̠da̠
-돌쩌귀에 불이 난다 <EMPTY>
 돌창자 to̞ɭt͡ɕʰa̠ŋd͡ʑa̠
 돌출 to̞ɭt͡ɕʰuɭ
 돌출되다 to̞ɭt͡ɕʰuɭdø̞da̠/ ~ /to̞ɭt͡ɕʰuɭdwe̞da̠
@@ -15835,7 +15540,6 @@
 돌풍전선 to̞ɭpʰuŋd͡ʑʌ̹nsʰʌ̹n
 돌하르방 to̞ɾɦa̠ɾɯba̠ŋ
 돐 to̞ɭ
-돔바 <EMPTY>
 돕다 to̞p̚t͈a̠
 돗 to̞t̚
 동 to̞ŋ
@@ -15888,8 +15592,6 @@
 동남동 to̞ŋna̠mdo̞ŋ
 동남아 to̞ŋna̠ma̠
 동남풍 to̞ŋna̠mpʰuŋ
-동냥은 못 줘도 쪽박은 깨지 마라 <EMPTY>
-동냥은 안 주고 쪽박만 깬다 <EMPTY>
 동네 to̞ŋne̞
 동네예보 to̞ŋne̞je̞bo̞
 동년 to̞ŋɲjʌ̹n
@@ -15987,8 +15689,6 @@
 동색 to̞ŋsʰɛ̝k̚
 동생 to̞ŋsʰɛ̝ŋ
 동서 to̞ŋsʰʌ̹
-동서 시집살이는 오뉴월에도 서릿발 친다 <EMPTY>
-동서 춤추게 <EMPTY>
 동서고금 to̞ŋsʰʌ̹ɡo̞ɡɯm
 동서남북 to̞ŋsʰʌ̹na̠mbuk̚
 동서류 to̞ŋsʰʌ̹ɾju
@@ -16102,7 +15802,6 @@
 동치미 ˈto̞ːŋt͡ɕʰimi
 동침 to̞ŋt͡ɕʰim
 동태 to̞ŋtʰɛ̝
-동태나 북어나 <EMPTY>
 동태적 to̞ŋtʰɛ̝d͡ʑʌ̹k̚
 동토 to̞ŋtʰo̞
 동토대 to̞ŋtʰo̞dɛ̝
@@ -16141,12 +15840,9 @@
 동회 to̞ŋɦø̞/ ~ /to̞ŋβwe̞
 돼먹잖은 twɛ̝mʌ̹k̚t͡ɕ͈a̠nɯn
 돼지 twɛ̝d͡ʑi
-돼지 발톱에 봉숭아를 들인다 <EMPTY>
 돼지고기 twɛ̝d͡ʑiɡo̞ɡi
 돼지꿈 twɛ̝d͡ʑik͈um
 돼지보총 twɛ̝d͡ʑibo̞t͡ɕʰo̞ŋ
-돼지에 진주목걸이 <EMPTY>
-돼지우리에 주석 자물쇠 <EMPTY>
 돼지풀 twɛ̝d͡ʑipʰuɭ
 되 tø̞/ ~ /twe̞
 되게 tø̞ɡe̞/ ~ /twe̞ɡe̞
@@ -16156,7 +15852,6 @@
 되돌아보다 tø̞do̞ɾa̠bo̞da̠/ ~ /twe̞do̞ɾa̠bo̞da̠
 되돌아오다 tø̞do̞ɾa̠o̞da̠/ ~ /twe̞do̞ɾa̠o̞da̠
 되똥 tø̞t͈o̞ŋ/ ~ /twe̞t͈o̞ŋ
-되로 주고 말로 받는다 <EMPTY>
 되바라지다 tø̞ba̠ɾa̠d͡ʑida̠/ ~ /twe̞ba̠ɾa̠d͡ʑida̠
 되박박고 tø̞ba̠k̚p͈a̠k̚k͈o̞/ ~ /twe̞ba̠k̚p͈a̠k̚k͈o̞
 되박쌀 tø̞ba̠ks͈a̠ɭ/ ~ /twe̞ba̠ks͈a̠ɭ
@@ -16205,7 +15900,6 @@
 두근두근 tuɡɯnduɡɯn
 두기 tuɡi
 두꺼비 tuk͈ʌ̹bi
-두꺼비 파리 잡아먹듯 <EMPTY>
 두껍다 tuk͈ʌ̹p̚t͈a̠
 두께 tuk͈e̞
 두께선 tuk͈e̞sʰʌ̹n
@@ -16300,7 +15994,6 @@
 두주 tud͡ʑu
 두주불사 tud͡ʑubuɭsʰa̠
 두진 tud͡ʑin
-두째 <EMPTY>
 두찬 tut͡ɕʰa̠n
 두창 tut͡ɕʰa̠ŋ
 두초류 tut͡ɕʰo̞ɾju
@@ -16372,11 +16065,9 @@
 둘러싸이다 tuɭɭʌ̹s͈a̠ida̠
 둘러쌓다 tuɭɭʌ̹s͈a̠tʰa̠
 둘러앉다 tuɭɭʌ̹a̠nt͈a̠
-둘러치나 메어치나 <EMPTY>
 둘레둘레 tuɭɭe̞duɭɭe̞
 둘레둘레하다 tuɭɭe̞duɭɭe̞ɦa̠da̠
 둘리다 tuɭʎida̠
-둘이 먹다 하나 죽어도 모르겠다 <EMPTY>
 둘째 tuɭt͡ɕ͈ɛ̝
 둥 tuŋ
 둥간어 tuŋɡa̠nʌ̹
@@ -16452,7 +16143,6 @@
 뒤늦다 tɥinɯt̚t͈a̠/ ~ /tynɯt̚t͈a̠
 뒤늦은 tɥinɯd͡ʑɯn/ ~ /tynɯd͡ʑɯn
 뒤늦음 tɥinɯd͡ʑɯm/ ~ /tynɯd͡ʑɯm
-뒤덮히다 <EMPTY>
 뒤돌아보다 tɥido̞ɾa̠bo̞da̠/ ~ /tydo̞ɾa̠bo̞da̠
 뒤따르다 tɥit͈a̠ɾɯda̠/ ~ /tyt͈a̠ɾɯda̠
 뒤떨어지다 tɥit͈ʌ̹ɾʌ̹d͡ʑida̠/ ~ /tyt͈ʌ̹ɾʌ̹d͡ʑida̠
@@ -16479,7 +16169,6 @@
 뒤틀다 tɥitʰɯɭda̠/ ~ /tytʰɯɭda̠
 뒤편 tɥipʰjʌ̹n/ ~ /typʰjʌ̹n
 뒷간 tɥit̚k͈a̠n/ ~ /tyt̚k͈a̠n
-뒷간에 갈 적 마음 다르고 올 적 마음 다르다 <EMPTY>
 뒷골목 tɥit̚k͈o̞ɭmo̞k̚/ ~ /tyt̚k͈o̞ɭmo̞k̚
 뒷머리 tɥinmʌ̹ɾi/ ~ /tynmʌ̹ɾi
 뒷모습 tɥinmo̞sʰɯp̚/ ~ /tynmo̞sʰɯp̚
@@ -16487,7 +16176,6 @@
 뒷바람 tɥit̚p͈a̠ɾa̠m/ ~ /tyt̚p͈a̠ɾa̠m
 뒷산 tɥit̚s͈a̠n/ ~ /tyt̚s͈a̠n
 뒷일 ˈtɥiːnniɭ/ ~ /ˈtyːnniɭ
-뒷전 <EMPTY>
 뒷짐결박 tɥit̚t͡ɕ͈imɡjʌ̹ɭba̠k̚/ ~ /tyt̚t͡ɕ͈imɡjʌ̹ɭba̠k̚
 뒷짐결박하다 tɥit̚t͡ɕ͈imɡjʌ̹ɭba̠kʰa̠da̠/ ~ /tyt̚t͡ɕ͈imɡjʌ̹ɭba̠kʰa̠da̠
 뒹굴다 tɥiŋɡuɭda̠/ ~ /tyŋɡuɭda̠
@@ -16500,7 +16188,6 @@
 드높아지다 tɯno̞pʰa̠d͡ʑida̠
 드높이 tɯno̞pʰi
 드높이다 tɯno̞pʰida̠
-드는 정은 몰라도 나는 정은 안다 <EMPTY>
 드디어 tɯdiʌ̹
 드디여 tɯdijʌ̹
 드라마 tɯɾa̠ma̠
@@ -16586,7 +16273,6 @@
 든직하다 tɯnd͡ʑikʰa̠da̠
 든직히 tɯnd͡ʑikçi
 듣그럽다 tɯt̚k͈ɯɾʌ̹p̚t͈a̠
-듣기 좋은 이야기도 늘 들으면 싫다 <EMPTY>
 듣다 tɯt̚t͈a̠
 듣보기장사 tɯt̚p͈o̞ɡid͡ʑa̠ŋsʰa̠
 듣보다 tɯt̚p͈o̞da̠
@@ -16690,8 +16376,6 @@
 들여다보다 tɯɾjʌ̹da̠bo̞da̠
 들연 ˈtɯːɾjʌ̹n
 들온말 tɯɾo̞nma̠ɭ
-들으면 병이요 안 들으면 약이다 <EMPTY>
-들은 풍월 얻는 문자 <EMPTY>
 들은귀 tɯɾɯnɡɥi/ ~ /tɯɾɯnɡy
 들음들음 tɯɾɯmdɯɾɯm
 들음직 tɯɾɯmd͡ʑik̚
@@ -16760,7 +16444,6 @@
 들펀들펀하다 tɯɭpʰʌ̹ndɯɭpʰʌ̹nɦa̠da̠
 들피 tɯɭpʰi
 들피지다 tɯɭpʰid͡ʑida̠
-듬뿌룩하다 <EMPTY>
 듬뿍 tɯmp͈uk̚
 듬뿍듬뿍 tɯmp͈uk̚t͈ɯmp͈uk̚
 듬뿍듬뿍하다 tɯmp͈uk̚t͈ɯmp͈ukʰa̠da̠
@@ -16784,7 +16467,6 @@
 듯이 tɯɕʰi
 듯하다 tɯtʰa̠da̠
 등 tɯŋ
-등 치고 간 내먹다 <EMPTY>
 등가 tɯŋɡa̠
 등가개념 tɯŋɡa̠ɡɛ̝ɲjʌ̹m
 등가구 tɯŋɡa̠ɡu
@@ -16931,7 +16613,6 @@
 등자력선 tɯŋd͡ʑa̠ɾjʌ̹ks͈ʌ̹n
 등자색 tɯŋd͡ʑa̠sʰɛ̝k̚
 등잔 tɯŋd͡ʑa̠n
-등잔 밑이 어둡다 <EMPTY>
 등장 tɯŋd͡ʑa̠ŋ
 등장액 tɯŋd͡ʑa̠ŋɛ̝k̚
 등장인물 tɯŋd͡ʑa̠ŋinmuɭ
@@ -17009,7 +16690,6 @@
 디마스끄 tima̠sʰɯk͈ɯ
 디밀다 timiɭda̠
 디빅스 tibiks͈ɯ
-디세 <EMPTY>
 디스코 tisʰɯkʰo̞
 디스크 tisʰɯkxɯ
 디스토마 tisʰɯtʰo̞ma̠
@@ -17072,7 +16752,6 @@
 따르릉 t͈a̠ɾɯɾɯŋ
 따름 t͈a̠ɾɯm
 따리 t͈a̠ɾi
-따리마까시 <EMPTY>
 따먹다 t͈a̠mʌ̹k̚t͈a̠
 따바리 t͈a̠ba̠ɾi
 따발총 t͈a̠ba̠ɭt͡ɕʰo̞ŋ
@@ -17095,7 +16774,6 @@
 따지다 t͈a̠d͡ʑida̠
 딱 t͈a̠k̚
 딱가리 t͈a̠k̚k͈a̠ɾi
-딱다구리 <EMPTY>
 딱다그르르딱다그르르 t͈a̠k̚t͈a̠ɡɯɾɯɾɯt͈a̠k̚t͈a̠ɡɯɾɯɾɯ
 딱다그르르딱다그르르하다 t͈a̠k̚t͈a̠ɡɯɾɯɾɯt͈a̠k̚t͈a̠ɡɯɾɯɾɯɦa̠da̠
 딱따구리 t͈a̠k̚t͈a̠ɡuɾi
@@ -17142,14 +16820,12 @@
 딸딸이 t͈a̠ɭt͈a̠ɾi
 딸라 t͈a̠ɭɭa̠
 딸랑 t͈a̠ɭɭa̠ŋ
-딸래미 <EMPTY>
 딸리다 t͈a̠ɭʎida̠
 딸린 t͈a̠ɭʎin
 딸림음 t͈a̠ɭʎimɯm
 딸보 t͈a̠ɭbo̞
 딸부자 t͈a̠ɭbud͡ʑa̠
 딸아이 t͈a̠ɾa̠i
-딸의 시앗은 바늘방석에 앉히고 며느리 시앗은 꽃방석에 앉힌다 <EMPTY>
 딸자식 t͈a̠ɭd͡ʑa̠ɕʰik̚
 땀 t͈a̠m
 땀구멍 t͈a̠mɡumʌ̹ŋ
@@ -17161,8 +16837,6 @@
 땀직 t͈a̠md͡ʑik̚
 땀직하다 t͈a̠md͡ʑikʰa̠da̠
 땅 t͈a̠ŋ
-땅 넓은 줄은 모르고 하늘 높은 줄만 안다 <EMPTY>
-땅 짚고 헤엄치기 <EMPTY>
 땅강아지 t͈a̠ŋɡa̠ŋa̠d͡ʑi
 땅거미 t͈a̠ŋɡʌ̹mi
 땅구름 방전 t͈a̠ŋɡuɾɯm pa̠ŋd͡ʑʌ̹n
@@ -17209,9 +16883,7 @@
 때때옷 t͈ɛ̝t͈ɛ̝o̞t̚
 때때중 t͈ɛ̝t͈ɛ̝d͡ʑuŋ
 때로 t͈ɛ̝ɾo̞
-때리는 시어머니보다 말리는 시누이가 더 밉다 <EMPTY>
 때리다 t͈ɛ̝ɾida̠
-때린 놈은 다릴 못 뻗고 자도 맞은 놈은 다릴 뻗고 잔다 <EMPTY>
 때마침 t͈ɛ̝ma̠t͡ɕʰim
 때문 t͈ɛ̝mun
 때밀이 t͈ɛ̝miɾi
@@ -17280,8 +16952,6 @@
 떠지껄 t͈ʌ̹d͡ʑik͈ʌ̹ɭ
 떠지다 t͈ʌ̹d͡ʑida̠
 떡 t͈ʌ̹k̚
-떡 본 김에 제사 지낸다 <EMPTY>
-떡 줄 사람은 꿈도 안 꾸는데 김칫국부터 마신다 <EMPTY>
 떡갈나무 t͈ʌ̹k̚k͈a̠ɭɭa̠mu
 떡갈잎 t͈ʌ̹k̚k͈a̠ɾip̚
 떡국 t͈ʌ̹k̚k͈uk̚
@@ -17291,7 +16961,6 @@
 떡방아 t͈ʌ̹k̚p͈a̠ŋa̠
 떡보 t͈ʌ̹k̚p͈o̞
 떡볶이 t͈ʌ̹k̚p͈o̞k͈i
-떡뽁이 <EMPTY>
 떡살 t͈ʌ̹ks͈a̠ɭ
 떡잎 t͈ʌ̹ɡip̚
 떡집 t͈ʌ̹k̚t͡ɕ͈ip̚
@@ -17325,11 +16994,9 @@
 떼다 t͈e̞da̠
 떼밀다 t͈e̞miɭda̠
 떼쓰다 t͈e̞s͈ɯda̠
-떼어 놓은 당상 <EMPTY>
 떼이다 t͈e̞ida̠
 떼쟁이 t͈e̞d͡ʑɛ̝ŋi
 뗀노 t͈e̞nno̞
-뗄레ᄫᅵ시 <EMPTY>
 뗏목 t͈e̞nmo̞k̚
 뗑깡 t͈e̞ŋk͈a̠ŋ
 뗑뗑이 t͈e̞ŋt͈e̞ŋi
@@ -17368,13 +17035,9 @@
 똘똘이 t͈o̞ɭt͈o̞ɾi
 똘똘하다 t͈o̞ɭt͈o̞ɾɦa̠da̠
 똘랴찌 t͈o̞ɭʎja̠t͡ɕ͈i
-똘루 <EMPTY>
-똘링아 <EMPTY>
 똘마니 t͈o̞ɭma̠ni
 똘스또이 t͈o̞ɭsʰɯt͈o̞i
 똥 t͈o̞ŋ
-똥 누러 갈 적 마음 다르고 올 적 마음 다르다 <EMPTY>
-똥 싸고 매화타령 한다 <EMPTY>
 똥간 t͈o̞ŋɡa̠n
 똥갈보 t͈o̞ŋɡa̠ɭbo̞
 똥값 t͈o̞ŋɡa̠p̚
@@ -17382,7 +17045,6 @@
 똥거름 t͈o̞ŋɡʌ̹ɾɯm
 똥고집 t͈o̞ŋɡo̞d͡ʑip̚
 똥구멍 t͈o̞ŋɡumʌ̹ŋ
-똥구멍이 찢어지게 가난하다 <EMPTY>
 똥그랗다 t͈o̞ŋɡɯɾa̠tʰa̠
 똥그스름 t͈o̞ŋɡɯsʰɯɾɯm
 똥꼬 t͈o̞ŋk͈o̞
@@ -17424,7 +17086,6 @@
 뚝딱 t͈uk̚t͈a̠k̚
 뚝뚝 t͈uk̚t͈uk̚
 뚝배기 t͈uk̚p͈ɛ̝ɡi
-뚝배기보다 장맛이 좋다 <EMPTY>
 뚝심 t͈ukɕ͈im
 뚫다 t͈uɭtʰa̠
 뚫리다 t͈uɭʎida̠
@@ -17454,7 +17115,6 @@
 뛰어놀다 t͈ɥiʌ̹no̞ɭda̠/ ~ /t͈yʌ̹no̞ɭda̠
 뛰어다니다 t͈ɥiʌ̹da̠nida̠/ ~ /t͈yʌ̹da̠nida̠
 뛰어들다 t͈ɥiʌ̹dɯɭda̠/ ~ /t͈ɥijʌ̹dɯɭda̠/ ~ /t͈yʌ̹dɯɭda̠/ ~ /t͈yjʌ̹dɯɭda̠
-뛰어야 벼룩 <EMPTY>
 뛰어오다 t͈ɥiʌ̹o̞da̠/ ~ /t͈yʌ̹o̞da̠
 뛰어오르다 t͈ɥiʌ̹o̞ɾɯda̠/ ~ /t͈yʌ̹o̞ɾɯda̠
 뛰여들기 t͈ɥijʌ̹dɯɭɡi/ ~ /t͈yjʌ̹dɯɭɡi
@@ -17502,7 +17162,6 @@
 뜯다 t͈ɯt̚t͈a̠
 뜯적 t͈ɯt̚t͡ɕ͈ʌ̹k̚
 뜰 t͈ɯɭ
-庭 <EMPTY>
 뜰락스깔라 t͈ɯɭɭa̠ks͈ɯk͈a̠ɭɭa̠
 뜰먹 t͈ɯɭmʌ̹k̚
 뜸 t͈ɯm
@@ -17533,7 +17192,6 @@
 띠모양흐름 t͈imo̞ja̠ŋɣɯɾɯm
 띠앗 t͈ia̠t̚
 띠이다 t͈iida̠
-띠장 <EMPTY>
 띳장 t͈it̚t͡ɕ͈a̠ŋ
 띵 t͈iŋ
 띵띵 t͈iŋt͈iŋ
@@ -17684,8 +17342,6 @@
 러브 ɾʌ̹bɯ
 러브호텔 ɾʌ̹bɯβo̞tʰe̞ɭ
 러시아 ɾʌ̹ɕʰia̠
-러시아 연방 <EMPTY>
-러시아 정교회 <EMPTY>
 러시아 제국 ɾʌ̹ɕʰia̠ t͡ɕe̞ɡuk̚
 러시아어 ɾʌ̹ɕʰia̠ʌ̹
 러시아워 ɾʌ̹ɕʰia̠wʌ̹
@@ -17723,7 +17379,6 @@
 레오파드 ɾe̞o̞pʰa̠dɯ
 레이더 ɾe̞idʌ̹
 레이더 에코 ɾe̞idʌ̹ e̞kʰo̞
-레이더 폭풍우 탐지 <EMPTY>
 레이더 합성도 ɾe̞idʌ̹ ha̠ps͈ʌ̹ŋdo̞
 레이더기지 ɾe̞idʌ̹ɡid͡ʑi
 레이더망 ɾe̞idʌ̹ma̠ŋ
@@ -17854,7 +17509,6 @@
 로르샤흐테스트 ɾo̞ɾɯɕʰja̠ɣɯtʰe̞sʰɯtʰɯ
 로르오바 ɾo̞ɾɯo̞ba̠
 로마 ɾo̞ma̠
-로마字 <EMPTY>
 로마가톨릭교 ɾo̞ma̠ɡa̠tʰo̞ɭʎik̚k͈jo
 로마가톨릭교회 ɾo̞ma̠ɡa̠tʰo̞ɭʎik̚k͈joɦø̞/ ~ /ɾo̞ma̠ɡa̠tʰo̞ɭʎik̚k͈joβwe̞
 로마교황 ɾo̞ma̠ɡjoβwa̠ŋ
@@ -18150,7 +17804,6 @@
 마노 ma̠no̞
 마농 ma̠no̞ŋ
 마누라 ma̠nuɾa̠
-마누라가 귀여우면 처갓집 쇠말뚝 보고도 절한다 <EMPTY>
 마누라쟁이 ma̠nuɾa̠d͡ʑɛ̝ŋi
 마늘 ma̠nɯɭ
 마늘쪽 ma̠nɯɭt͡ɕ͈o̞k̚
@@ -18216,10 +17869,6 @@
 마르크시즘 ma̠ɾɯkxɯɕʰid͡ʑɯm
 마르크화 ma̠ɾɯkxɯβwa̠
 마르탱뒤가르 ma̠ɾɯtʰɛ̝ŋdɥiɡa̠ɾɯ/ ~ /ma̠ɾɯtʰɛ̝ŋdyɡa̠ɾɯ
-마른 뇌우 <EMPTY>
-마른 눈 <EMPTY>
-마른 뇌우 <EMPTY>
-마른 눈 <EMPTY>
 마른반찬 ma̠ɾɯnba̠nt͡ɕʰa̠n
 마른번개 ma̠ɾɯnbʌ̹nɡɛ̝
 마른오징어 ma̠ɾɯno̞d͡ʑiŋʌ̹
@@ -18227,7 +17876,6 @@
 마른장마 ma̠ɾɯnd͡ʑa̠ŋma̠
 마른침 ma̠ɾɯnt͡ɕʰim
 마른풀 ma̠ɾɯnpʰuɭ
-마른하늘에 날벼락 <EMPTY>
 마른행주 ma̠ɾɯnɦɛ̝ŋd͡ʑu
 마름 ma̠ɾɯm
 마름모 ma̠ɾɯmmo̞
@@ -18386,7 +18034,6 @@
 마케도니아 ma̠kʰe̞do̞nia̠
 마케도니아어 ma̠kʰe̞do̞nia̠ʌ̹
 마케터 ma̠kʰe̞tʰʌ̹
-마케팅 <EMPTY>
 마켓 ma̠kʰe̞t̚
 마크 ma̠kxɯ
 마크제 ma̠kxɯd͡ʑe̞
@@ -18398,8 +18045,6 @@
 마트료시카 ma̠tʰɯɾjoɕʰikʰa̠
 마파두부 ma̠pʰa̠dubu
 마파람 ma̠pʰa̠ɾa̠m
-마파람에 게 눈 감추듯 <EMPTY>
-마파람에 호박 꼭지 떨어진다 <EMPTY>
 마포 ma̠pʰo̞
 마피아 ma̠pʰia̠
 마하라슈트라 주 ma̠ɦa̠ɾa̠ɕʰjutʰɯɾa̠ t͡ɕu
@@ -18605,8 +18250,6 @@
 만지작대다 ma̠nd͡ʑid͡ʑa̠k̚t͈ɛ̝da̠
 만지작만지작 ma̠nd͡ʑid͡ʑa̠ŋma̠nd͡ʑid͡ʑa̠k̚
 만지작만지작하다 ma̠nd͡ʑid͡ʑa̠ŋma̠nd͡ʑid͡ʑa̠kʰa̠da̠
-만지적거리다 <EMPTY>
-만지적만지적 <EMPTY>
 만찬 ma̠nt͡ɕʰa̠n
 만찬회 ma̠nt͡ɕʰa̠nɦø̞/ ~ /ma̠nt͡ɕʰa̠nβwe̞
 만천하 ma̠nt͡ɕʰʌ̹nɦa̠
@@ -18643,11 +18286,6 @@
 맏아들 ma̠da̠dɯɭ
 맏이 ma̠d͡ʑi
 말 ma̠ɭ
-𪚥 <EMPTY>
-말 속에 뜻이 있고 뼈가 있다 <EMPTY>
-말 타면 경마 잡히고 싶다 <EMPTY>
-말 한마디에 천 냥 빚도 갚는다 <EMPTY>
-말ᄊᆞᆷ <EMPTY>
 말갈 ma̠ɭɡa̠ɭ
 말개지다 ma̠ɭɡɛ̝d͡ʑida̠
 말경 ma̠ɭɡjʌ̹ŋ
@@ -18708,13 +18346,11 @@
 말로 ma̠ɭɭo̞
 말리 ma̠ɭʎi
 말리다 ma̠ɭʎida̠
-말만 잘하면 천 냥 빚도 가린다 <EMPTY>
 말미 ma̠ɭmi
 말미암다 ma̠ɭmia̠mt͈a̠
 말밥 ma̠ɭba̠p̚
 말벌 ma̠ɭbʌ̹ɭ
 말복 ma̠ɭbo̞k̚
-말빨 <EMPTY>
 말뿌리 ma̠ɭp͈uɾi
 말살 ma̠ɭsʰa̠ɭ
 말살되다 ma̠ɭsʰa̠ɭdø̞da̠/ ~ /ma̠ɭsʰa̠ɭdwe̞da̠
@@ -18747,13 +18383,9 @@
 말씬히 ma̠ɭɕ͈inʝi
 말없이 ma̠ɾʌ̹pɕ͈i
 말엽 ma̠ɾjʌ̹p̚
-말은 청산유수다 <EMPTY>
-말은 해야 맛이고 고기는 씹어야 맛이다 <EMPTY>
 말음 ma̠ɾɯm
 말음 법칙 ma̠ɾɯm pʌ̹p̚t͡ɕʰik̚
 말음 법칙 ma̠ɾɯm pʌ̹p̚t͡ɕʰik̚
-말이 <EMPTY>
-말이 씨가 된다 <EMPTY>
 말일 ma̠ɾiɭ
 말장난 ma̠ɭd͡ʑa̠ŋna̠n
 말줄기 ma̠ɭd͡ʑuɭɡi
@@ -18781,7 +18413,6 @@
 말투 ma̠ɭtʰu
 말티메디아 ma̠ɭtʰime̞dia̠
 말판게임 ma̠ɭpʰa̠nɡe̞im
-말하는 것을 개 방귀로 안다 <EMPTY>
 말하다 ma̠ɾɦa̠da̠
 맑다 ma̠k̚t͈a̠
 맑스 ma̠ks͈ɯ
@@ -18797,7 +18428,6 @@
 맛 ma̠t̚
 맛깔 ma̠t̚k͈a̠ɭ
 맛보다 ma̠t̚p͈o̞da̠
-맛빡 <EMPTY>
 맛세이 ma̠t̚s͈e̞i
 맛없다 ma̠dʌ̹p̚t͈a̠
 맛있다 ma̠dit̚t͈a̠/ ~ /ma̠ɕʰit̚t͈a̠
@@ -18811,7 +18441,6 @@
 망각하다 ma̠ŋɡa̠kʰa̠da̠
 망간 ma̠ŋɡa̠n
 망건 ma̠ŋɡʌ̹n
-망건 쓰고 세수한다 <EMPTY>
 망고 ma̠ŋɡo̞
 망구순 ma̠ŋɡusʰun
 망국 ma̠ŋɡuk̚
@@ -18837,7 +18466,6 @@
 망년지우 ma̠ŋɲjʌ̹nd͡ʑiu
 망년회 ma̠ŋɲjʌ̹nɦø̞/ ~ /ma̠ŋɲjʌ̹nβwe̞
 망돌 ma̠ŋdo̞ɭ
-망둥이가 뛰면 꼴뚜기도 뛴다 <EMPTY>
 망망 ma̠ŋma̠ŋ
 망망대해 ma̠ŋma̠ŋdɛ̝ɦɛ̝
 망망연 ma̠ŋma̠ŋjʌ̹n
@@ -18966,7 +18594,6 @@
 매달다 mɛ̝da̠ɭda̠
 매달리다 mɛ̝da̠ɭʎida̠
 매도 mɛ̝do̞
-매도 먼저 맞는 놈이 낮다 <EMPTY>
 매도담보 mɛ̝do̞da̠mbo̞
 매도저당 mɛ̝do̞d͡ʑʌ̹da̠ŋ
 매도증서 mɛ̝do̞d͡ʑɯŋsʰʌ̹
@@ -19211,7 +18838,6 @@
 맴돌이운동 mɛ̝mdo̞ɾiundo̞ŋ
 맴돌이흐름 mɛ̝mdo̞ɾiɣɯɾɯm
 맴매 mɛ̝mmɛ̝
-맴매하다 <EMPTY>
 맴맴 mɛ̝mmɛ̝m
 맵다 mɛ̝p̚t͈a̠
 맵살스럽다 mɛ̝ps͈a̠ɭsʰɯɾʌ̹p̚t͈a̠
@@ -19268,7 +18894,6 @@
 머리칼 mʌ̹ɾikʰa̠ɭ
 머리털 mʌ̹ɾitʰʌ̹ɭ
 머리통 mʌ̹ɾitʰo̞ŋ
-머릿말 <EMPTY>
 머릿속 mʌ̹ɾit̚s͈o̞k̚
 머무르다 mʌ̹muɾɯda̠
 머무적 mʌ̹mud͡ʑʌ̹k̚
@@ -19286,7 +18911,6 @@
 머뭇하다 mʌ̹mutʰa̠da̠
 머밀머밀 mʌ̹miɭmʌ̹miɭ
 머밀머밀하다 mʌ̹miɭmʌ̹miɾɦa̠da̠
-머스타드 <EMPTY>
 머스터드 mʌ̹sʰɯtʰʌ̹dɯ
 머슴 mʌ̹sʰɯm
 머쓱 mʌ̹s͈ɯk̚
@@ -19295,19 +18919,16 @@
 머츰 mʌ̹t͡ɕʰɯm
 먹 mʌ̹k̚
 먹고살다 mʌ̹k̚k͈o̞sʰa̠ɭda̠
-먹기는 아귀같이 먹고 일은 장승같이 한다 <EMPTY>
 먹다 mʌ̹k̚t͈a̠
 먹먹 mʌ̹ŋmʌ̹k̚
 먹방 mʌ̹k̚p͈a̠ŋ
 먹색 mʌ̹ks͈ɛ̝k̚
 먹어들다 mʌ̹ɡʌ̹dɯɭda̠
-먹을 때는 개도 때리지 않는다 <EMPTY>
 먹을거리 mʌ̹ɡɯɭɡʌ̹ɾi
 먹이 mʌ̹ɡi
 먹이다 mʌ̹ɡida̠
 먹히다 mʌ̹kçida̠
 먼 mʌ̹n
-먼 사촌보다 가까운 이웃이 낫다 <EMPTY>
 먼개 mʌ̹nɡɛ̝
 먼바다 mʌ̹nba̠da̠
 먼셀 mʌ̹nsʰe̞ɭ
@@ -19379,7 +19000,6 @@
 멋 mʌ̹t̚
 멋멋 mʌ̹nmʌ̹t̚
 멋있다 mʌ̹dit̚t͈a̠/ ~ /mʌ̹ɕʰit̚t͈a̠
-멋장이 <EMPTY>
 멋쟁이 mʌ̹t̚t͡ɕ͈ɛ̝ŋi
 멋적다 mʌ̹t̚t͡ɕ͈ʌ̹k̚t͈a̠
 멋지다 mʌ̹t̚t͡ɕ͈ida̠
@@ -19407,9 +19027,7 @@
 멎다 mʌ̹t̚t͈a̠
 메 me̞
 메가나 me̞ɡa̠na̠
-메고 나면 상두꾼 들고 나면 초롱꾼 <EMPTY>
 메기 ˈme̞ːɡi
-메꾸다 <EMPTY>
 메뉴 me̞ɲju
 메다 me̞da̠
 메달 me̞da̠ɭ
@@ -19417,10 +19035,8 @@
 메돼지 me̞dwɛ̝d͡ʑi
 메들리 me̞dɯɭʎi
 메뚜기 me̞t͈uɡi
-메뚜기도 유월이 한철이다 <EMPTY>
 메르치 me̞ɾɯt͡ɕʰi
 메르쿠리우스 me̞ɾɯkʰuɾiusʰɯ
-메리 크리스마스 <EMPTY>
 메리야스 me̞ɾija̠s͈ɯ
 메리트 me̞ɾitʰɯ
 메마른 me̞ma̠ɾɯn
@@ -19441,7 +19057,6 @@
 메슥메슥 me̞sʰɯŋme̞sʰɯk̚
 메슥메슥하다 me̞sʰɯŋme̞sʰɯkʰa̠da̠
 메시지 me̞ɕ͈id͡ʑi
-메쎄지 <EMPTY>
 메아리 me̞a̠ɾi
 메우다 me̞uda̠
 메이데이 me̞ide̞i
@@ -19449,12 +19064,10 @@
 메이크업 me̞ikxɯʌ̹p̚
 메인이벤트 me̞inibe̞ntʰɯ
 메일 me̞iɭ
-메자 <EMPTY>
 메주 me̞d͡ʑu
 메지메지 me̞d͡ʑime̞d͡ʑi
 메카 me̞kʰa̠
 멧키 me̞t̚kçi
-메타기 <EMPTY>
 메터 me̞tʰʌ̹
 메트로놈 me̞tʰɯɾo̞no̞m
 메히꼬 me̞ʝik͈o̞
@@ -19475,7 +19088,6 @@
 며 mjʌ̹
 며가지 mjʌ̹ɡa̠d͡ʑi
 며느리 mjʌ̹nɯɾi
-며느리 사랑은 시아버지 사위 사랑은 장모 <EMPTY>
 며칠 mjʌ̹t͡ɕʰiɭ
 멱근 mjʌ̹k̚k͈ɯn
 멱들이 mjʌ̹k̚t͈ɯɾi
@@ -19855,7 +19467,6 @@
 명쾌하다 mjʌ̹ŋkʰwɛ̝ɦa̠da̠
 명탐정 mjʌ̹ŋtʰa̠md͡ʑʌ̹ŋ
 명태 mjʌ̹ŋtʰɛ̝
-명태하고 팥은 두들겨서 껍질을 벗기고 촌놈하고 계집은 두들겨서 길들인다 <EMPTY>
 명토 mjʌ̹ŋtʰo̞
 명퇴 mjʌ̹ŋtʰø̞/ ~ /mjʌ̹ŋtʰwe̞
 명판 mjʌ̹ŋpʰa̠n
@@ -19876,7 +19487,6 @@
 명후일 mjʌ̹ŋβuiɭ
 몇 mjʌ̹t̚
 몇몇 mjʌ̹nmjʌ̹t̚
-몇일 <EMPTY>
 몌별 mje̞bjʌ̹ɭ/ ~ /me̞bjʌ̹ɭ
 모 mo̞
 모가디쇼 mo̞ɡa̠diɕʰjo
@@ -19895,14 +19505,12 @@
 모근 mo̞ɡɯn
 모금 mo̞ɡɯm
 모기 mo̞ɡi
-모기 다리에서 피 뺀다 <EMPTY>
 모기각다귀 mo̞ɡiɡa̠k̚t͈a̠ɡɥi/ ~ /mo̞ɡiɡa̠k̚t͈a̠ɡy
 모나꼬 mo̞na̠k͈o̞
 모나다 mo̞na̠da̠
 모나카 mo̞na̠kʰa̠
 모나코 mo̞na̠kʰo̞
 모난 mo̞na̠n
-모난 돌이 정 맞는다 <EMPTY>
 모남 mo̞na̠m
 모낭 mo̞na̠ŋ
 모낭염 mo̞na̠ŋjʌ̹m
@@ -19930,9 +19538,7 @@
 모독이 mo̞do̞ɡi
 모독하다 mo̞do̞kʰa̠da̠
 모두 mo̞du
-모두 진술 <EMPTY>
 모두절차 mo̞dud͡ʑʌ̹ɭt͡ɕʰa̠
-모두 진술 <EMPTY>
 모든 mo̞dɯn
 모똑모똑 mo̞t͈o̞ŋmo̞t͈o̞k̚
 모똑모똑하다 mo̞t͈o̞ŋmo̞t͈o̞kʰa̠da̠
@@ -19959,7 +19565,6 @@
 모레 mo̞ɾe̞
 모령성체 mo̞ɾjʌ̹ŋsʰʌ̹ŋt͡ɕʰe̞
 모로 mo̞ɾo̞
-모로 가도 서울만 가면 된다 <EMPTY>
 모로코 mo̞ɾo̞kʰo̞
 모록 mo̞ɾo̞k̚
 모록모록 mo̞ɾo̞ŋmo̞ɾo̞k̚
@@ -20024,7 +19629,6 @@
 모시 mo̞ɕʰi
 모시다 mo̞ɕʰida̠
 모씨 mo̞ɕ͈i
-모아뿌이사우 <EMPTY>
 모야모야 mo̞ja̠mo̞ja̠
 모야수야 mo̞ja̠sʰuja̠
 모양 mo̞ja̠ŋ
@@ -20057,8 +19661,6 @@
 모의시험 mo̞ɰiɕʰiɦʌ̹m
 모의재판 mo̞ɰid͡ʑɛ̝pʰa̠n
 모이다 mo̞ida̠
-모이아 <EMPTY>
-모이조 <EMPTY>
 모인 mo̞in
 모일 mo̞iɭ
 모임 mo̞im
@@ -20162,8 +19764,6 @@
 목괴포장 mo̞k̚k͈ø̞pʰo̞d͡ʑa̠ŋ/ ~ /mo̞k̚k͈we̞pʰo̞d͡ʑa̠ŋ
 목구 mo̞k̚k͈u
 목구멍 mo̞k̚k͈umʌ̹ŋ
-목구멍에 거미줄 쓴다 <EMPTY>
-목구멍이 포도청 <EMPTY>
 목구자 mo̞k̚k͈ud͡ʑa̠
 목균 mo̞k̚k͈jun
 목극토 mo̞k̚k͈ɯk̚tʰo̞
@@ -20462,9 +20062,7 @@
 몸풀이 mo̞mpʰuɾi
 몹시 mo̞pɕ͈i
 몹쓸 mo̞ps͈ɯɭ
-몹씨 <EMPTY>
 못 mo̞t̚
-못 오를 나무는 쳐다보지도 마라 <EMPTY>
 못갖춘마디 mo̞t̚k͈a̠t̚t͡ɕʰunma̠di
 못나다 mo̞nna̠da̠
 못난 mo̞nna̠n
@@ -20475,12 +20073,10 @@
 못됨 mo̞t̚t͈ø̞m/ ~ /mo̞t̚t͈we̞m
 못생기다 mo̞t̚s͈ɛ̝ŋɡida̠
 못생긴 mo̞t̚s͈ɛ̝ŋɡin
-못생긴 며느리 제삿날에 병 난다 <EMPTY>
 못생김 mo̞t̚s͈ɛ̝ŋɡim
 못자리 mo̞t̚t͡ɕ͈a̠ɾi
 못조이개 mo̞t̚t͡ɕ͈o̞iɡɛ̝
 못지않다 mo̞t̚t͡ɕ͈ia̠ntʰa̠
-못참다 <EMPTY>
 못하다 mo̞tʰa̠da̠
 몽 mo̞ŋ
 몽개몽개 mo̞ŋɡɛ̝mo̞ŋɡɛ̝
@@ -20763,7 +20359,6 @@
 무녀 muɲjʌ̹
 무념무상 muɲjʌ̹mmusʰa̠ŋ
 무뇨증 muɲjod͡ʑɯŋ
-무는 개 짖지 않는다 <EMPTY>
 무능 munɯŋ
 무능력 munɯŋɲjʌ̹k̚
 무능력자 munɯŋɲjʌ̹k̚t͡ɕ͈a̠
@@ -20850,7 +20445,6 @@
 무료 muɾjo
 무료입장 muɾjoip̚t͡ɕ͈a̠ŋ
 무룩하다 muɾukʰa̠da̠
-무뤼 <EMPTY>
 무르다 muɾɯda̠
 무르츠다 muɾɯt͡ɕʰɯda̠
 무른 muɾɯn
@@ -20951,7 +20545,6 @@
 무소불능 musʰo̞buɭɭɯŋ
 무소불위 musʰo̞buɾɥi/ ~ /musʰo̞buɾy
 무소식 musʰo̞ɕʰik̚
-무소식이 희소식 <EMPTY>
 무소유 musʰo̞ju
 무속 musʰo̞k̚
 무속도 musʰo̞k̚t͈o̞
@@ -21052,7 +20645,6 @@
 무자 mud͡ʑa̠
 무자비 mud͡ʑa̠bi
 무자식 mud͡ʑa̠ɕʰik̚
-무자식 상팔자 <EMPTY>
 무작위 mud͡ʑa̠ɡɥi/ ~ /mud͡ʑa̠ɡy
 무작정 mud͡ʑa̠k̚t͡ɕ͈ʌ̹ŋ
 무장 mud͡ʑa̠ŋ
@@ -21425,7 +21017,6 @@
 문화재 munβwa̠d͡ʑɛ̝
 문화적 munβwa̠d͡ʑʌ̹k̚
 묻다 mut̚t͈a̠
-묻지 말라 갑자생 <EMPTY>
 묻히다 mut͡ɕʰida̠
 물 muɭ
 물가 muɭk͈a̠
@@ -21502,22 +21093,16 @@
 물씬히 muɭɕ͈inʝi
 물아래 muɾa̠ɾɛ̝
 물안개 muɾa̠nɡɛ̝
-물어도 준치 썩어도 생치 <EMPTY>
 물어보다 muɾʌ̹bo̞da̠
-물에 물 탄 듯 술에 술 탄 듯 <EMPTY>
-물에 빠지면 지푸라기라도 잡는다 <EMPTY>
-물에 빠진 놈 건져 놓으니까 내 봇짐 내라 한다 <EMPTY>
 물에네르기 muɾe̞ne̞ɾɯɡi
 물외 muɾø̞/ ~ /muɾwe̞
 물외한인 muɾø̞ɦa̠nin/ ~ /muɾwe̞ɦa̠nin
 물욕 muɾjok̚
 물위 muɾɥi/ ~ /muɾy
 물윗배 muɾɥit̚p͈ɛ̝/ ~ /muɾyt̚p͈ɛ̝
-물은 건너 보아야 알고 사람은 지내보아야 안다 <EMPTY>
 물음 muɾɯm
 물음표 muɾɯmpʰjo
 물의 muɾɰi
-물이 아니면 건너지 말고 인정이 아니면 사귀지 말라 <EMPTY>
 물자 muɭd͡ʑa̠
 물자동원 muɭd͡ʑa̠do̞ŋwʌ̹n
 물적 muɭd͡ʑʌ̹k̚
@@ -21607,7 +21192,6 @@
 므라피산 mɯɾa̠pʰisʰa̠n
 므로 mɯɾo̞
 므스므라 mɯsʰɯmɯɾa̠
-믈 <EMPTY>
 미 mi
 미각 miɡa̠k̚
 미각신경 miɡa̠kɕ͈inɡjʌ̹ŋ
@@ -21648,8 +21232,6 @@
 미기후 miɡiβu
 미깡 mik͈a̠ŋ
 미꾸라지 mik͈uɾa̠d͡ʑi
-미꾸라지 용 됐다 <EMPTY>
-미꾸라지 한 마리가 한강 물을 다 흐리게 한다 <EMPTY>
 미꾸리 mik͈uɾi
 미끄덕거리다 mik͈ɯdʌ̹k̚k͈ʌ̹ɾida̠
 미끄덕대다 mik͈ɯdʌ̹k̚t͈ɛ̝da̠
@@ -21833,14 +21415,12 @@
 미숫가루 misʰut̚k͈a̠ɾu
 미스 misʰɯ
 미스코리아 misʰɯkʰo̞ɾia̠
-미시 권력 <EMPTY>
 미시경제학 miɕʰiɡjʌ̹ŋd͡ʑe̞ɦa̠k̚
 미시적 miɕʰid͡ʑʌ̹k̚
 미식가 miɕʰik̚k͈a̠
 미식축구 miɕʰik̚t͡ɕʰuk̚k͈u
 미신 miɕʰin
 미심 miɕʰim
-미싯가루 <EMPTY>
 미싱 miɕʰiŋ
 미싸일 mis͈a̠iɭ
 미아 mia̠
@@ -21862,8 +21442,6 @@
 미온적 mio̞nd͡ʑʌ̹k̚
 미완 miwa̠n
 미완성 miwa̠nsʰʌ̹ŋ
-미완성 교향곡 <EMPTY>
-미완성 교향곡 <EMPTY>
 미완성하다 miwa̠nsʰʌ̹ŋɦa̠da̠
 미용 mijoŋ
 미용사 mijoŋsʰa̠
@@ -21877,10 +21455,6 @@
 미욱스레 miuks͈ɯɾe̞
 미욱하다 miukʰa̠da̠
 미운 miun
-미운 놈 떡 하나 더 주고 우는 놈 한 번 더 때린다 <EMPTY>
-미운 놈 떡 하나 더 준다 <EMPTY>
-미운 열 사위 없고 고운 외며느리 없다 <EMPTY>
-미운 일곱 살 <EMPTY>
 미움 mium
 미워하다 miwʌ̹ɦa̠da̠
 미원 miwʌ̹n
@@ -21888,7 +21462,6 @@
 미음상 miɯmsʰa̠ŋ
 미음솥 miɯmsʰo̞t̚
 미의식 miɰiɕʰik̚
-미이라 <EMPTY>
 미인 miin
 미인계 miinɡje̞/ ~ /miinɡe̞
 미인도 miindo̞
@@ -21918,7 +21491,6 @@
 미정 mid͡ʑʌ̹ŋ
 미제 mid͡ʑe̞
 미주 mid͡ʑu
-미주알고주알 밑두리콧두리 캔다 <EMPTY>
 미지 mid͡ʑi
 미지근 mid͡ʑiɡɯn
 미지근하다 mid͡ʑiɡɯnɦa̠da̠
@@ -21942,9 +21514,7 @@
 미치광이 mit͡ɕʰiɡwa̠ŋi
 미치다 mit͡ɕʰida̠
 미치프어 mit͡ɕʰipʰɯʌ̹
-미친 체하고 떡판에 엎드러진다 <EMPTY>
 미친개 mit͡ɕʰinɡɛ̝
-미친년의 치맛자락 같다 <EMPTY>
 미칭 ˈmiːt͡ɕʰiŋ
 미카엘 mikʰa̠e̞ɭ
 미크로네시아 연방 mikxɯɾo̞ne̞ɕʰia̠ jʌ̹nba̠ŋ
@@ -22193,7 +21763,6 @@
 민회 minɦø̞/ ~ /minβwe̞
 민휼 minʝjuɭ
 민휼하다 minʝjuɾɦa̠da̠
-믿는 도끼에 발등 찍힌다 <EMPTY>
 믿다 mit̚t͈a̠
 믿어지다 midʌ̹d͡ʑida̠
 믿음 midɯm
@@ -22231,7 +21800,6 @@
 밀매품 miɭmɛ̝pʰum
 밀무역 miɭmujʌ̹k̚
 밀물 miɭmuɭ
-밀밭만 지나가도 취한다 <EMPTY>
 밀보 miɭbo̞
 밀봉 miɭbo̞ŋ
 밀봉교육 miɭbo̞ŋɡjojuk̚
@@ -22305,7 +21873,6 @@
 밑 mit̚
 밑구녕 mit̚k͈uɲjʌ̹ŋ
 밑구멍 mit̚k͈umʌ̹ŋ
-밑돌 빼서 윗돌 고인다 <EMPTY>
 밑바닥 mit̚p͈a̠da̠k̚
 바 pa̠
 바가각 pa̠ɡa̠ɡa̠k̚
@@ -22395,14 +21962,10 @@
 바느질집 pa̠nɯd͡ʑiɭd͡ʑip̚
 바느질하다 pa̠nɯd͡ʑiɾɦa̠da̠
 바늘 pa̠nɯɭ
-바늘 가는 데 실 간다 <EMPTY>
-바늘 도둑이 소도둑 된다 <EMPTY>
 바늘개미 pa̠nɯɭɡɛ̝mi
 바늘겨레 pa̠nɯɭɡjʌ̹ɾe̞
 바늘구멍 pa̠nɯɭɡumʌ̹ŋ
-바늘구멍으로 황소바람 들어온다 <EMPTY>
 바늘귀 pa̠nɯɭɡɥi/ ~ /pa̠nɯɭɡy
-바늘로 찔러도 피 한 방울 안 난다 <EMPTY>
 바늘방석 pa̠nɯɭba̠ŋsʰʌ̹k̚
 바늘잎나무 pa̠nɯɾimna̠mu
 바다 pa̠da̠
@@ -22512,7 +22075,6 @@
 바락바락하다 pa̠ɾa̠k̚p͈a̠ɾa̠kʰa̠da̠
 바란스 pa̠ɾa̠nsʰɯ
 바람 pa̠ɾa̠m
-바람 먹고 구름 똥 싼다 <EMPTY>
 바람개비 pa̠ɾa̠mɡɛ̝bi
 바람결 pa̠ɾa̠mɡjʌ̹ɭ
 바람경각 pa̠ɾa̠mɡjʌ̹ŋɡa̠k̚
@@ -22550,7 +22112,6 @@
 바래다주다 pa̠ɾɛ̝da̠d͡ʑuda̠
 바래어지다 pa̠ɾɛ̝ʌ̹d͡ʑida̠
 바래지다 pa̠ɾɛ̝d͡ʑida̠
-바램 <EMPTY>
 바랭이 pa̠ɾɛ̝ŋi
 바레인 pa̠ɾe̞in
 바렌츠해 pa̠ɾe̞nt͡ɕʰɯɦɛ̝
@@ -22757,8 +22318,6 @@
 바질바질 pa̠d͡ʑiɭba̠d͡ʑiɭ
 바질바질하다 pa̠d͡ʑiɭba̠d͡ʑiɾɦa̠da̠
 바짓가랑이 pa̠d͡ʑit̚k͈a̠ɾa̠ŋi
-바짜 <EMPTY>
-바짜안 <EMPTY>
 바짝 pa̠t͡ɕ͈a̠k̚
 바짝바짝 pa̠t͡ɕ͈a̠k̚p͈a̠t͡ɕ͈a̠k̚
 바짝하다 pa̠t͡ɕ͈a̠kʰa̠da̠
@@ -22785,8 +22344,6 @@
 바특 pa̠tʰɯk̚
 바티칸 pa̠tʰikʰa̠n
 바하마 pa̠ɦa̠ma̠
-바하사 <EMPTY>
-바하사 찌아찌아 <EMPTY>
 박가오나무 pa̠k̚k͈a̠o̞na̠mu
 박격포 pa̠k̚k͈jʌ̹k̚pʰo̞
 박고지 pa̠k̚k͈o̞d͡ʑi
@@ -22917,7 +22474,6 @@
 박혁거세 pa̠kçjʌ̹k̚k͈ʌ̹sʰe̞
 박히다 pa̠kçida̠
 밖 pa̠k̚
-밖에 나가 뺨 맞고 구들 우에 누워서 이불 차기 <EMPTY>
 반 pa̠n
 반가 pa̠nɡa̠
 반가공품 pa̠nɡa̠ɡo̞ŋpʰum
@@ -23060,7 +22616,6 @@
 반동정당 pa̠ndo̞ŋd͡ʑʌ̹ŋda̠ŋ
 반동주의 pa̠ndo̞ŋd͡ʑuɰi
 반동하다 pa̠ndo̞ŋɦa̠da̠
-반되 <EMPTY>
 반두 pa̠ndu
 반둥 pa̠nduŋ
 반둥거리다 pa̠nduŋɡʌ̹ɾida̠
@@ -23473,7 +23028,6 @@
 반질반질 pa̠nd͡ʑiɭba̠nd͡ʑiɭ
 반질반질하다 pa̠nd͡ʑiɭba̠nd͡ʑiɾɦa̠da̠
 반집 pa̠nd͡ʑip̚
-반짓고리 <EMPTY>
 반짝 pa̠nt͡ɕ͈a̠k̚
 반짝거리다 pa̠nt͡ɕ͈a̠k̚k͈ʌ̹ɾida̠
 반짝대다 pa̠nt͡ɕ͈a̠k̚t͈ɛ̝da̠
@@ -23580,7 +23134,6 @@
 반혼 pa̠nβo̞n
 반혼제 pa̠nβo̞nd͡ʑe̞
 반혼하다 pa̠nβo̞nɦa̠da̠
-반홀소리 <EMPTY>
 반홍 pa̠nβo̞ŋ
 반화 pa̠nβwa̠
 반화방 pa̠nβwa̠ba̠ŋ
@@ -23599,7 +23152,6 @@
 받침 pa̠t̚t͡ɕʰim
 받침소리 pa̠t̚t͡ɕʰimsʰo̞ɾi
 발 pa̠ɭ
-발 없는 말이 천 리 간다 <EMPTY>
 발가닥 pa̠ɭɡa̠da̠k̚
 발가닥거리다 pa̠ɭɡa̠da̠k̚k͈ʌ̹ɾida̠
 발가닥대다 pa̠ɭɡa̠da̠k̚t͈ɛ̝da̠
@@ -23800,7 +23352,6 @@
 발병되다 pa̠ɭbjʌ̹ŋdø̞da̠/ ~ /pa̠ɭbjʌ̹ŋdwe̞da̠
 발병률 pa̠ɭbjʌ̹ŋɲjuɭ
 발병하다 pa̠ɭbjʌ̹ŋɦa̠da̠
-발보다 발가락이 더 크다 <EMPTY>
 발본 pa̠ɭbo̞n
 발본색원 pa̠ɭbo̞nsʰɛ̝ɡwʌ̹n
 발본하다 pa̠ɭbo̞nɦa̠da̠
@@ -23907,7 +23458,6 @@
 발인 pa̠ɾin
 발인하다 pa̠ɾinɦa̠da̠
 발자국 pa̠ɭd͡ʑa̠ɡuk̚
-발자욱 <EMPTY>
 발자취 pa̠ɭt͡ɕ͈a̠t͡ɕʰɥi/ ~ /pa̠ɭt͡ɕ͈a̠t͡ɕʰy
 발작 pa̠ɭd͡ʑa̠k̚
 발작적 pa̠ɭd͡ʑa̠k̚t͡ɕ͈ʌ̹k̚
@@ -24023,7 +23573,6 @@
 밝은 pa̠ɭɡɯn
 밝은띠 에코 pa̠ɭɡɯnt͈i e̞kʰo̞
 밝음 pa̠ɭɡɯm
-밝쥐 <EMPTY>
 밝혀내다 pa̠ɭkçjʌ̹nɛ̝da̠
 밝혀지다 pa̠ɭkçjʌ̹d͡ʑida̠
 밝히다 pa̠ɭkçida̠
@@ -24045,8 +23594,6 @@
 밤참 pa̠mt͡ɕʰa̠m
 밤하늘 pa̠mɦa̠nɯɭ
 밥 pa̠p̚
-밥 먹을 때는 개도 안 때린다 <EMPTY>
-밥 빌어다가 죽을 쑤어 먹을 놈 <EMPTY>
 밥감주 pa̠p̚k͈a̠md͡ʑu
 밥공장 pa̠p̚k͈o̞ŋd͡ʑa̠ŋ
 밥곽 pa̠p̚k͈wa̠k̚
@@ -24093,7 +23640,6 @@
 방광종양 pa̠ŋɡwa̠ŋd͡ʑo̞ŋja̠ŋ
 방구 pa̠ŋɡu
 방귀 pa̠ŋɡɥi/ ~ /pa̠ŋɡy
-방귀가 잦으면 똥 싸기 쉽다 <EMPTY>
 방그레 pa̠ŋɡɯɾe̞
 방그레하다 pa̠ŋɡɯɾe̞ɦa̠da̠
 방글 pa̠ŋɡɯɭ
@@ -24517,7 +24063,6 @@
 밭주인 pa̠t̚t͡ɕ͈uin
 배 pɛ̝
 배가 pɛ̝ɡa̠
-배가 남산만 하다 <EMPTY>
 배가기구 pɛ̝ɡa̠ɡiɡu
 배가닥 pɛ̝ɡa̠da̠k̚
 배가되다 pɛ̝ɡa̠dø̞da̠/ ~ /pɛ̝ɡa̠dwe̞da̠
@@ -24608,7 +24153,6 @@
 배벽반사 pɛ̝bjʌ̹k̚p͈a̠nsʰa̠
 배변 pɛ̝bjʌ̹n
 배변하다 pɛ̝bjʌ̹nɦa̠da̠
-배보다 배꼽이 더 크다 <EMPTY>
 배본 pɛ̝bo̞n
 배부 pɛ̝bu
 배부되다 pɛ̝budø̞da̠/ ~ /pɛ̝budwe̞da̠
@@ -25111,7 +24655,6 @@
 백족충 pɛ̝k̚t͡ɕ͈o̞k̚t͡ɕʰuŋ
 백주현상 pɛ̝k̚t͡ɕ͈uʝjʌ̹nsʰa̠ŋ
 백주혜성 pɛ̝k̚t͡ɕ͈uʝje̞sʰʌ̹ŋ/ ~ /pɛ̝k̚t͡ɕ͈uɦe̞sʰʌ̹ŋ
-백죽 <EMPTY>
 백중력 pɛ̝k̚t͡ɕ͈uŋɲjʌ̹k̚
 백중사리 pɛ̝k̚t͡ɕ͈uŋsʰa̠ɾi
 백중숙계 pɛ̝k̚t͡ɕ͈uŋsʰuk̚k͈je̞/ ~ /pɛ̝k̚t͡ɕ͈uŋsʰuk̚k͈e̞
@@ -25121,7 +24664,6 @@
 백지상태 pɛ̝k̚t͡ɕ͈isʰa̠ŋtʰɛ̝
 백지수표 pɛ̝k̚t͡ɕ͈isʰupʰjo
 백지장 pɛ̝k̚t͡ɕ͈id͡ʑa̠ŋ
-백지장도 맞들면 낫다 <EMPTY>
 백지주의 pɛ̝k̚t͡ɕ͈id͡ʑuɰi
 백지징세 pɛ̝k̚t͡ɕ͈id͡ʑiŋsʰe̞
 백지형법 pɛ̝k̚t͡ɕ͈iʝjʌ̹ŋbʌ̹p̚
@@ -25194,7 +24736,6 @@
 밴둥 pɛ̝nduŋ
 뱀 pɛ̝m
 뱀장어 pɛ̝md͡ʑa̠ŋʌ̹
-뱁새가 황새를 따라가면 다리가 찢어진다 <EMPTY>
 뱃머리 pɛ̝nmʌ̹ɾi
 뱃사람 pɛ̝t̚s͈a̠ɾa̠m/ ~ /pɛ̝s͈a̠ɾa̠m
 뱅이 pɛ̝ŋi
@@ -25409,10 +24950,8 @@
 번각본 pʌ̹nɡa̠k̚p͈o̞n
 번갈증 pʌ̹nɡa̠ɭd͡ʑɯŋ
 번개 pʌ̹nɡɛ̝
-번개가 잦으면 천둥을 한다 <EMPTY>
 번개방전 pʌ̹nɡɛ̝ba̠ŋd͡ʑʌ̹n
 번갯불 pʌ̹nɡɛ̝t̚p͈uɭ
-번갯불에 콩 볶아 먹겠다 <EMPTY>
 번거로이 pʌ̹nɡʌ̹ɾo̞i
 번거롭다 pʌ̹nɡʌ̹ɾo̞p̚t͈a̠
 번국 pʌ̹nɡuk̚
@@ -25688,7 +25227,6 @@
 벌초하다 pʌ̹ɭt͡ɕʰo̞ɦa̠da̠
 벌충 pʌ̹ɭt͡ɕʰuŋ
 벌칙 pʌ̹ɭt͡ɕʰik̚
-벌칙금 <EMPTY>
 벌침 pʌ̹ɭt͡ɕʰim
 벌커덕 pʌ̹ɭkʰʌ̹dʌ̹k̚
 벌커덕거리다 pʌ̹ɭkʰʌ̹dʌ̹k̚k͈ʌ̹ɾida̠
@@ -25832,8 +25370,6 @@
 법요 pʌ̹bjo
 법원 pʌ̹bwʌ̹n
 법원장 pʌ̹bwʌ̹nd͡ʑa̠ŋ
-법율 <EMPTY>
-법은 멀고 주먹은 가깝다 <EMPTY>
 법의 pʌ̹bɰi
 법의학 pʌ̹bɰiɦa̠k̚
 법익 pʌ̹bik̚
@@ -25896,7 +25432,6 @@
 벗어난움직씨 pʌ̹sʰʌ̹na̠numd͡ʑikɕ͈i
 벙 pʌ̹ŋ
 벙거지 pʌ̹ŋɡʌ̹d͡ʑi
-벙거지 시울 만지는 소리 <EMPTY>
 벙그레 pʌ̹ŋɡɯɾe̞
 벙그레하다 pʌ̹ŋɡɯɾe̞ɦa̠da̠
 벙글 pʌ̹ŋɡɯɭ
@@ -25935,7 +25470,6 @@
 벙싯벙싯하다 pʌ̹ŋɕʰit̚p͈ʌ̹ŋɕʰitʰa̠da̠
 벙싯이 pʌ̹ŋɕʰiɕʰi
 벙싯하다 pʌ̹ŋɕʰitʰa̠da̠
-벙어리 냉가슴 앓듯 <EMPTY>
 벙하다 pʌ̹ŋɦa̠da̠
 벙히 pʌ̹ŋʝi
 벚꽃 pʌ̹t̚k͈o̞t̚
@@ -25956,7 +25490,6 @@
 베른 pe̞ɾɯn
 베를린 pe̞ɾɯɭʎin
 베릴륨 pe̞ɾiɭʎjum
-베베 <EMPTY>
 베스트셀러 pe̞sʰɯtʰɯsʰe̞ɭɭʌ̹
 베시 pe̞ɕʰi
 베아링 pe̞a̠ɾiŋ
@@ -25993,7 +25526,6 @@
 벳질 pe̞t̚t͡ɕ͈iɭ
 벵 pe̞ŋ
 벼 pjʌ̹
-벼 이삭은 익을수록 고개를 숙인다 <EMPTY>
 벼락 pjʌ̹ɾa̠k̚
 벼락고기잡이 pjʌ̹ɾa̠k̚k͈o̞ɡid͡ʑa̠bi
 벼락촉 pjʌ̹ɾa̠k̚t͡ɕʰo̞k̚
@@ -26002,9 +25534,7 @@
 벼랑오르기 pjʌ̹ɾa̠ŋo̞ɾɯɡi
 벼루 pjʌ̹ɾu
 벼룩 pjʌ̹ɾuk̚
-벼룩도 낯짝이 있다 <EMPTY>
 벼룩시장 pjʌ̹ɾukɕ͈id͡ʑa̠ŋ
-벼룩의 간을 내먹는다 <EMPTY>
 벼슬 pjʌ̹sʰɯɭ
 벼슬하다 pjʌ̹sʰɯɾɦa̠da̠
 벽 pjʌ̹k̚
@@ -26020,7 +25550,6 @@
 벽보판 pjʌ̹k̚p͈o̞pʰa̠n
 벽수 pjʌ̹ks͈u
 벽안 pjʌ̹ɡa̠n
-벽에도 귀가 있다 <EMPTY>
 벽오동 pjʌ̹ɡo̞do̞ŋ
 벽장 pjʌ̹k̚t͡ɕ͈a̠ŋ
 벽장문 pjʌ̹k̚t͡ɕ͈a̠ŋmun
@@ -26248,10 +25777,8 @@
 별사건 pjʌ̹ɭsʰa̠ɡʌ̹n
 별사전 pjʌ̹ɭsʰa̠d͡ʑʌ̹n
 별선군관 pjʌ̹ɭsʰʌ̹nɡunɡwa̠n
-별세 <EMPTY>
 별세계 pjʌ̹ɭsʰe̞ɡje̞/ ~ /pjʌ̹ɭsʰe̞ɡe̞
 별세초 pjʌ̹ɭsʰe̞t͡ɕʰo̞
-별세하다 <EMPTY>
 별수단 pjʌ̹ɭsʰuda̠n
 별시 pjʌ̹ɭɕʰi
 별실 pjʌ̹ɭɕʰiɭ
@@ -26316,8 +25843,6 @@
 병세 pjʌ̹ŋsʰe̞
 병술 pjʌ̹ŋsʰuɭ
 병신 pjʌ̹ŋɕʰin
-병신 달밤에 체조한다 <EMPTY>
-병신도 제 재미에 산다 <EMPTY>
 병실 pjʌ̹ŋɕʰiɭ
 병아리 pjʌ̹ŋa̠ɾi
 병아리색 pjʌ̹ŋa̠ɾisʰɛ̝k̚
@@ -26438,7 +25963,6 @@
 보급소 po̞ɡɯps͈o̞
 보급자 po̞ɡɯp̚t͡ɕ͈a̠
 보급품 po̞ɡɯp̚pʰum
-보기 좋은 떡이 먹기도 좋다 <EMPTY>
 보나스 po̞na̠sʰɯ
 보내다 po̞nɛ̝da̠
 보내오다 po̞nɛ̝o̞da̠
@@ -26806,7 +26330,6 @@
 보질보질하다 po̞d͡ʑiɭbo̞d͡ʑiɾɦa̠da̠
 보집합 po̞d͡ʑipʰa̠p̚
 보쯔와나 po̞t͡ɕ͈ɯwa̠na̠
-보채는 아이 밥 한 술 더 준다 <EMPTY>
 보채다 po̞t͡ɕʰɛ̝da̠
 보청 po̞t͡ɕʰʌ̹ŋ
 보청기 po̞t͡ɕʰʌ̹ŋɡi
@@ -26920,7 +26443,6 @@
 보호하다 po̞βo̞ɦa̠da̠
 보화 po̞βwa̠
 복 po̞k̚
-복 있는 과부는 앉아도 요강 꼭지에 앉는다 <EMPTY>
 복각계 po̞k̚k͈a̠k̚k͈je̞/ ~ /po̞k̚k͈a̠k̚k͈e̞
 복각본 po̞k̚k͈a̠k̚p͈o̞n
 복간 po̞k̚k͈a̠n
@@ -26953,7 +26475,6 @@
 복귀하다 po̞k̚k͈ɥiɦa̠da̠/ ~ /po̞k̚k͈yɦa̠da̠
 복근 po̞k̚k͈ɯn
 복날 po̞ŋna̠ɭ
-복날에 개 잡듯 <EMPTY>
 복놀이 po̞ŋno̞ɾi
 복닥 po̞k̚t͈a̠k̚
 복닥거리다 po̞k̚t͈a̠k̚k͈ʌ̹ɾida̠
@@ -27419,8 +26940,6 @@
 볼펜 po̞ɭpʰe̞n
 볼품 po̞ɭpʰum
 봄 po̞m
-봄 보지가 쇠 저를 녹이고 가을 좆이 쇠판을 뚫는다 <EMPTY>
-봄 조개 가을 낙지 <EMPTY>
 봄가물 po̞mɡa̠muɭ
 봄갈이 po̞mɡa̠ɾi
 봄기운 po̞mɡiun
@@ -27464,7 +26983,6 @@
 봉다리 po̞ŋda̠ɾi
 봉답 po̞ŋda̠p̚
 봉당 po̞ŋda̠ŋ
-봉당을 빌려 주니 안방까지 달란다 <EMPTY>
 봉돌 po̞ŋdo̞ɭ
 봉랍 po̞ŋna̠p̚
 봉래 po̞ŋnɛ̝
@@ -27478,7 +26996,6 @@
 봉분 po̞ŋbun
 봉분제 po̞ŋbund͡ʑe̞
 봉사 po̞ŋsʰa̠
-봉사 문고리 잡기 <EMPTY>
 봉사심 po̞ŋsʰa̠ɕʰim
 봉사자 po̞ŋsʰa̠d͡ʑa̠
 봉사하다 po̞ŋsʰa̠ɦa̠da̠
@@ -27727,7 +27244,6 @@
 부딪치다 pudit̚t͡ɕʰida̠
 부딪히다 pudit͡ɕʰida̠
 부뚜막 put͈uma̠k̚
-부뚜막의 소금도 집어넣어야 짜다 <EMPTY>
 부라리다 puɾa̠ɾida̠
 부라자 puɾa̠d͡ʑa̠
 부라질 puɾa̠d͡ʑiɭ
@@ -27825,7 +27341,6 @@
 부비적부비적 pubid͡ʑʌ̹k̚p͈ubid͡ʑʌ̹k̚
 부비적부비적하다 pubid͡ʑʌ̹k̚p͈ubid͡ʑʌ̹kʰa̠da̠
 부비트랩 pubitʰɯɾɛ̝p̚
-부빔밥 <EMPTY>
 부사 pusʰa̠
 부사어 pusʰa̠ʌ̹
 부사형 pusʰa̠ʝjʌ̹ŋ
@@ -27946,7 +27461,6 @@
 부양책 puja̠ŋt͡ɕʰɛ̝k̚
 부양하다 puja̠ŋɦa̠da̠
 부얘지다 pujɛ̝d͡ʑida̠
-부억 <EMPTY>
 부언 puʌ̹n
 부얼부얼 puʌ̹ɭbuʌ̹ɭ
 부얼부얼하다 puʌ̹ɭbuʌ̹ɾɦa̠da̠
@@ -27956,7 +27470,6 @@
 부엉이셈 puʌ̹ŋisʰe̞m
 부엌 puʌ̹k̚
 부엌데기 puʌ̹k̚t͈e̞ɡi
-부엌때기 <EMPTY>
 부에노스아이레스 pue̞no̞sʰɯa̠iɾe̞sʰɯ
 부여 pujʌ̹
 부여국 pujʌ̹ɡuk̚
@@ -28003,9 +27516,7 @@
 부임 puim
 부임하다 puimɦa̠da̠
 부자 pud͡ʑa̠
-부자 몸 조심 <EMPTY>
 부자간 pud͡ʑa̠ɡa̠n
-부자는 망해도 삼 년 먹을 것이 있다 <EMPTY>
 부자연 pud͡ʑa̠jʌ̹n
 부자연스럽다 pud͡ʑa̠jʌ̹nsʰɯɾʌ̹p̚t͈a̠
 부자유 pud͡ʑa̠ju
@@ -28015,7 +27526,6 @@
 부작위 pud͡ʑa̠ɡɥi/ ~ /pud͡ʑa̠ɡy
 부잡 pud͡ʑa̠p̚
 부잣집 pud͡ʑa̠t̚t͡ɕ͈ip̚
-부잣집 맏며느릿감이다 <EMPTY>
 부장 pud͡ʑa̠ŋ
 부재 pud͡ʑɛ̝
 부재자 pud͡ʑɛ̝d͡ʑa̠
@@ -28059,7 +27569,6 @@
 부주의하다 pud͡ʑuɰiɦa̠da̠
 부중 pud͡ʑuŋ
 부지 pud͡ʑi
-부지깽이가 곤두선다 <EMPTY>
 부지꾼 pud͡ʑik͈un
 부지런 pud͡ʑiɾʌ̹n
 부지런스럽다 pud͡ʑiɾʌ̹nsʰɯɾʌ̹p̚t͈a̠
@@ -28104,7 +27613,6 @@
 부처 put͡ɕʰʌ̹
 부처꽃 put͡ɕʰʌ̹k͈o̞t̚
 부처님 put͡ɕʰʌ̹nim
-부처님 가운데 토막 <EMPTY>
 부처님 오신 날 put͡ɕʰʌ̹nim o̞ɕʰin na̠ɭ
 부처님 오신 날 put͡ɕʰʌ̹nim o̞ɕʰin na̠ɭ
 부천시 put͡ɕʰʌ̹nɕʰi
@@ -28130,7 +27638,6 @@
 부패되다 pupʰɛ̝dø̞da̠/ ~ /pupʰɛ̝dwe̞da̠
 부패지수 pupʰɛ̝d͡ʑisʰu
 부패하다 pupʰɛ̝ɦa̠da̠
-부페 <EMPTY>
 부표 pupʰjo
 부푸러기 pupʰuɾʌ̹ɡi
 부풀 pupʰuɭ
@@ -28238,7 +27745,6 @@
 분노 조절 장애 punno̞ t͡ɕo̞d͡ʑʌ̹ɭ t͡ɕa̠ŋɛ̝
 분노하다 punno̞ɦa̠da̠
 분뇨 punɲjo
-분다 분다 하니까 하루아침에 왕겨 석 섬을 분다 <EMPTY>
 분단 punda̠n
 분단국가 punda̠nɡuk̚k͈a̠
 분단되다 punda̠ndø̞da̠/ ~ /punda̠ndwe̞da̠
@@ -28496,7 +28002,6 @@
 분회 punɦø̞/ ~ /punβwe̞
 붇다 put̚t͈a̠
 불 puɭ
-불 난 집에 부채질한다 <EMPTY>
 불가 puɭɡa̠
 불가결 puɭɡa̠ɡjʌ̹ɭ
 불가결하다 puɭɡa̠ɡjʌ̹ɾɦa̠da̠
@@ -28548,7 +28053,6 @@
 불그숙숙 puɭɡɯsʰuks͈uk̚
 불그스름 puɭɡɯsʰɯɾɯm
 불그죽죽 puɭɡɯd͡ʑuk̚t͡ɕ͈uk̚
-불꺼름 <EMPTY>
 불꽃 puɭk͈o̞t̚
 불끌탄 puɭk͈ɯɭtʰa̠n
 불능 puɭɭɯŋ
@@ -28556,7 +28060,6 @@
 불도그 puɭdo̞ɡɯ
 불도저 puɭdo̞d͡ʑʌ̹
 불도젤 puɭdo̞d͡ʑe̞ɭ
-불독 <EMPTY>
 불두덩 puɭdudʌ̹ŋ
 불뚱 puɭt͈uŋ
 불란서 puɭɭa̠nsʰʌ̹
@@ -28599,7 +28102,6 @@
 불안정하다 puɾa̠nd͡ʑʌ̹ŋɦa̠da̠
 불안하다 puɾa̠nɦa̠da̠
 불알 puɾa̠ɭ
-불알 두 쪽밖에는 없다 <EMPTY>
 불어 puɾʌ̹
 불어오다 puɾʌ̹o̞da̠
 불여우 puɭʎjʌ̹u
@@ -28649,12 +28151,10 @@
 붉다 puk̚t͈a̠
 붉은 puɭɡɯn
 붉은귀거북 puɭɡɯnɡɥiɡʌ̹buk̚/ ~ /puɭɡɯnɡyɡʌ̹buk̚
-붉은매미나방 <EMPTY>
 붉음 puɭɡɯm
 붐비다 pumbida̠
 붓꽃 put̚k͈o̞t̚
 붓다 put̚t͈a̠
-붕 <EMPTY>
 붕괴 puŋɡø̞/ ~ /puŋɡwe̞
 붕산면 puŋsʰa̠nmjʌ̹n
 붕산수 puŋsʰa̠nsʰu
@@ -28676,8 +28176,6 @@
 붙잡다 put̚t͡ɕ͈a̠p̚t͈a̠
 붙잡히다 put̚t͡ɕ͈a̠pʰida̠
 붴 pwʌ̹k̚
-브라우스 <EMPTY>
-브라인드 <EMPTY>
 브라자 pɯɾa̠d͡ʑa̠
 브라질 pɯɾa̠d͡ʑiɭ
 브라찌슬라바 pɯɾa̠t͡ɕ͈isʰɯɭɭa̠ba̠
@@ -28694,7 +28192,6 @@
 브류쎌 pɯɾjus͈e̞ɭ
 브르네이 pɯɾɯne̞i
 브르타뉴 pɯɾɯtʰa̠ɲju
-블 <EMPTY>
 블라고에프그라드 pɯɭɭa̠ɡo̞e̞pʰɯɡɯɾa̠dɯ
 블라디미르 pɯɭɭa̠dimiɾɯ
 블라디보스토크 pɯɭɭa̠dibo̞sʰɯtʰo̞kxɯ
@@ -28709,9 +28206,7 @@
 블루오션 pɯɭɭuo̞ɕʰjʌ̹n
 블루진 pɯɭɭud͡ʑin
 블룸폰테인 pɯɭɭumpʰo̞ntʰe̞in
-블휘 <EMPTY>
 비 pi
-비 오는 날 장독 열기 <EMPTY>
 비겁 piɡʌ̹p̚
 비겁하다 ˈpiːɡʌ̹pʰa̠da̠
 비견 piɡjʌ̹n
@@ -28752,7 +28247,6 @@
 비대칭 pidɛ̝t͡ɕʰiŋ
 비도덕적 pido̞dʌ̹k̚t͡ɕ͈ʌ̹k̚
 비둘기 piduɭɡi
-비둘기는 몸은 밖에 있어도 마음은 콩밭에 가 있다 <EMPTY>
 비둘기색 piduɭɡisʰɛ̝k̚
 비듬 pidɯm
 비듬하다 pidɯmɦa̠da̠
@@ -28773,7 +28267,6 @@
 비롯되다 piɾo̞t̚t͈ø̞da̠/ ~ /piɾo̞t̚t͈we̞da̠
 비롯하다 piɾo̞tʰa̠da̠
 비료 piɾjo
-비루스 <EMPTY>
 비름 piɾɯm
 비리다 piɾida̠
 비릿 piɾit̚
@@ -28926,7 +28419,6 @@
 비환 piβwa̠n
 비활동전선 piβwa̠ɭdo̞ŋd͡ʑʌ̹nsʰʌ̹n
 빈 pin
-빈 수레가 요란하다 <EMPTY>
 빈가 pinɡa̠
 빈개념 pinɡɛ̝ɲjʌ̹m
 빈객 pinɡɛ̝k̚
@@ -28943,7 +28435,6 @@
 빈궁하다 pinɡuŋɦa̠da̠
 빈농 pinno̞ŋ
 빈뇨증 pinɲjod͡ʑɯŋ
-빈대 잡으려고 초가삼간 태운다 <EMPTY>
 빈도수 pindo̞sʰu
 빈둥 pinduŋ
 빈둥거리다 pinduŋɡʌ̹ɾida̠
@@ -29000,7 +28491,6 @@
 빌리다 piɭʎida̠
 빌베리 piɭbe̞ɾi
 빌빌 piɭbiɭ
-빌어는 먹어도 다리아랫소리 하기는 싫다 <EMPTY>
 빌어먹을 piɾʌ̹mʌ̹ɡɯɭ
 빗 pit̚
 빗다 pit̚t͈a̠
@@ -29113,7 +28603,6 @@
 빠데 p͈a̠de̞
 빠드름 p͈a̠dɯɾɯm
 빠듯 p͈a̠dɯt̚
-빠따 <EMPTY>
 빠뜨리다 p͈a̠t͈ɯɾida̠
 빠라과이 p͈a̠ɾa̠ɡwa̠i
 빠루 p͈a̠ɾu
@@ -29128,12 +28617,10 @@
 빠릿빠릿 p͈a̠ɾit̚p͈a̠ɾit̚
 빠빠 p͈a̠p͈a̠
 빠삐에떼 p͈a̠p͈ie̞t͈e̞
-빠사르 <EMPTY>
 빠삭 p͈a̠sʰa̠k̚
 빠삭하다 p͈a̠sʰa̠kʰa̠da̠
 빠스꽈 섬 p͈a̠sʰɯk͈wa̠ sʰʌ̹m
 빠스뽀르트 p͈a̠sʰɯp͈o̞ɾɯtʰɯ
-빠우 <EMPTY>
 빠작 p͈a̠d͡ʑa̠k̚
 빠져나가다 p͈a̠d͡ʑjʌ̹na̠ɡa̠da̠
 빠져나오다 p͈a̠d͡ʑjʌ̹na̠o̞da̠
@@ -29145,7 +28632,6 @@
 빤 p͈a̠n
 빤들 p͈a̠ndɯɭ
 빤빤 p͈a̠np͈a̠n
-빤스 <EMPTY>
 빤쓰 p͈a̠ns͈ɯ
 빤질 p͈a̠nd͡ʑiɭ
 빤질빤질 p͈a̠nd͡ʑiɭp͈a̠nd͡ʑiɭ
@@ -29173,7 +28659,6 @@
 빨래하다 p͈a̠ɭɭɛ̝ɦa̠da̠
 빨랫비누 p͈a̠ɭɭɛ̝t̚p͈inu
 빨리 p͈a̠ɭʎi
-빨리 먹은 콩밥 똥 눌 때 보자 한다 <EMPTY>
 빨리다 p͈a̠ɭʎida̠
 빨리하다 p͈a̠ɭʎiɦa̠da̠
 빨빨 p͈a̠ɭp͈a̠ɭ
@@ -29204,7 +28689,6 @@
 빼앗기다 p͈ɛ̝a̠t̚k͈ida̠
 빼앗다 p͈ɛ̝a̠t̚t͈a̠
 빼어나다 p͈ɛ̝ʌ̹na̠da̠
-빼주 <EMPTY>
 빼죽 p͈ɛ̝d͡ʑuk̚
 빼틀 p͈ɛ̝tʰɯɭ
 빽빽 p͈ɛ̝k̚p͈ɛ̝k̚
@@ -29216,7 +28700,6 @@
 뺏다 p͈ɛ̝t̚t͈a̠
 뺨 p͈ja̠m
 뺨따귀 p͈ja̠mt͈a̠ɡɥi/ ~ /p͈ja̠mt͈a̠ɡy
-뺨때기 <EMPTY>
 뻐근 p͈ʌ̹ɡɯn
 뻐근하다 p͈ʌ̹ɡɯnɦa̠da̠
 뻐기다 p͈ʌ̹ɡida̠
@@ -29274,7 +28757,6 @@
 뼈아프다 p͈jʌ̹a̠pʰɯda̠
 뼈저린 p͈jʌ̹d͡ʑʌ̹ɾin
 뼉다구 p͈jʌ̹k̚t͈a̠ɡu
-뽀가우 <EMPTY>
 뽀그르 p͈o̞ɡɯɾɯ
 뽀그르르 p͈o̞ɡɯɾɯɾɯ
 뽀그르르하다 p͈o̞ɡɯɾɯɾɯɦa̠da̠
@@ -29328,9 +28810,7 @@
 뽀르릉뽀르릉 p͈o̞ɾɯɾɯŋp͈o̞ɾɯɾɯŋ
 뽀뽀 p͈o̞p͈o̞
 뽀뽀하다 p͈o̞p͈o̞ɦa̠da̠
-뽀뿌라 <EMPTY>
 뽀뿌린 p͈o̞p͈uɾin
-뽀삐아 <EMPTY>
 뽀사삭 p͈o̞sʰa̠sʰa̠k̚
 뽀사삭거리다 p͈o̞sʰa̠sʰa̠k̚k͈ʌ̹ɾida̠
 뽀사삭대다 p͈o̞sʰa̠sʰa̠k̚t͈ɛ̝da̠
@@ -29404,7 +28884,6 @@
 뽑히다 p͈o̞pʰida̠
 뽕나다 p͈o̞ŋna̠da̠
 뽕놓다 p͈o̞ŋno̞tʰa̠
-뽕도 따고 임도 보고 <EMPTY>
 뽕뽕 p͈o̞ŋp͈o̞ŋ
 뽕뽕거리다 p͈o̞ŋp͈o̞ŋɡʌ̹ɾida̠
 뽕뽕대다 p͈o̞ŋp͈o̞ŋdɛ̝da̠
@@ -29463,7 +28942,6 @@
 쁘로그람마 p͈ɯɾo̞ɡɯɾa̠mma̠
 쁘스꼬브 p͈ɯsʰɯk͈o̞bɯ
 삐거덕 p͈iɡʌ̹dʌ̹k̚
-삐까라자아 <EMPTY>
 삐끗 p͈ik͈ɯt̚
 삐딱 p͈it͈a̠k̚
 삐딱거리다 p͈it͈a̠k̚k͈ʌ̹ɾida̠
@@ -29525,7 +29003,6 @@
 사골 sʰa̠ɡo̞ɭ
 사곳 sʰa̠ɡo̞t̚
 사공 sʰa̠ɡo̞ŋ
-사공이 많으면 배가 산으로 올라간다 <EMPTY>
 사과 sʰa̠ɡwa̠
 사과나무 sʰa̠ɡwa̠na̠mu
 사과드리다 sʰa̠ɡwa̠dɯɾida̠
@@ -29598,8 +29075,6 @@
 사나흘 sʰa̠na̠ɣɯɭ
 사납다 sʰa̠na̠p̚t͈a̠
 사내 sʰa̠nɛ̝
-사내 못난 것은 대가리만 크고, 계집 못난 것은 젖통만 크다 <EMPTY>
-사내가 바가지로 물을 마시면 수염이 안 난다 <EMPTY>
 사내대장부 sʰa̠nɛ̝dɛ̝d͡ʑa̠ŋbu
 사내보 sʰa̠nɛ̝bo̞
 사내새끼 sʰa̠nɛ̝sʰɛ̝k͈i
@@ -29629,7 +29104,6 @@
 사담 sʰa̠da̠m
 사당 sʰa̠da̠ŋ
 사당적 sʰa̠da̠ŋd͡ʑʌ̹k̚
-사당치레하다가 신주 개 물려 보낸다 <EMPTY>
 사대 sʰa̠dɛ̝
 사대문 sʰa̠dɛ̝mun
 사대부 sʰa̠dɛ̝bu
@@ -29641,10 +29115,8 @@
 사도 sʰa̠do̞
 사도행전 sʰa̠do̞ɦɛ̝ŋd͡ʑʌ̹n
 사돈 sʰa̠do̞n
-사돈 남 나무란다 <EMPTY>
 사돈댁 sʰa̠do̞ndɛ̝k̚
 사돈어른 sʰa̠do̞nʌ̹ɾɯn
-사돈집과 뒷간은 멀수록 좋다 <EMPTY>
 사동 sʰa̠do̞ŋ
 사동문 sʰa̠do̞ŋmun
 사동사 sʰa̠do̞ŋsʰa̠
@@ -29653,7 +29125,6 @@
 사들이다 sʰa̠dɯɾida̠
 사디스트 sʰa̠disʰɯtʰɯ
 사또 sʰa̠t͈o̞
-사또 덕분에 나발 분다 <EMPTY>
 사라 sʰa̠ɾa̠
 사라능단 sʰa̠ɾa̠nɯŋda̠n
 사라다 sʰa̠ɾa̠da̠
@@ -29671,13 +29142,7 @@
 사락사락 sʰa̠ɾa̠ks͈a̠ɾa̠k̚
 사락사락하다 sʰa̠ɾa̠ks͈a̠ɾa̠kʰa̠da̠
 사람 ˈsʰa̠ːɾa̠m
-사람 나고 돈 났지 돈 나고 사람 났나 <EMPTY>
-사람 번지는 것은 모른다 <EMPTY>
-사람 살려 <EMPTY>
-사람 속은 소금 서 말을 같이 먹어 보아야 안다 <EMPTY>
-사람 위에 사람 없고 사람 밑에 사람 없다 <EMPTY>
 사람됨 sʰa̠ɾa̠mdø̞m/ ~ /sʰa̠ɾa̠mdwe̞m
-사람은 죽으면 이름을 남기고 범은 죽으면 가죽을 남긴다 <EMPTY>
 사랑 sʰa̠ɾa̠ŋ
 사랑니 sʰa̠ɾa̠ŋni
 사랑문 sʰa̠ɾa̠ŋmun
@@ -29687,7 +29152,6 @@
 사랑스럽다 sʰa̠ɾa̠ŋsʰɯɾʌ̹p̚t͈a̠
 사랑싸움 sʰa̠ɾa̠ŋs͈a̠um
 사랑양반 sʰa̠ɾa̠ŋja̠ŋba̠n
-사랑은 내리 사랑 <EMPTY>
 사랑채 sʰa̠ɾa̠ŋt͡ɕʰɛ̝
 사랑하다 sʰa̠ɾa̠ŋɦa̠da̠
 사랑합니다 sʰa̠ɾa̠ŋɦa̠mnida̠
@@ -29724,7 +29188,6 @@
 사료하다 sʰa̠ɾjoɦa̠da̠
 사료학 sʰa̠ɾjoɦa̠k̚
 사룡 sʰa̠ɾjoŋ
-사루비아 <EMPTY>
 사륙배판 sʰa̠ɾjuk̚p͈ɛ̝pʰa̠n
 사륙판 sʰa̠ɾjuk̚pʰa̠n
 사륜 sʰa̠ɾjun
@@ -29769,7 +29232,6 @@
 사리사리 sʰa̠ɾisʰa̠ɾi
 사리사리하다 sʰa̠ɾisʰa̠ɾiɦa̠da̠
 사리사욕 sʰa̠ɾisʰa̠jok̚
-사리에 맞는 말로는 속일 수 있어도 사리에 맞지 않는 말로는 속일 수 없다 <EMPTY>
 사리탑 sʰa̠ɾitʰa̠p̚
 사린 sʰa̠ɾin
 사림 sʰa̠ɾim
@@ -30173,7 +29635,6 @@
 사옥 sʰa̠o̞k̚
 사왕천 sʰa̠wa̠ŋt͡ɕʰʌ̹n
 사외 sʰa̠ø̞/ ~ /sʰa̠we̞
-사요르 <EMPTY>
 사욕 sʰa̠jok̚
 사용 sʰa̠joŋ
 사용가치 sʰa̠joŋɡa̠t͡ɕʰi
@@ -30201,9 +29662,7 @@
 사원총회 sʰa̠wʌ̹nt͡ɕʰo̞ŋɦø̞/ ~ /sʰa̠wʌ̹nt͡ɕʰo̞ŋβwe̞
 사월 sʰa̠wʌ̹ɭ
 사위 sʰa̠ɥi/ ~ /sʰa̠y
-사위 사랑은 장모 며느리 사랑은 시아버지 <EMPTY>
 사위기대 sʰa̠ɥiɡidɛ̝/ ~ /sʰa̠yɡidɛ̝
-사위는 백 년 손이요 며느리는 종신 식구라 <EMPTY>
 사위다 sʰa̠ɥida̠/ ~ /sʰa̠yda̠
 사윗감 sʰa̠ɥit̚k͈a̠m/ ~ /sʰa̠yt̚k͈a̠m
 사유 sʰa̠ju
@@ -30321,7 +29780,6 @@
 사조 sʰa̠d͡ʑo̞
 사조구 sʰa̠d͡ʑo̞ɡu
 사조단자 sʰa̠d͡ʑo̞da̠nd͡ʑa̠
-사족 <EMPTY>
 사종성 sʰa̠d͡ʑo̞ŋsʰʌ̹ŋ
 사좌해향 sʰa̠d͡ʑwa̠ɦɛ̝ʝja̠ŋ
 사죄 sʰa̠d͡ʑø̞/ ~ /sʰa̠d͡ʑwe̞
@@ -30634,7 +30092,6 @@
 사후심 sʰa̠βuɕʰim
 사흗날 sʰa̠ɣɯnna̠ɭ
 사흘 sʰa̠ɣɯɭ
-사흘 굶어 도둑질 아니할 놈 없다 <EMPTY>
 삭 sʰa̠k̚
 삭뇨증 sʰa̠ŋɲjod͡ʑɯŋ
 삭다례 sʰa̠k̚t͈a̠ɾje̞/ ~ /sʰa̠k̚t͈a̠ɾe̞
@@ -30803,7 +30260,6 @@
 산술평균 sʰa̠nsʰuɭpʰjʌ̹ŋɡjun
 산스크리트어 sʰa̠nsʰɯkxɯɾitʰɯʌ̹
 산식물 sʰa̠nɕʰiŋmuɭ
-산신 제물에 메뚜기 뛰어들듯 <EMPTY>
 산신각 sʰa̠nɕʰinɡa̠k̚
 산신나무 sʰa̠nɕʰinna̠mu
 산신당 sʰa̠nɕʰinda̠ŋ
@@ -30862,7 +30318,6 @@
 산업화 sʰa̠nʌ̹pʰwa̠
 산업화하다 sʰa̠nʌ̹pʰwa̠ɦa̠da̠
 산업훈장 sʰa̠nʌ̹pʰund͡ʑa̠ŋ
-산에 가야 꿩을 잡고 바다에 가야 고기를 잡는다 <EMPTY>
 산왕단 sʰa̠nwa̠ŋda̠n
 산왕대신 sʰa̠nwa̠ŋdɛ̝ɕʰin
 산외말사 sʰa̠nø̞ma̠ɭsʰa̠/ ~ /sʰa̠nwe̞ma̠ɭsʰa̠
@@ -30964,7 +30419,6 @@
 산화철 sʰa̠nβwa̠t͡ɕʰʌ̹ɭ
 산화탄소 sʰa̠nβwa̠tʰa̠nsʰo̞
 살 sʰa̠ɭ
-買 <EMPTY>
 살갑다 sʰa̠ɭɡa̠p̚t͈a̠
 살강 sʰa̠ɭɡa̠ŋ
 살강거리다 sʰa̠ɭɡa̠ŋɡʌ̹ɾida̠
@@ -30973,7 +30427,6 @@
 살강살강하다 sʰa̠ɭɡa̠ŋsʰa̠ɭɡa̠ŋɦa̠da̠
 살강하다 sʰa̠ɭɡa̠ŋɦa̠da̠
 살결물 sʰa̠ɭɡjʌ̹ɭmuɭ
-살결이 희면 열 허물 가린다 <EMPTY>
 살고기 sʰa̠ɭɡo̞ɡi
 살구 sʰa̠ɭɡu
 살구나무 sʰa̠ɭɡuna̠mu
@@ -31020,7 +30473,6 @@
 살다 sʰa̠ɭda̠
 살대운동 sʰa̠ɭdɛ̝undo̞ŋ
 살뜰 sʰa̠ɭt͈ɯɭ
-살라따 <EMPTY>
 살랑 sʰa̠ɭɭa̠ŋ
 살랑거리다 sʰa̠ɭɭa̠ŋɡʌ̹ɾida̠
 살랑대다 sʰa̠ɭɭa̠ŋdɛ̝da̠
@@ -31130,10 +30582,7 @@
 삵 sʰa̠k̚
 삶 ˈsʰa̠ːm
 삶다 sʰa̠mt͈a̠
-삶은 호박에 이도 안 들 소리 <EMPTY>
 삼 sʰa̠m
-삼 동서가 모이면 황소도 잡는다 <EMPTY>
-삼가 고인의 명복을 빕니다 <EMPTY>
 삼가다 sʰa̠mɡa̠da̠
 삼각 sʰa̠mɡa̠k̚
 삼각건 sʰa̠mɡa̠k̚k͈ʌ̹n
@@ -31552,7 +31001,6 @@
 삼척검 sʰa̠mt͡ɕʰʌ̹k̚k͈ʌ̹m
 삼척동자 sʰa̠mt͡ɕʰʌ̹k̚t͈o̞ŋd͡ʑa̠
 삼천갑자 sʰa̠mt͡ɕʰʌ̹nɡa̠p̚t͡ɕ͈a̠
-삼천갑자 동방삭이도 저 죽을 날은 몰랐다 <EMPTY>
 삼천궁녀 sʰa̠mt͡ɕʰʌ̹nɡuŋɲjʌ̹
 삼천대계 sʰa̠mt͡ɕʰʌ̹ndɛ̝ɡje̞/ ~ /sʰa̠mt͡ɕʰʌ̹ndɛ̝ɡe̞
 삼천대천 sʰa̠mt͡ɕʰʌ̹ndɛ̝t͡ɕʰʌ̹n
@@ -31657,7 +31105,6 @@
 삿갓구름 sʰa̠t̚k͈a̠t̚k͈uɾɯm
 상 sʰa̠ŋ
 상가메 sʰa̠ŋɡa̠me̞
-상갓집 개만도 못하다 <EMPTY>
 상고 sʰa̠ŋɡo̞
 상고대 sʰa̠ŋɡo̞dɛ̝
 상공회의소 sʰa̠ŋɡo̞ŋɦø̞ɰisʰo̞/ ~ /sʰa̠ŋɡo̞ŋβwe̞ɰisʰo̞
@@ -31765,7 +31212,6 @@
 상징하다 sʰa̠ŋd͡ʑiŋɦa̠da̠
 상처 sʰa̠ŋt͡ɕʰʌ̹
 상추 sʰa̠ŋt͡ɕʰu
-상추 밭에 똥 싼 개는 저 개 저 개 한다 <EMPTY>
 상춘 sʰa̠ŋt͡ɕʰun
 상층 바람 sʰa̠ŋt͡ɕʰɯŋ pa̠ɾa̠m
 상층고기압 sʰa̠ŋt͡ɕʰɯŋɡo̞ɡia̠p̚
@@ -31795,7 +31241,6 @@
 상태곡선 sʰa̠ŋtʰɛ̝ɡo̞ks͈ʌ̹n
 상태변화 sʰa̠ŋtʰɛ̝bjʌ̹nβwa̠
 상통 sʰa̠ŋtʰo̞ŋ
-상투 위에 올라앉다 <EMPTY>
 상투메 프린시페 sʰa̠ŋtʰume̞ pʰɯɾinɕʰipʰe̞
 상트페테르부르크 sʰa̠ŋtʰɯpʰe̞tʰe̞ɾɯbuɾɯkxɯ
 상판대기 sʰa̠ŋpʰa̠ndɛ̝ɡi
@@ -31813,7 +31258,6 @@
 상황 sʰa̠ŋβwa̠ŋ
 샅 sʰa̠t̚
 새 sʰɛ̝
-새 발의 피 <EMPTY>
 새곰 sʰɛ̝ɡo̞m
 새그무레 sʰɛ̝ɡɯmuɾe̞
 새근 sʰɛ̝ɡɯn
@@ -31840,7 +31284,6 @@
 새끼손가락 sʰɛ̝k͈isʰo̞nɡa̠ɾa̠k̚
 새내기 sʰɛ̝nɛ̝ɡi
 새다 sʰɛ̝da̠
-새도 가지를 가려서 앉는다 <EMPTY>
 새들 sʰɛ̝dɯɭ
 새들거리다 sʰɛ̝dɯɭɡʌ̹ɾida̠
 새똥 sʰɛ̝t͈o̞ŋ
@@ -31873,7 +31316,6 @@
 새옹지마 sʰɛ̝o̞ŋd͡ʑima̠
 새옹화복 sʰɛ̝o̞ŋβwa̠bo̞k̚
 새우 sʰɛ̝u
-새우 싸움에 고래 등 터진다 <EMPTY>
 새우다 sʰɛ̝uda̠
 새우튀김 sʰɛ̝utʰɥiɡim/ ~ /sʰɛ̝utʰyɡim
 새장가 sʰɛ̝d͡ʑa̠ŋɡa̠
@@ -31893,7 +31335,6 @@
 새털 sʰɛ̝tʰʌ̹ɭ
 새파르족족 sʰɛ̝pʰa̠ɾɯd͡ʑo̞k̚t͡ɕ͈o̞k̚
 새해 sʰɛ̝ɦɛ̝
-새해 복 많이 받으세요 <EMPTY>
 색 sʰɛ̝k̚
 색갈 sʰɛ̝k̚k͈a̠ɭ
 색골 sʰɛ̝k̚k͈o̞ɭ
@@ -31943,13 +31384,11 @@
 샌디에이고 sʰɛ̝ndie̞iɡo̞
 샌프란시스코 sʰɛ̝npʰɯɾa̠nɕʰisʰɯkʰo̞
 샐러드 sʰɛ̝ɭɭʌ̹dɯ
-샐비아 <EMPTY>
 샐비어 sʰɛ̝ɭbiʌ̹
 샘 sʰɛ̝m
 샘내다 sʰɛ̝mnɛ̝da̠
 샘솟다 sʰɛ̝msʰo̞t̚t͈a̠
 샛 sʰɛ̝t̚
-샛바람에 게 눈 감기듯 <EMPTY>
 샛별 sʰɛ̝t̚p͈jʌ̹ɭ
 생각 sʰɛ̝ŋɡa̠k̚
 생각나다 sʰɛ̝ŋɡa̠ŋna̠da̠
@@ -32078,7 +31517,6 @@
 생산되다 sʰɛ̝ŋsʰa̠ndø̞da̠/ ~ /sʰɛ̝ŋsʰa̠ndwe̞da̠
 생산량 sʰɛ̝ŋsʰa̠nɲja̠ŋ
 생산력 sʰɛ̝ŋsʰa̠ɭʎjʌ̹k̚
-생산률 <EMPTY>
 생산비 sʰɛ̝ŋsʰa̠nbi
 생산비설 sʰɛ̝ŋsʰa̠nbisʰʌ̹ɭ
 생산사업 sʰɛ̝ŋsʰa̠nsʰa̠ʌ̹p̚
@@ -32139,7 +31577,6 @@
 생이별하다 sʰɛ̝ŋibjʌ̹ɾɦa̠da̠
 생이지지 sʰɛ̝ŋid͡ʑid͡ʑi
 생일 sʰɛ̝ŋiɭ
-생일날 잘 먹으려고 이레를 굶는다 <EMPTY>
 생자필멸 sʰɛ̝ŋd͡ʑa̠pʰiɭmjʌ̹ɭ
 생장률 sʰɛ̝ŋd͡ʑa̠ŋɲjuɭ
 생장운동 sʰɛ̝ŋd͡ʑa̠ŋundo̞ŋ
@@ -32225,7 +31662,6 @@
 생황장 sʰɛ̝ŋβwa̠ŋd͡ʑa̠ŋ
 샤를의 법칙 ɕʰja̠ɾɯɾɰi pʌ̹p̚t͡ɕʰik̚
 샤발 ɕʰja̠ba̠ɭ
-샤시 <EMPTY>
 샤실리크 ɕʰja̠ɕʰiɭʎikxɯ
 샤워 ɕʰja̠wʌ̹
 샤워하다 ɕʰja̠wʌ̹ɦa̠da̠
@@ -32303,7 +31739,6 @@
 서다 sʰʌ̹da̠
 서단 sʰʌ̹da̠n
 서당 sʰʌ̹da̠ŋ
-서당개 삼 년에 풍월한다 <EMPTY>
 서대문 sʰʌ̹dɛ̝mun
 서도 sʰʌ̹do̞
 서도민요 sʰʌ̹do̞miɲjo
@@ -32329,7 +31764,6 @@
 서류함 sʰʌ̹ɾjuɦa̠m
 서르 sʰʌ̹ɾɯ
 서른 sʰʌ̹ɾɯn
-서른 과부는 넘겨도 마흔 과부는 못 넘긴다 <EMPTY>
 서른째 sʰʌ̹ɾɯnt͡ɕ͈ɛ̝
 서름 sʰʌ̹ɾɯm
 서름하다 sʰʌ̹ɾɯmɦa̠da̠
@@ -32501,7 +31935,6 @@
 서슴서슴 sʰʌ̹sʰɯmsʰʌ̹sʰɯm
 서슴서슴하다 sʰʌ̹sʰɯmsʰʌ̹sʰɯmɦa̠da̠
 서슴없이 sʰʌ̹sʰɯmʌ̹pɕ͈i
-서슴치 <EMPTY>
 서시 sʰʌ̹ɕʰi
 서식 sʰʌ̹ɕʰik̚
 서식지 sʰʌ̹ɕʰik̚t͡ɕ͈i
@@ -32549,7 +31982,6 @@
 서운 sʰʌ̹un
 서운하다 sʰʌ̹unɦa̠da̠
 서울 sʰʌ̹uɭ
-서울 가서 김서방 찾기 <EMPTY>
 서울교외선 sʰʌ̹uɭɡjoø̞sʰʌ̹n/ ~ /sʰʌ̹uɭɡjowe̞sʰʌ̹n
 서울내기 sʰʌ̹uɭɭɛ̝ɡi
 서울말 sʰʌ̹uɭma̠ɭ
@@ -32862,7 +32294,6 @@
 선구적 sʰʌ̹nɡud͡ʑʌ̹k̚
 선구하다 sʰʌ̹nɡuɦa̠da̠
 선군 sʰʌ̹nɡun
-선그라스 <EMPTY>
 선글라스 sʰʌ̹nɡɯɭɭa̠sʰɯ
 선금 sʰʌ̹nɡɯm
 선남선녀 sʰʌ̹nna̠msʰʌ̹nɲjʌ̹
@@ -32910,7 +32341,6 @@
 선묘 sʰʌ̹nmjo
 선무 sʰʌ̹nmu
 선무당 sʰʌ̹nmuda̠ŋ
-선무당이 사람 잡는다 <EMPTY>
 선무당이 장구 탓한다 sʰʌ̹nmuda̠ŋi t͡ɕa̠ŋɡu tʰa̠tʰa̠nda̠
 선문 sʰʌ̹nmun
 선문답 sʰʌ̹nmunda̠p̚
@@ -32948,7 +32378,6 @@
 선상님 sʰʌ̹nsʰa̠ŋnim
 선생 sʰʌ̹nsʰɛ̝ŋ
 선생님 sʰʌ̹nsʰɛ̝ŋnim
-선생의 똥은 개도 안 먹는다 <EMPTY>
 선생질 sʰʌ̹nsʰɛ̝ŋd͡ʑiɭ
 선서 sʰʌ̹nsʰʌ̹
 선서하다 sʰʌ̹nsʰʌ̹ɦa̠da̠
@@ -33134,7 +32563,6 @@
 설립자 sʰʌ̹ɭʎip̚t͡ɕ͈a̠
 설립하다 sʰʌ̹ɭʎipʰa̠da̠
 설마 sʰʌ̹ɭma̠
-설마가 사람 죽인다 <EMPTY>
 설마설마 sʰʌ̹ɭma̠sʰʌ̹ɭma̠
 설마하니 sʰʌ̹ɭma̠ɦa̠ni
 설맞이 sʰʌ̹ɭma̠d͡ʑi
@@ -33202,7 +32630,6 @@
 설화지 sʰʌ̹ɾβwa̠d͡ʑi
 섦 sʰʌ̹m
 섬 sʰʌ̹m
-섬 진 놈 멱 진 놈 <EMPTY>
 섬겨지다 sʰʌ̹mɡjʌ̹d͡ʑida̠
 섬광 sʰʌ̹mɡwa̠ŋ
 섬광등 sʰʌ̹mɡwa̠ŋdɯŋ
@@ -33315,7 +32742,6 @@
 성상 부사 sʰʌ̹ŋsʰa̠ŋ pusʰa̠
 성성 sʰʌ̹ŋsʰʌ̹ŋ
 성성이 sʰʌ̹ŋsʰʌ̹ŋi
-성소수자 <EMPTY>
 성숙 sʰʌ̹ŋsʰuk̚
 성숙하다 sʰʌ̹ŋsʰukʰa̠da̠
 성실 sʰʌ̹ŋɕʰiɭ
@@ -33349,7 +32775,6 @@
 성층권 sʰʌ̹ŋt͡ɕʰɯŋɡwʌ̹n
 성층권 계면 sʰʌ̹ŋt͡ɕʰɯŋɡwʌ̹n kje̞mjʌ̹n/ ~ /sʰʌ̹ŋt͡ɕʰɯŋɡwʌ̹n ke̞mjʌ̹n
 성층권 오존 sʰʌ̹ŋt͡ɕʰɯŋɡwʌ̹n o̞d͡ʑo̞n
-성층권 제트 기류 <EMPTY>
 성층화산 sʰʌ̹ŋt͡ɕʰɯŋβwa̠sʰa̠n
 성큼 sʰʌ̹ŋkxɯm
 성탄일 sʰʌ̹ŋtʰa̠niɭ
@@ -33358,10 +32783,8 @@
 성하다 sʰʌ̹ŋɦa̠da̠
 성함 sʰʌ̹ŋɦa̠m
 세 sʰe̞
-세 살 적 버릇이 여든까지 간다 <EMPTY>
 세가 sʰe̞ɡa̠
 세계 sʰe̞ɡje̞/ ~ /sʰe̞ɡe̞
-세계 기상의 날 <EMPTY>
 세계공역예보시스템 sʰe̞ɡje̞ɡo̞ŋjʌ̹ɡje̞bo̞ɕʰisʰɯtʰe̞m/ ~ /sʰe̞ɡe̞ɡo̞ŋjʌ̹ɡje̞bo̞ɕʰisʰɯtʰe̞m
 세계관 sʰe̞ɡje̞ɡwa̠n/ ~ /sʰe̞ɡe̞ɡwa̠n
 세계기상감시 sʰe̞ɡje̞ɡisʰa̠ŋɡa̠mɕʰi/ ~ /sʰe̞ɡe̞ɡisʰa̠ŋɡa̠mɕʰi
@@ -33375,7 +32798,6 @@
 세기 sʰe̞ɡi
 세기바루 sʰe̞ɡiba̠ɾu
 세네갈 sʰe̞ne̞ɡa̠ɭ
-세느 강 <EMPTY>
 세다 sʰe̞ːda̠
 세대 sʰe̞dɛ̝
 세대주 sʰe̞dɛ̝d͡ʑu
@@ -33391,11 +32813,8 @@
 세르비아 sʰe̞ɾɯbia̠
 세르비아 몬테네그로 sʰe̞ɾɯbia̠ mo̞ntʰe̞ne̞ɡɯɾo̞
 세르비아어 sʰe̞ɾɯbia̠ʌ̹
-세링 <EMPTY>
-세멘트 <EMPTY>
 세모 sʰe̞mo̞
 세무사 sʰe̞musʰa̠
-세물전 영감이다 <EMPTY>
 세미나 sʰe̞mina̠
 세밀 sʰe̞miɭ
 세벌식 sʰe̞bʌ̹ɭɕʰik̚
@@ -33429,7 +32848,6 @@
 세종대왕 sʰe̞d͡ʑo̞ŋdɛ̝wa̠ŋ
 세종어제훈민정음 sʰe̞d͡ʑo̞ŋʌ̹d͡ʑe̞βunmind͡ʑʌ̹ŋɯm
 세종특별자치시 sʰe̞d͡ʑo̞ŋtʰɯk̚p͈jʌ̹ɭd͡ʑa̠t͡ɕʰiɕʰi
-세째 <EMPTY>
 세찰 sʰe̞t͡ɕʰa̠ɭ
 세치 sʰe̞t͡ɕʰi
 세칭 sʰe̞t͡ɕʰiŋ
@@ -33447,9 +32865,7 @@
 센 강 sʰe̞n ka̠ŋ
 센바람 sʰe̞nba̠ɾa̠m
 센스 sʰe̞nsʰɯ
-센치 <EMPTY>
 센치메터 sʰe̞nt͡ɕʰime̞tʰʌ̹
-센타 <EMPTY>
 센터 sʰe̞ntʰʌ̹
 센티미터 sʰe̞ntʰimitʰʌ̹
 셀러리 sʰe̞ɭɭʌ̹ɾi
@@ -33470,7 +32886,6 @@
 셰이크 ɕʰje̞ikxɯ/ ~ /sʰe̞ikxɯ
 셰퍼드 ɕʰje̞pʰʌ̹dɯ/ ~ /sʰe̞pʰʌ̹dɯ
 소 sʰo̞
-소 죽은 귀신 같다 <EMPTY>
 소가야 ˈsʰo̞ːɡa̠ja̠
 소가족 sʰo̞ɡa̠d͡ʑo̞k̚
 소각 sʰo̞ɡa̠k̚
@@ -33534,7 +32949,6 @@
 소극적 sʰo̞ɡɯk̚t͡ɕ͈ʌ̹k̚
 소극주의 sʰo̞ɡɯk̚t͡ɕ͈uɰi
 소극판단 sʰo̞ɡɯk̚pʰa̠nda̠n
-소근거리다 <EMPTY>
 소금 sʰo̞ɡɯm
 소금정 sʰo̞ɡɯmd͡ʑʌ̹ŋ
 소급 sʰo̞ɡɯp̚
@@ -33571,7 +32985,6 @@
 소대장 sʰo̞dɛ̝d͡ʑa̠ŋ
 소뎅이 sʰo̞de̞ŋi
 소도 sʰo̞do̞
-소도 언덕이 있어야 비빈다 <EMPTY>
 소도구 sʰo̞do̞ɡu
 소도록 sʰo̞do̞ɾo̞k̚
 소독 sʰo̞do̞k̚
@@ -33605,7 +33018,6 @@
 소등하다 sʰo̞dɯŋɦa̠da̠
 소디끼 sʰo̞dik͈i
 소똥 sʰo̞t͈o̞ŋ
-소띠 <EMPTY>
 소락소락 sʰo̞ɾa̠ks͈o̞ɾa̠k̚
 소락소락하다 sʰo̞ɾa̠ks͈o̞ɾa̠kʰa̠da̠
 소란 sʰo̞ɾa̠n
@@ -33661,7 +33073,6 @@
 소묘하다 sʰo̞mjoɦa̠da̠
 소문 sʰo̞mun
 소문나다 sʰo̞munna̠da̠
-소문난 잔치에 먹을 것 없다 <EMPTY>
 소문자 sʰo̞mund͡ʑa̠
 소박 sʰo̞ba̠k̚
 소박미 sʰo̞ba̠ŋmi
@@ -33703,7 +33114,6 @@
 소비성향 sʰo̞bisʰʌ̹ŋʝja̠ŋ
 소비세 sʰo̞bisʰe̞
 소비에트 sʰo̞bie̞tʰɯ
-소비에트 사회주의 공화국 연방 <EMPTY>
 소비에트 연방 sʰo̞bie̞tʰɯ jʌ̹nba̠ŋ
 소비자 sʰo̞bid͡ʑa̠
 소비자본 sʰo̞bid͡ʑa̠bo̞n
@@ -33725,7 +33135,6 @@
 소설책 sʰo̞sʰʌ̹ɭt͡ɕʰɛ̝k̚
 소설화 sʰo̞sʰʌ̹ɾβwa̠
 소성 sʰo̞sʰʌ̹ŋ
-소세지 <EMPTY>
 소소 sʰo̞sʰo̞
 소소하다 sʰo̞sʰo̞ɦa̠da̠
 소속 sʰo̞sʰo̞k̚
@@ -34053,7 +33462,6 @@
 손가락말 sʰo̞nɡa̠ɾa̠ŋma̠ɭ
 손가락무늬 sʰo̞nɡa̠ɾa̠ŋmuni
 손가락뼈 sʰo̞nɡa̠ɾa̠k̚p͈jʌ̹
-손가락에 장을 지지겠다 <EMPTY>
 손괘 sʰo̞nɡwɛ̝
 손기척 sʰo̞nɡit͡ɕʰʌ̹k̚
 손길 sʰo̞nɡiɭ
@@ -34085,14 +33493,12 @@
 손실률 sʰo̞nɕʰiɭʎjuɭ
 손아귀 sʰo̞na̠ɡɥi/ ~ /sʰo̞na̠ɡy
 손아이 sʰo̞na̠i
-손에 장을 지지다 <EMPTY>
 손오공 sʰo̞no̞ɡo̞ŋ
 손익 sʰo̞nik̚
 손익계산 sʰo̞nik̚k͈je̞sʰa̠n/ ~ /sʰo̞nik̚k͈e̞sʰa̠n
 손익계정 sʰo̞nik̚k͈je̞d͡ʑʌ̹ŋ/ ~ /sʰo̞nik̚k͈e̞d͡ʑʌ̹ŋ
 손익표 sʰo̞nik̚pʰjo
 손자 sʰo̞nd͡ʑa̠
-손자 턱에 흰 수염 나겠다 <EMPTY>
 손자삼요 sʰo̞nd͡ʑa̠sʰa̠mjo
 손잡다 sʰo̞nd͡ʑa̠p̚t͈a̠
 손잡이 sʰo̞nd͡ʑa̠bi
@@ -34105,7 +33511,6 @@
 손칼 sʰo̞nkʰa̠ɭ
 손칼치기 sʰo̞nkʰa̠ɭt͡ɕʰiɡi
 손톱 sʰo̞ntʰo̞p̚
-손톱깎기 <EMPTY>
 손톱깎이 sʰo̞ntʰo̞p̚k͈a̠k͈i
 손톱묶음 sʰo̞ntʰo̞mmuk͈ɯm
 손해 sʰo̞nɦɛ̝
@@ -34118,7 +33523,6 @@
 솔깃하다 sʰo̞ɭɡitʰa̠da̠
 솔딸개리 sʰo̞ɭt͈a̠ɭɡɛ̝ɾi
 솔레노이드 sʰo̞ɭɭe̞no̞idɯ
-솔로몬의 智慧 <EMPTY>
 솔로몬제도 sʰo̞ɭɭo̞mo̞nd͡ʑe̞do̞
 솔바람 sʰo̞ɭba̠ɾa̠m
 솔방구 sʰo̞ɭba̠ŋɡu
@@ -34192,7 +33596,6 @@
 송조활자 sʰo̞ŋd͡ʑo̞βwa̠ɭd͡ʑa̠
 송지유 sʰo̞ŋd͡ʑiju
 송진류 sʰo̞ŋd͡ʑiɭʎju
-송충이는 솔잎을 먹어야 한다 <EMPTY>
 송키 sʰo̞ŋkçi
 송편 sʰo̞ŋpʰjʌ̹n
 송풍기 sʰo̞ŋpʰuŋɡi
@@ -34210,12 +33613,9 @@
 쇠고기 sʰø̞ɡo̞ɡi/ ~ /sʰwe̞ɡo̞ɡi
 쇠고랑 sʰø̞ɡo̞ɾa̠ŋ/ ~ /sʰwe̞ɡo̞ɾa̠ŋ
 쇠똥 sʰø̞t͈o̞ŋ/ ~ /sʰwe̞t͈o̞ŋ
-쇠똥에 미끄러져 개똥에 코 박은 셈이다 <EMPTY>
 쇠마구간 sʰø̞ma̠ɡuɡa̠n/ ~ /sʰwe̞ma̠ɡuɡa̠n
 쇠미 sʰø̞mi/ ~ /sʰwe̞mi
-쇠뿔도 단김에 빼랬다 <EMPTY>
 쇠약하다 sʰø̞ja̠kʰa̠da̠/ ~ /sʰwe̞ja̠kʰa̠da̠
-쇠털같이 하고많은 날 <EMPTY>
 쇠퇴 sʰø̞tʰø̞/ ~ /sʰwe̞tʰwe̞
 쇠파리 sʰø̞pʰa̠ɾi/ ~ /sʰwe̞pʰa̠ɾi
 쇼 ɕʰjo
@@ -34234,7 +33634,6 @@
 수갑 sʰuɡa̠p̚
 수강 sʰuɡa̠ŋ
 수강생 sʰuɡa̠ŋsʰɛ̝ŋ
-수강아지 <EMPTY>
 수강증 sʰuɡa̠ŋd͡ʑɯŋ
 수거 sʰuɡʌ̹
 수걱수걱 sʰuɡʌ̹ks͈uɡʌ̹k̚
@@ -34286,14 +33685,11 @@
 수금원 sʰuɡɯmwʌ̹n
 수금인 sʰuɡɯmin
 수급 sʰuɡɯp̚
-수긋수긋 <EMPTY>
-수긋하다 <EMPTY>
 수긍 sʰuɡɯŋ
 수기 sʰuɡi
 수기신호 sʰuɡiɕʰinβo̞
 수깃 sʰuɡit̚
 수깃하다 sʰuɡitʰa̠da̠
-수꿩 <EMPTY>
 수난 sʰuna̠n
 수난곡 sʰuna̠nɡo̞k̚
 수난극 sʰuna̠nɡɯk̚
@@ -34313,13 +33709,11 @@
 수뇌회담 sʰunø̞ɦø̞da̠m/ ~ /sʰunwe̞βwe̞da̠m
 수다 sʰuda̠
 수다스러운 sʰuda̠sʰɯɾʌ̹un
-𪚥 <EMPTY>
 수다스러움 sʰuda̠sʰɯɾʌ̹um
 수단 sʰuda̠n
 수단가 sʰuda̠nɡa̠
 수달 sʰuda̠ɭ
 수달피 sʰuda̠ɭpʰi
-수닭 <EMPTY>
 수당 sʰuda̠ŋ
 수당금 sʰuda̠ŋɡɯm
 수당량 sʰuda̠ŋɲja̠ŋ
@@ -34341,7 +33735,6 @@
 수동식 sʰudo̞ŋɕʰik̚
 수동적 sʰudo̞ŋd͡ʑʌ̹k̚
 수동태 sʰudo̞ŋtʰɛ̝
-수돼지 <EMPTY>
 수두 sʰudu
 수두룩 sʰuduɾuk̚
 수득수득 sʰudɯks͈udɯk̚
@@ -34622,7 +34015,6 @@
 수양모 sʰuja̠ŋmo̞
 수양부 sʰuja̠ŋbu
 수양부모 sʰuja̠ŋbumo̞
-수양산 그늘이 강동 팔십 리를 간다 <EMPTY>
 수양액 sʰuja̠ŋɛ̝k̚
 수양자 sʰuja̠ŋd͡ʑa̠
 수어사 sʰuʌ̹sʰa̠
@@ -34640,7 +34032,6 @@
 수역 sʰujʌ̹k̚
 수열 sʰujʌ̹ɭ
 수염 sʰujʌ̹m
-수염이 대 자라도 먹어야 양반이다 <EMPTY>
 수영 sʰujʌ̹ŋ
 수영경기 sʰujʌ̹ŋɡjʌ̹ŋɡi
 수영모 sʰujʌ̹ŋmo̞
@@ -34938,8 +34329,6 @@
 순압모형 sʰuna̠mmo̞ʝjʌ̹ŋ
 순애보 sʰunɛ̝bo̞
 순위 sʰunɥi/ ~ /sʰuny
-순전 바람 <EMPTY>
-순전 바람 <EMPTY>
 순조 ˈsʰuːnd͡ʑo̞
 순조롭다 ˈsʰuːnd͡ʑo̞ɾo̞p̚t͈a̠
 순종 sʰund͡ʑo̞ŋ
@@ -34947,7 +34336,6 @@
 순진하다 sʰund͡ʑinɦa̠da̠
 순탄 sʰuntʰa̠n
 순태양복사 sʰuntʰɛ̝ja̠ŋbo̞ks͈a̠
-순풍에 돛을 단 배 <EMPTY>
 순하다 sʰunɦa̠da̠
 순행 sʰunɦɛ̝ŋ
 순호 sʰunβo̞
@@ -34971,7 +34359,6 @@
 술술 sʰuɭsʰuɭ
 술어 sʰuɾʌ̹
 술어절 sʰuɾʌ̹d͡ʑʌ̹ɭ
-술에 술 탄 듯 물에 물 탄 듯 <EMPTY>
 술이부작 sʰuɾibud͡ʑa̠k̚
 술자리 sʰuɭd͡ʑa̠ɾi
 술잔 sʰuɭd͡ʑa̠n
@@ -34986,22 +34373,17 @@
 숨주머니 sʰumd͡ʑumʌ̹ni
 숨지다 sʰumd͡ʑida̠
 숫 sʰut̚
-숫개 <EMPTY>
 숫것 sʰut̚k͈ʌ̹t̚
 숫닭 sʰut̚t͈a̠k̚
 숫돼지 sʰut̚t͈wɛ̝d͡ʑi
-숫말 <EMPTY>
-숫소 <EMPTY>
 숫자 sʰut̚t͡ɕ͈a̠
 숫자공포증 sʰut̚t͡ɕ͈a̠ɡo̞ŋpʰo̞d͡ʑɯŋ
 숭덩 sʰuŋdʌ̹ŋ
 숭례문 sʰuŋɲje̞mun/ ~ /sʰuŋne̞mun
 숭배 sʰuŋbɛ̝
 숭상 sʰuŋsʰa̠ŋ
-숭어가 뛰니까 망둥이도 뛴다 <EMPTY>
 숭조상문 sʰuŋd͡ʑo̞sʰa̠ŋmun
 숯 sʰut̚
-숯이 검정 나무란다 <EMPTY>
 숱 sʰut̚
 숱하다 sʰutʰa̠da̠
 숲 sʰup̚
@@ -35028,12 +34410,10 @@
 쉼표 ʃʰɥimpʰjo/ ~ /ʃʰympʰjo
 쉽다 ʃʰɥip̚t͈a̠/ ~ /ʃʰyp̚t͈a̠
 쉽사리 ʃʰɥips͈a̠ɾi/ ~ /ʃʰyps͈a̠ɾi
-슈룹 <EMPTY>
 슈일없다 ɕʰjuiɾʌ̹p̚t͈a̠
 슈트 ɕʰjutʰɯ
 슈트케이스 ɕʰjutʰɯkʰe̞isʰɯ
 슈팅 ɕʰjutʰiŋ
-슈퍼 <EMPTY>
 슈퍼마켓 ɕʰjupʰʌ̹ma̠kʰe̞t̚
 슈퍼맨 ɕʰjupʰʌ̹mɛ̝n
 슈퍼컴퓨터 ɕʰjupʰʌ̹kʰʌ̹mpʰjutʰʌ̹
@@ -35081,7 +34461,6 @@
 스륵하다 sʰɯɾɯkʰa̠da̠
 스름스름 sʰɯɾɯmsʰɯɾɯm
 스름하다 sʰɯɾɯmɦa̠da̠
-스리갈라 <EMPTY>
 스리나가르 sʰɯɾina̠ɡa̠ɾɯ
 스리랑카 sʰɯɾiɾa̠ŋkʰa̠
 스릴 sʰɯɾiɭ
@@ -35208,7 +34587,6 @@
 스피드스케이팅 sʰɯpʰidɯsʰɯkʰe̞itʰiŋ
 스피츠 sʰɯpʰit͡ɕʰɯ
 스피커 sʰɯpʰikʰʌ̹
-스핀들칩낌 <EMPTY>
 스핑크스 sʰɯpʰiŋkxɯsʰɯ
 슬개골 sʰɯɭɡɛ̝ɡo̞ɭ
 슬걱슬걱 sʰɯɭɡʌ̹ks͈ɯɭɡʌ̹k̚
@@ -35556,7 +34934,6 @@
 시고모부 ɕʰiɡo̞mo̞bu
 시골 ɕʰiɡo̞ɭ
 시골뜨기 ɕʰiɡo̞ɭt͈ɯɡi
-시골라 <EMPTY>
 시골티 ɕʰiɡo̞ɭtʰi
 시공 ɕʰiɡo̞ŋ
 시공간 ɕʰiɡo̞ŋɡa̠n
@@ -35686,12 +35063,10 @@
 시뜻 ɕʰit͈ɯt̚
 시뜻이 ɕʰit͈ɯɕʰi
 시뜻하다 ɕʰit͈ɯtʰa̠da̠
-시라소니 <EMPTY>
 시래기 ɕʰiɾɛ̝ɡi
 시럽 ɕʰiɾʌ̹p̚
 시럽다 ɕʰiɾʌ̹p̚t͈a̠
 시렁 ɕʰiɾʌ̹ŋ
-시렁거리다 <EMPTY>
 시력 ɕʰiɾjʌ̹k̚
 시력검사 ɕʰiɾjʌ̹k̚k͈ʌ̹msʰa̠
 시련 ɕʰiɾjʌ̹n
@@ -35756,8 +35131,6 @@
 시범 ɕʰibʌ̹m
 시법 ɕʰibʌ̹p̚
 시베리아 ɕʰibe̞ɾia̠
-시베리아 고기압 <EMPTY>
-시베리아 고기압 <EMPTY>
 시베리아기단 ɕʰibe̞ɾia̠ɡida̠n
 시베리아호랑이 ɕʰibe̞ɾia̠βo̞ɾa̠ŋi
 시보 ɕʰibo̞
@@ -35781,7 +35154,6 @@
 시비조 ɕʰibid͡ʑo̞
 시뻘겋다 ɕʰip͈ʌ̹ɭɡʌ̹tʰa̠
 시뻘게지다 ɕʰip͈ʌ̹ɭɡe̞d͡ʑida̠
-시뿌얘지다 <EMPTY>
 시뿌옇다 ɕʰip͈ujʌ̹tʰa̠
 시뿌예지다 ɕʰip͈uje̞d͡ʑida̠
 시사 ɕʰisʰa̠
@@ -35855,16 +35227,12 @@
 시아버지 ɕʰia̠bʌ̹d͡ʑi
 시아이큐 ɕʰia̠ikçju
 시아주버니 ɕʰia̠d͡ʑubʌ̹ni
-시아주버니와 제수는 백 년 손 <EMPTY>
 시안 ɕʰia̠n
-시앗이 시앗 꼴을 못 본다 <EMPTY>
 시야 ɕʰija̠
 시약 ɕʰija̠k̚
 시약청 ɕʰija̠k̚t͡ɕʰʌ̹ŋ
 시어 ɕʰiʌ̹
 시어머니 ɕʰiʌ̹mʌ̹ni
-시어미 미워서 개 옆구리 찬다 <EMPTY>
-시어미가 죽으면 안방은 내 차지 <EMPTY>
 시어선 ɕʰiʌ̹sʰʌ̹n
 시에라리온 ɕʰie̞ɾa̠ɾio̞n
 시에라레온 ɕʰie̞ɾa̠ɾe̞o̞n
@@ -35879,7 +35247,6 @@
 시외삼촌 ɕʰiø̞sʰa̠mt͡ɕʰo̞n/ ~ /ɕʰiwe̞sʰa̠mt͡ɕʰo̞n
 시외조모 ɕʰiø̞d͡ʑo̞mo̞/ ~ /ɕʰiwe̞d͡ʑo̞mo̞
 시외조부 ɕʰiø̞d͡ʑo̞bu/ ~ /ɕʰiwe̞d͡ʑo̞bu
-시우아 <EMPTY>
 시운 ɕʰiun
 시운전 ɕʰiund͡ʑʌ̹n
 시울 ɕʰiuɭ
@@ -35917,14 +35284,12 @@
 시일링 ɕʰiiɭʎiŋ
 시작 ɕʰid͡ʑa̠k̚
 시작되다 ɕʰid͡ʑa̠k̚t͈ø̞da̠/ ~ /ɕʰid͡ʑa̠k̚t͈we̞da̠
-시작이 반이다 <EMPTY>
 시작하다 ɕʰid͡ʑa̠kʰa̠da̠
 시장 ɕʰid͡ʑa̠ŋ
 시장가격 ɕʰid͡ʑa̠ŋɡa̠ɡjʌ̹k̚
 시장가치 ɕʰid͡ʑa̠ŋɡa̠t͡ɕʰi
 시장독점 ɕʰid͡ʑa̠ŋdo̞k̚t͡ɕ͈ʌ̹m
 시장생산 ɕʰid͡ʑa̠ŋsʰɛ̝ŋsʰa̠n
-시장이 반찬 <EMPTY>
 시장조사 ɕʰid͡ʑa̠ŋd͡ʑo̞sʰa̠
 시재 ɕʰid͡ʑɛ̝
 시적 ɕʰid͡ʑʌ̹k̚
@@ -35961,7 +35326,6 @@
 시지부지 ɕʰid͡ʑibud͡ʑi
 시집 ɕʰid͡ʑip̚
 시집가다 ɕʰid͡ʑip̚k͈a̠da̠
-시집도 가기 전에 기저귀 마련한다 <EMPTY>
 시집살이 ɕʰid͡ʑips͈a̠ɾi
 시차 ɕʰit͡ɕʰa̠
 시차운동 ɕʰit͡ɕʰa̠undo̞ŋ
@@ -35994,7 +35358,6 @@
 시침질 ɕʰit͡ɕʰimd͡ʑiɭ
 시침하다 ɕʰit͡ɕʰimɦa̠da̠
 시카고 ɕʰikʰa̠ɡo̞
-시커매지다 <EMPTY>
 시커멓다 ɕʰikʰʌ̹mʌ̹tʰa̠
 시커메지다 ɕʰikʰʌ̹me̞d͡ʑida̠
 시콩시콩 ɕʰikʰo̞ŋɕʰikʰo̞ŋ
@@ -36027,7 +35390,6 @@
 시틋하다 ɕʰitʰɯtʰa̠da̠
 시판 ɕʰipʰa̠n
 시판하다 ɕʰipʰa̠nɦa̠da̠
-시퍼래지다 <EMPTY>
 시퍼렇다 ɕʰipʰʌ̹ɾʌ̹tʰa̠
 시퍼레지다 ɕʰipʰʌ̹ɾe̞d͡ʑida̠
 시편 ɕʰipʰjʌ̹n
@@ -36425,7 +35787,6 @@
 신서판 ɕʰinsʰʌ̹pʰa̠n
 신석기시대 ɕʰinsʰʌ̹k̚k͈iɕʰidɛ̝
 신선 ɕʰinsʰʌ̹n
-신선놀음에 도낏자루 썩는 줄 모른다 <EMPTY>
 신선하다 ɕʰinsʰʌ̹nɦa̠da̠
 신설 ɕʰinsʰʌ̹ɭ
 신설하다 ɕʰinsʰʌ̹ɾɦa̠da̠
@@ -36738,7 +36099,6 @@
 실용주의 ɕʰiɾjoŋd͡ʑuɰi
 실은 ɕʰiɾɯn
 실의 ɕʰiɾɰi
-실이 와야 바늘이 가지 <EMPTY>
 실이삭사초 ɕʰiɾisʰa̠ks͈a̠t͡ɕʰo̞
 실잠자리 ɕʰiɭd͡ʑa̠md͡ʑa̠ɾi
 실잠재불안정 ɕʰiɭd͡ʑa̠md͡ʑɛ̝buɾa̠nd͡ʑʌ̹ŋ
@@ -36943,7 +36303,6 @@
 심혼 ɕʰimβo̞n
 심화 ɕʰimβwa̠
 십 ɕʰip̚
-십 년이면 강산도 변한다 <EMPTY>
 십각형 ɕʰip̚k͈a̠kçjʌ̹ŋ
 십간 ɕʰip̚k͈a̠n
 십경 ɕʰip̚k͈jʌ̹ŋ
@@ -36953,7 +36312,6 @@
 십년 ɕʰimɲjʌ̹n
 십년감수 ɕʰimɲjʌ̹nɡa̠msʰu
 십년공부 ɕʰimɲjʌ̹nɡo̞ŋbu
-십년공부 도로 아미타불 <EMPTY>
 십년지기 ɕʰimɲjʌ̹nd͡ʑiɡi
 십대 ɕʰip̚t͈ɛ̝
 십대동천 ɕʰip̚t͈ɛ̝do̞ŋt͡ɕʰʌ̹n
@@ -36993,14 +36351,11 @@
 십팔 ɕʰip̚pʰa̠ɭ
 십팔번 ɕʰip̚pʰa̠ɭbʌ̹n
 싯 ɕʰit̚
-싯누래지다 <EMPTY>
 싯누렇다 ɕʰinnuɾʌ̹tʰa̠
 싯누레지다 ɕʰinnuɾe̞d͡ʑida̠
 싯멀겋다 ɕʰinmʌ̹ɭɡʌ̹tʰa̠
 싯멀게지다 ɕʰinmʌ̹ɭɡe̞d͡ʑida̠
 싱가포르 ɕʰiŋɡa̠pʰo̞ɾɯ
-싱가폴 <EMPTY>
-싱겁기는 늑대 불알이다 <EMPTY>
 싱겁다 ɕʰiŋɡʌ̹p̚t͈a̠
 싱겅싱겅 ɕʰiŋɡʌ̹ŋɕʰiŋɡʌ̹ŋ
 싱겅싱겅하다 ɕʰiŋɡʌ̹ŋɕʰiŋɡʌ̹ŋɦa̠da̠
@@ -37061,7 +36416,6 @@
 싱싱 ɕʰiŋɕʰiŋ
 싱싱하다 ɕʰiŋɕʰiŋɦa̠da̠
 싱싱히 ɕʰiŋɕʰiŋʝi
-싱아 <EMPTY>
 싱크대 ɕʰiŋkxɯdɛ̝
 싶다 ɕʰip̚t͈a̠
 싶어지다 ɕʰipʰʌ̹d͡ʑida̠
@@ -37075,7 +36429,6 @@
 싸개 s͈a̠ɡɛ̝
 싸고돌다 s͈a̠ɡo̞do̞ɭda̠
 싸구려 s͈a̠ɡuɾjʌ̹
-싸구리 <EMPTY>
 싸근싸근 s͈a̠ɡɯns͈a̠ɡɯn
 싸근싸근하다 s͈a̠ɡɯns͈a̠ɡɯnɦa̠da̠
 싸글싸글 s͈a̠ɡɯɭs͈a̠ɡɯɭ
@@ -37131,7 +36484,6 @@
 싸우다 s͈a̠uda̠
 싸움 s͈a̠um
 싸움닭 s͈a̠umda̠k̚
-싸움은 말리고 흥정은 붙이랬다 <EMPTY>
 싸움질 s͈a̠umd͡ʑiɭ
 싸움터 s͈a̠umtʰʌ̹
 싸움판 s͈a̠umpʰa̠n
@@ -37168,7 +36520,6 @@
 싹싹대다 s͈a̠ks͈a̠k̚t͈ɛ̝da̠
 싹싹하다 s͈a̠ks͈a̠kʰa̠da̠
 싼 s͈a̠n
-싼 것이 비지떡 <EMPTY>
 싼값 s͈a̠nɡa̠p̚
 싼거리 s͈a̠nɡʌ̹ɾi
 싼다루 s͈a̠nda̠ɾu
@@ -37258,7 +36609,6 @@
 쌈빡하다 s͈a̠mp͈a̠kʰa̠da̠
 쌈지 s͈a̠md͡ʑi
 쌈질 s͈a̠md͡ʑiɭ
-쌈짓돈이 주머닛돈 <EMPTY>
 쌈터 s͈a̠mtʰʌ̹
 쌈판 s͈a̠mpʰa̠n
 쌉싸래 s͈a̠ps͈a̠ɾɛ̝
@@ -37310,7 +36660,6 @@
 쌍긋하다 s͈a̠ŋɡɯtʰa̠da̠
 쌍기역 s͈a̠ŋɡijʌ̹k̚
 쌍꺼풀 s͈a̠ŋk͈ʌ̹pʰuɭ
-쌍꼬리부전나비 <EMPTY>
 쌍끗 s͈a̠ŋk͈ɯt̚
 쌍끗거리다 s͈a̠ŋk͈ɯt̚k͈ʌ̹ɾida̠
 쌍끗대다 s͈a̠ŋk͈ɯt̚t͈ɛ̝da̠
@@ -37383,7 +36732,6 @@
 쌍크트-뻬쩨르부르그 s͈a̠ŋkxɯtʰɯ-p͈e̞t͡ɕ͈e̞ɾɯbuɾɯɡɯ
 쌍태 s͈a̠ŋtʰɛ̝
 쌍태임신 s͈a̠ŋtʰɛ̝imɕʰin
-쌍판대기 <EMPTY>
 쌍화점 s͈a̠ŋβwa̠d͡ʑʌ̹m
 쌍화탕 s͈a̠ŋβwa̠tʰa̠ŋ
 쌍희자 s͈a̠ŋʝid͡ʑa̠
@@ -37542,8 +36890,6 @@
 썩음막이약 s͈ʌ̹ɡɯmma̠ɡija̠k̚
 썩이다 s͈ʌ̹ɡida̠
 썩장 s͈ʌ̹k̚t͡ɕ͈a̠ŋ
-썬글라스 <EMPTY>
-썬크림 <EMPTY>
 썰겅 s͈ʌ̹ɭɡʌ̹ŋ
 썰다 s͈ʌ̹ɭda̠
 썰렁 s͈ʌ̹ɭɭʌ̹ŋ
@@ -37577,7 +36923,6 @@
 쏘삭거리다 s͈o̞sʰa̠k̚k͈ʌ̹ɾida̠
 쏘시개 s͈o̞ɕʰiɡɛ̝
 쏘시개나무 s͈o̞ɕʰiɡɛ̝na̠mu
-쏘아 놓은 살이요 엎지른 물이다 <EMPTY>
 쏘이다 s͈o̞ida̠
 쏘지르다 s͈o̞d͡ʑiɾɯda̠
 쏘치 s͈o̞t͡ɕʰi
@@ -37653,7 +36998,6 @@
 쑥덜쑥덜 s͈uk̚t͈ʌ̹ɭs͈uk̚t͈ʌ̹ɭ
 쑥덜쑥덜하다 s͈uk̚t͈ʌ̹ɭs͈uk̚t͈ʌ̹ɾɦa̠da̠
 쑥덜하다 s͈uk̚t͈ʌ̹ɾɦa̠da̠
-쑥맥 <EMPTY>
 쑥색 s͈uks͈ɛ̝k̚
 쑥설 s͈uks͈ʌ̹ɭ
 쑥설거리다 s͈uks͈ʌ̹ɭɡʌ̹ɾida̠
@@ -37837,9 +37181,7 @@
 씨글씨글하다 ɕ͈iɡɯɭɕ͈iɡɯɾɦa̠da̠
 씨기다 ɕ͈iɡida̠
 씨끝 ɕ͈ik͈ɯt̚
-씨나락 <EMPTY>
 씨도둑 ɕ͈ido̞duk̚
-씨도둑은 못한다 <EMPTY>
 씨드니 ɕ͈idɯni
 씨렁씨렁 ɕ͈iɾʌ̹ŋɕ͈iɾʌ̹ŋ
 씨렁씨렁하다 ɕ͈iɾʌ̹ŋɕ͈iɾʌ̹ŋɦa̠da̠
@@ -38035,10 +37377,8 @@
 씽씽 ɕ͈iŋɕ͈iŋ
 씽씽하다 ɕ͈iŋɕ͈iŋɦa̠da̠
 씽씽히 ɕ͈iŋɕ͈iŋʝi
-씽크대 <EMPTY>
 씽하다 ɕ͈iŋɦa̠da̠
 아 a̠
-아 해 다르고 어 해 다르다 <EMPTY>
 아가 a̠ɡa̠
 아가리 a̠ɡa̠ɾi
 아가미 a̠ɡa̠mi
@@ -38109,10 +37449,6 @@
 아기족대다 a̠ɡid͡ʑo̞k̚t͈ɛ̝da̠
 아기족아기족 a̠ɡid͡ʑo̞ɡa̠ɡid͡ʑo̞k̚
 아기족아기족하다 a̠ɡid͡ʑo̞ɡa̠ɡid͡ʑo̞kʰa̠da̠
-아깃거리다 <EMPTY>
-아깃대다 <EMPTY>
-아깃아깃 <EMPTY>
-아깃아깃하다 <EMPTY>
 아깃자깃 a̠ɡit̚t͡ɕ͈a̠ɡit̚
 아깆 a̠ɡit̚
 아깆거리다 a̠ɡit̚k͈ʌ̹ɾida̠
@@ -38126,7 +37462,6 @@
 아끼다 a̠k͈ida̠
 아낌없다 a̠k͈imʌ̹p̚t͈a̠
 아낌없이 a̠k͈imʌ̹pɕ͈i
-아나그램 <EMPTY>
 아나운서 a̠na̠unsʰʌ̹
 아나운서실 a̠na̠unsʰʌ̹ɕʰiɭ
 아나콘다 a̠na̠kʰo̞nda̠
@@ -38136,8 +37471,6 @@
 아날로그 a̠na̠ɭɭo̞ɡɯ
 아날로그시계 a̠na̠ɭɭo̞ɡɯɕʰiɡje̞/ ~ /a̠na̠ɭɭo̞ɡɯɕʰiɡe̞
 아내 a̠nɛ̝
-아내 없는 처갓집 가나 마나 <EMPTY>
-아내가 귀여우면 처갓집 말뚝 보고도 절한다 <EMPTY>
 아내상 a̠nɛ̝sʰa̠ŋ
 아냐 a̠ɲja̠
 아네모네 a̠ne̞mo̞ne̞
@@ -38155,8 +37488,6 @@
 아늑아늑하다 a̠nɯɡa̠nɯkʰa̠da̠
 아늑하다 a̠nɯkʰa̠da̠
 아늑히 a̠nɯkçi
-아는 것이 병이다 <EMPTY>
-아는 길도 물어 가랬다 <EMPTY>
 아늘 a̠nɯɭ
 아늘거리다 a̠nɯɭɡʌ̹ɾida̠
 아늘대다 a̠nɯɭdɛ̝da̠
@@ -38172,7 +37503,6 @@
 아니요 a̠nijo
 아니하다 a̠niɦa̠da̠
 아닌 a̠nin
-아닌 밤중에 홍두깨 <EMPTY>
 아님 a̠nim
 아다리 a̠da̠ɾi
 아담 a̠da̠m
@@ -38399,7 +37729,6 @@
 아마도 a̠ma̠do̞
 아마릴리스 a̠ma̠ɾiɭʎisʰɯ
 아마추어 a̠ma̠t͡ɕʰuʌ̹
-아마츄어 <EMPTY>
 아메리슘 a̠me̞ɾiɕʰjum
 아메리카 a̠me̞ɾikʰa̠
 아메리카 합중국 a̠me̞ɾikʰa̠ ha̠p̚t͡ɕ͈uŋɡuk̚
@@ -38421,7 +37750,6 @@
 아무르강 a̠muɾɯɡa̠ŋ
 아무르표범 a̠muɾɯpʰjobʌ̹m
 아무리 a̠muɾi
-아무리 바빠도 바늘허리 매어 쓰지는 못한다 <EMPTY>
 아무작거리다 a̠mud͡ʑa̠k̚k͈ʌ̹ɾida̠
 아무작대다 a̠mud͡ʑa̠k̚t͈ɛ̝da̠
 아무작아무작 a̠mud͡ʑa̠ɡa̠mud͡ʑa̠k̚
@@ -38435,7 +37763,6 @@
 아물리다 a̠muɭʎida̠
 아물아물 a̠muɾa̠muɭ
 아물아물하다 a̠muɾa̠muɾɦa̠da̠
-아뭏든 <EMPTY>
 아미노산 a̠mino̞sʰa̠n
 아미타불 a̠mitʰa̠buɭ
 아미타여래 a̠mitʰa̠jʌ̹ɾɛ̝
@@ -38461,7 +37788,6 @@
 아빠 a̠p͈a̠
 아빠트 a̠p͈a̠tʰɯ
 아뿔싸 a̠p͈uɭs͈a̠
-아삐 <EMPTY>
 아사 a̠sʰa̠
 아사삭 a̠sʰa̠sʰa̠k̚
 아사삭거리다 a̠sʰa̠sʰa̠k̚k͈ʌ̹ɾida̠
@@ -38587,7 +37913,6 @@
 아유 a̠ju
 아으 a̠ɯ
 아이 a̠i
-아이 보는 데는 찬물도 못 마신다 <EMPTY>
 아이고 a̠iɡo̞
 아이고나 a̠iɡo̞na̠
 아이고머니 a̠iɡo̞mʌ̹ni
@@ -38604,7 +37929,6 @@
 아이러니 a̠iɾʌ̹ni
 아이러니컬하다 a̠iɾʌ̹nikʰʌ̹ɾɦa̠da̠
 아이러니하다 a̠iɾʌ̹niɦa̠da̠
-아이를 사르고 태를 길렀나 <EMPTY>
 아이보리 a̠ibo̞ɾi
 아이보리색 a̠ibo̞ɾisʰɛ̝k̚
 아이섀도 a̠iɕʰjɛ̝do̞
@@ -38612,7 +37936,6 @@
 아이스박스 a̠isʰɯba̠ks͈ɯ
 아이스커피 a̠isʰɯkʰʌ̹pʰi
 아이스케이크 a̠isʰɯkʰe̞ikxɯ
-아이스케키 <EMPTY>
 아이스크림 a̠isʰɯkxɯɾim
 아이스하키 a̠isʰɯɦa̠kçi
 아이슬란드 a̠isʰɯɭɭa̠ndɯ
@@ -38655,7 +37978,6 @@
 아재 a̠d͡ʑɛ̝
 아쟁 a̠d͡ʑɛ̝ŋ
 아저씨 a̠d͡ʑʌ̹ɕ͈i
-아저씨 아저씨 하고 길 짐만 지운다 <EMPTY>
 아제르바이잔 a̠d͡ʑe̞ɾɯba̠id͡ʑa̠n
 아제르바이잔어 a̠d͡ʑe̞ɾɯba̠id͡ʑa̠nʌ̹
 아제르바이쟌 a̠d͡ʑe̞ɾɯba̠id͡ʑja̠n
@@ -38665,7 +37987,6 @@
 아종 a̠d͡ʑo̞ŋ
 아주 a̠d͡ʑu
 아주까리 a̠d͡ʑuk͈a̠ɾi
-아주까리 대에 개똥참외 달라붙듯 <EMPTY>
 아주까리기름 a̠d͡ʑuk͈a̠ɾiɡiɾɯm
 아주머니 a̠d͡ʑumʌ̹ni
 아주버니 a̠d͡ʑubʌ̹ni
@@ -38738,8 +38059,6 @@
 아칠아칠 a̠t͡ɕʰiɾa̠t͡ɕʰiɭ
 아칠아칠하다 a̠t͡ɕʰiɾa̠t͡ɕʰiɾɦa̠da̠
 아침 a̠t͡ɕʰim
-아침 최저 기온 <EMPTY>
-아침 최저 기온 <EMPTY>
 아침결 a̠t͡ɕʰimɡjʌ̹ɭ
 아침나절 a̠t͡ɕʰimna̠d͡ʑʌ̹ɭ
 아침내 a̠t͡ɕʰimnɛ̝
@@ -38796,7 +38115,6 @@
 아흐레 a̠ɣɯɾe̞
 아흔 a̠ɣɯn
 아흔째 a̠ɣɯnt͡ɕ͈ɛ̝
-아 <EMPTY>
 악 a̠k̚
 악곡 a̠k̚k͈o̞k̚
 악귀 a̠k̚k͈ɥi/ ~ /a̠k̚k͈y
@@ -38838,7 +38156,6 @@
 악성질환 a̠ks͈ʌ̹ŋd͡ʑiɾβwa̠n
 악성코드 a̠ks͈ʌ̹ŋkʰo̞dɯ
 악세다 a̠ks͈e̞da̠
-악세사리 <EMPTY>
 악센트 a̠ks͈e̞ntʰɯ
 악수 a̠ks͈u
 악수하다 a̠ks͈uɦa̠da̠
@@ -38893,7 +38210,6 @@
 악화시키다 a̠kʰwa̠ɕʰikçida̠
 악화하다 a̠kʰwa̠ɦa̠da̠
 안 a̠n
-안 되는 놈은 자빠져도 코가 깨진다 <EMPTY>
 안가 a̠nɡa̠
 안가시위 a̠nɡa̠ɕʰiɥi/ ~ /a̠nɡa̠ɕʰiy
 안각 a̠nɡa̠k̚
@@ -39030,7 +38346,6 @@
 안성맞춤 a̠nsʰʌ̹ŋma̠t̚t͡ɕʰum
 안수 a̠nsʰu
 안수하다 a̠nsʰuɦa̠da̠
-안스럽다 <EMPTY>
 안습 a̠nsʰɯp̚
 안식 a̠nɕʰik̚
 안식년 a̠nɕʰiŋɲjʌ̹n
@@ -39104,7 +38419,6 @@
 안주인 a̠nd͡ʑuin
 안주하다 a̠nd͡ʑuɦa̠da̠
 안중 a̠nd͡ʑuŋ
-안중에 사람이 없다 <EMPTY>
 안질뱅이 a̠nd͡ʑiɭbɛ̝ŋi
 안질환 a̠nd͡ʑiɾβwa̠n
 안집 a̠nd͡ʑip̚
@@ -39139,8 +38453,6 @@
 안하무인 a̠nɦa̠muin
 안해 a̠nɦɛ̝
 앉다 a̠nt͈a̠
-앉아 주고 서서 받는다 <EMPTY>
-앉은 자리에 풀도 안 나겠다 <EMPTY>
 앉은검정 a̠nd͡ʑɯnɡʌ̹md͡ʑʌ̹ŋ
 앉은레스링자세 a̠nd͡ʑɯɭɭe̞sʰɯɾiŋd͡ʑa̠sʰe̞
 앉은뱅이 a̠nd͡ʑɯnbɛ̝ŋi
@@ -39177,7 +38489,6 @@
 알금솜솜하다 a̠ɭɡɯmsʰo̞msʰo̞mɦa̠da̠
 알금알금 a̠ɭɡɯma̠ɭɡɯm
 알금알금하다 a̠ɭɡɯma̠ɭɡɯmɦa̠da̠
-알기는 오뉴월 똥파리 <EMPTY>
 알기살기 a̠ɭɡisʰa̠ɭɡi
 알기살기하다 a̠ɭɡisʰa̠ɭɡiɦa̠da̠
 알까기 a̠ɭk͈a̠ɡi
@@ -39200,7 +38511,6 @@
 알락알락 a̠ɭɭa̠ɡa̠ɭɭa̠k̚
 알락알락하다 a̠ɭɭa̠ɡa̠ɭɭa̠kʰa̠da̠
 알락할미새 a̠ɭɭa̠kʰa̠ɭmisʰɛ̝
-알람 <EMPTY>
 알람시계 a̠ɭɭa̠mɕʰiɡje̞/ ~ /a̠ɭɭa̠mɕʰiɡe̞
 알랑 a̠ɭɭa̠ŋ
 알랑거리다 a̠ɭɭa̠ŋɡʌ̹ɾida̠
@@ -39222,7 +38532,6 @@
 알렉싼드르 a̠ɭɭe̞ks͈a̠ndɯɾɯ
 알려지다 ˈa̠ːɭʎjʌ̹d͡ʑida̠
 알력 a̠ɭʎjʌ̹k̚
-알로 <EMPTY>
 알로기 a̠ɭɭo̞ɡi
 알로록달로록 a̠ɭɭo̞ɾo̞k̚t͈a̠ɭɭo̞ɾo̞k̚
 알로록달로록하다 a̠ɭɭo̞ɾo̞k̚t͈a̠ɭɭo̞ɾo̞kʰa̠da̠
@@ -39237,7 +38546,6 @@
 알록달록하다 a̠ɭɭo̞k̚t͈a̠ɭɭo̞kʰa̠da̠
 알록알록 a̠ɭɭo̞ɡa̠ɭɭo̞k̚
 알록알록하다 a̠ɭɭo̞ɡa̠ɭɭo̞kʰa̠da̠
-알록이 <EMPTY>
 알록점 a̠ɭɭo̞k̚t͡ɕ͈ʌ̹m
 알롱 a̠ɭɭo̞ŋ
 알롱달롱 a̠ɭɭo̞ŋda̠ɭɭo̞ŋ
@@ -39305,10 +38613,8 @@
 알씬하다 a̠ɭɕ͈inɦa̠da̠
 알아내다 a̠ɾa̠nɛ̝da̠
 알아듣다 a̠ɾa̠dɯt̚t͈a̠
-알아맞추다 <EMPTY>
 알아맞히다 a̠ɾa̠ma̠t͡ɕʰida̠
 알아보다 a̠ɾa̠bo̞da̠
-알아야 면장을 하지 <EMPTY>
 알아주다 a̠ɾa̠d͡ʑuda̠
 알아차리다 a̠ɾa̠t͡ɕʰa̠ɾida̠
 알아채다 a̠ɾa̠t͡ɕʰɛ̝da̠
@@ -39362,7 +38668,6 @@
 알코올램프 a̠ɭkʰo̞o̞ɭɭɛ̝mpʰɯ
 알코올성 a̠ɭkʰo̞o̞ɭsʰʌ̹ŋ
 알코올음료 a̠ɭkʰo̞o̞ɾɯmɲjo
-알콜 <EMPTY>
 알큰 a̠ɭkxɯn
 알큰하다 a̠ɭkxɯnɦa̠da̠
 알큰히 a̠ɭkxɯnʝi
@@ -39375,7 +38680,6 @@
 알파카 a̠ɭpʰa̠kʰa̠
 알현하다 a̠ɾʝjʌ̹nɦa̠da̠
 앍다 a̠k̚t͈a̠
-앍둑배기 <EMPTY>
 앍둑빼기 a̠k̚t͈uk̚p͈ɛ̝ɡi
 앍둑앍둑 a̠k̚t͈uɡa̠k̚t͈uk̚
 앍둑앍둑하다 a̠k̚t͈uɡa̠k̚t͈ukʰa̠da̠
@@ -39385,25 +38689,19 @@
 앍숨앍숨하다 a̠ks͈uma̠ks͈umɦa̠da̠
 앍음앍음 a̠ɭɡɯma̠ɭɡɯm
 앍음앍음하다 a̠ɭɡɯma̠ɭɡɯmɦa̠da̠
-앍작배기 <EMPTY>
 앍작빼기 a̠k̚t͡ɕ͈a̠k̚p͈ɛ̝ɡi
 앍작앍작 a̠k̚t͡ɕ͈a̠ɡa̠k̚t͡ɕ͈a̠k̚
 앍작앍작하다 a̠k̚t͡ɕ͈a̠ɡa̠k̚t͡ɕ͈a̠kʰa̠da̠
-앍족배기 <EMPTY>
 앍족빼기 a̠k̚t͡ɕ͈o̞k̚p͈ɛ̝ɡi
 앍족앍족 a̠k̚t͡ɕ͈o̞ɡa̠k̚t͡ɕ͈o̞k̚
 앍족앍족하다 a̠k̚t͡ɕ͈o̞ɡa̠k̚t͡ɕ͈o̞kʰa̠da̠
 앍죽앍죽 a̠k̚t͡ɕ͈uɡa̠k̚t͡ɕ͈uk̚
 앍죽앍죽하다 a̠k̚t͡ɕ͈uɡa̠k̚t͡ɕ͈ukʰa̠da̠
 앎 a̠m
-앓느니 죽지 <EMPTY>
 앓다 a̠ɭtʰa̠
-앓던 이 빠진 것 같다 <EMPTY>
 앓아눕다 a̠ɾa̠nup̚t͈a̠
 암 a̠m
 암갈색 a̠mɡa̠ɭsʰɛ̝k̚
-암강아지 <EMPTY>
-암개 <EMPTY>
 암거래 a̠mɡʌ̹ɾɛ̝
 암거래상 a̠mɡʌ̹ɾɛ̝sʰa̠ŋ
 암것 a̠mɡʌ̹t̚
@@ -39412,15 +38710,12 @@
 암글 a̠mɡɯɭ
 암기 a̠mɡi
 암기하다 a̠mɡiɦa̠da̠
-암꿩 <EMPTY>
 암나무 a̠mna̠mu
 암녹색 a̠mno̞ks͈ɛ̝k̚
 암놈 a̠mno̞m
 암달러 a̠mda̠ɭɭʌ̹
-암닭 <EMPTY>
 암담 a̠mda̠m
 암담하다 a̠mda̠mɦa̠da̠
-암돼지 <EMPTY>
 암띠다 a̠mt͈ida̠
 암만 a̠mma̠n
 암만하다 a̠mma̠nɦa̠da̠
@@ -39452,7 +38747,6 @@
 암송 a̠msʰo̞ŋ
 암송하다 a̠msʰo̞ŋɦa̠da̠
 암수 a̠msʰu
-암수딴몸 <EMPTY>
 암수한몸 a̠msʰuɦa̠nmo̞m
 암술 a̠msʰuɭ
 암스테르담 a̠msʰɯtʰe̞ɾɯda̠m
@@ -39483,7 +38777,6 @@
 암캐 a̠mkʰɛ̝
 암컷 a̠mkʰʌ̹t̚
 암탉 a̠mtʰa̠k̚
-암탉이 울면 집안이 망한다 <EMPTY>
 암퇘지 a̠mtʰwɛ̝d͡ʑi
 암투 a̠mtʰu
 암튼 a̠mtʰɯn
@@ -39572,7 +38865,6 @@
 앙기작앙기작 a̠ŋɡid͡ʑa̠ɡa̠ŋɡid͡ʑa̠k̚
 앙기작앙기작하다 a̠ŋɡid͡ʑa̠ɡa̠ŋɡid͡ʑa̠kʰa̠da̠
 앙까라 a̠ŋk͈a̠ɾa̠
-앙녕 <EMPTY>
 앙다물다 a̠ŋda̠muɭda̠
 앙당 a̠ŋda̠ŋ
 앙당그러지다 a̠ŋda̠ŋɡɯɾʌ̹d͡ʑida̠
@@ -39623,7 +38915,6 @@
 앙칼스럽다 a̠ŋkʰa̠ɭsʰɯɾʌ̹p̚t͈a̠
 앙칼지다 a̠ŋkʰa̠ɭd͡ʑida̠
 앙코르 a̠ŋkʰo̞ɾɯ
-앙콜 <EMPTY>
 앙큼 a̠ŋkxɯm
 앙큼상큼 a̠ŋkxɯmsʰa̠ŋkxɯm
 앙큼스럽다 a̠ŋkxɯmsʰɯɾʌ̹p̚t͈a̠
@@ -39685,7 +38976,6 @@
 앞지르기 a̠p̚t͡ɕ͈iɾɯɡi
 앞지르다 a̠p̚t͡ɕ͈iɾɯda̠
 앞집 a̠p̚t͡ɕ͈ip̚
-앞집 처녀 믿다가 장가 못 간다 <EMPTY>
 앞쪽 a̠p̚t͡ɕ͈o̞k̚
 앞차 a̠p̚t͡ɕʰa̠
 앞채 a̠p̚t͡ɕʰɛ̝
@@ -39720,7 +39010,6 @@
 애기똥풀 ɛ̝ɡit͈o̞ŋpʰuɭ
 애기젖가루 ɛ̝ɡid͡ʑʌ̹t̚k͈a̠ɾu
 애달프다 ɛ̝da̠ɭpʰɯda̠
-애닯다 <EMPTY>
 애도 ɛ̝do̞
 애도하다 ɛ̝do̞ɦa̠da̠
 애독 ɛ̝do̞k̚
@@ -39762,7 +39051,6 @@
 애송하다 ɛ̝sʰo̞ŋɦa̠da̠
 애수 ɛ̝sʰu
 애쓰다 ɛ̝s͈ɯda̠
-애씨당초 <EMPTY>
 애애 ɛ̝ɛ̝
 애연 ɛ̝jʌ̹n
 애연하다 ɛ̝jʌ̹nɦa̠da̠
@@ -39838,7 +39126,6 @@
 애호 ɛ̝βo̞
 애호가 ɛ̝βo̞ɡa̠
 애호박 ɛ̝βo̞ba̠k̚
-애호박에 말뚝 박기 <EMPTY>
 애호하다 ɛ̝βo̞ɦa̠da̠
 애환 ɛ̝βwa̠n
 애훼골립 ɛ̝βwe̞ɡo̞ɭʎip̚
@@ -39878,7 +39165,6 @@
 앵앵하다 ɛ̝ŋɛ̝ŋɦa̠da̠
 앵커 ɛ̝ŋkʰʌ̹
 앵커리지 ɛ̝ŋkʰʌ̹ɾid͡ʑi
-앵콜 <EMPTY>
 야 ja̠
 야간 ja̠ɡa̠n
 야간근무 ja̠ɡa̠nɡɯnmu
@@ -39902,7 +39188,6 @@
 야광충 ja̠ɡwa̠ŋt͡ɕʰuŋ
 야구 ja̠ɡu
 야구공 ja̠ɡuɡo̞ŋ
-야구르트 <EMPTY>
 야구부 ja̠ɡubu
 야구장 ja̠ɡud͡ʑa̠ŋ
 야구화 ja̠ɡuβwa̠
@@ -40138,7 +39423,6 @@
 약분가능 ja̠k̚p͈unɡa̠nɯŋ
 약빠르다 ja̠k̚p͈a̠ɾɯda̠
 약빠른 ja̠k̚p͈a̠ɾɯn
-약빠른 고양이 밤눈이 어둡다 <EMPTY>
 약빠름 ja̠k̚p͈a̠ɾɯm
 약사 ja̠ks͈a̠
 약사삼존 ja̠ks͈a̠sʰa̠md͡ʑo̞n
@@ -40237,10 +39521,8 @@
 얇다 ja̠ɭt͈a̠
 얇은 ja̠ɭbɯn
 얇음 ja̠ɭbɯm
-얌냠 <EMPTY>
 얌얌 ja̠mja̠m
 얌전 ja̠md͡ʑʌ̹n
-얌전한 고양이가 부뚜막에 먼저 올라간다 <EMPTY>
 얌체 ja̠mt͡ɕʰe̞
 얌치 ja̠mt͡ɕʰi
 얍삽 ja̠ps͈a̠p̚
@@ -40301,9 +39583,6 @@
 양민 ja̠ŋmin
 양반 ja̠ŋba̠n
 양반계급 ja̠ŋba̠nɡje̞ɡɯp̚/ ~ /ja̠ŋba̠nɡe̞ɡɯp̚
-양반은 물에 빠져도 개헤엄은 안 한다 <EMPTY>
-양반은 얼어 죽어도 겻불은 안 쬔다 <EMPTY>
-양반의 새끼는 고양이 새끼요 상놈의 새끼는 돼지 새끼다 <EMPTY>
 양반전 ja̠ŋba̠nd͡ʑʌ̹n
 양반집 ja̠ŋba̠nd͡ʑip̚
 양방 ja̠ŋba̠ŋ
@@ -40388,7 +39667,6 @@
 양주 ja̠ŋd͡ʑu
 양즈 ja̠ŋd͡ʑɯ
 양지 ja̠ŋd͡ʑi
-양지가 음지 되고 음지가 양지 된다 <EMPTY>
 양지식물 ja̠ŋd͡ʑiɕʰiŋmuɭ
 양질 ja̠ŋd͡ʑiɭ
 양쪽 ja̠ŋt͡ɕ͈o̞k̚
@@ -40429,7 +39707,6 @@
 어간대청 ʌ̹ɡa̠ndɛ̝t͡ɕʰʌ̹ŋ
 어간장지 ʌ̹ɡa̠nd͡ʑa̠ŋd͡ʑi
 어감 ʌ̹ɡa̠m
-어거지 <EMPTY>
 어거하다 ʌ̹ɡʌ̹ɦa̠da̠
 어구 ʌ̹ɡu
 어구구 ʌ̹ɡuɡu
@@ -40481,8 +39758,6 @@
 어기죽어기죽하다 ʌ̹ɡid͡ʑuɡʌ̹ɡid͡ʑukʰa̠da̠
 어김없다 ʌ̹ɡimʌ̹p̚t͈a̠
 어김없이 ʌ̹ɡimʌ̹pɕ͈i
-어깃거리다 <EMPTY>
-어깃어깃 <EMPTY>
 어깃장 ʌ̹ɡit̚t͡ɕ͈a̠ŋ
 어깆 ʌ̹ɡit̚
 어깆거리다 ʌ̹ɡit̚k͈ʌ̹ɾida̠
@@ -40506,7 +39781,6 @@
 어눌 ʌ̹nuɭ
 어눌하다 ʌ̹nuɾɦa̠da̠
 어느 ʌ̹nɯ
-어느 장단에 춤을 추랴 <EMPTY>
 어느덧 ʌ̹nɯdʌ̹t̚
 어느새 ʌ̹nɯsʰɛ̝
 어는비 ʌ̹nɯnbi
@@ -40676,7 +39950,6 @@
 어리빙빙 ʌ̹ɾibiŋbiŋ
 어리빙빙하다 ʌ̹ɾibiŋbiŋɦa̠da̠
 어리빙빙히 ʌ̹ɾibiŋbiŋʝi
-어리빙이 <EMPTY>
 어리뻥뻥 ʌ̹ɾip͈ʌ̹ŋp͈ʌ̹ŋ
 어리뻥뻥하다 ʌ̹ɾip͈ʌ̹ŋp͈ʌ̹ŋɦa̠da̠
 어리삥삥 ʌ̹ɾip͈iŋp͈iŋ
@@ -40746,7 +40019,6 @@
 어물대다 ʌ̹muɭdɛ̝da̠
 어물어물 ʌ̹muɾʌ̹muɭ
 어물어물하다 ʌ̹muɾʌ̹muɾɦa̠da̠
-어물전 망신은 꼴뚜기가 시킨다 <EMPTY>
 어물쩍 ʌ̹muɭt͡ɕ͈ʌ̹k̚
 어물쩍거리다 ʌ̹muɭt͡ɕ͈ʌ̹k̚k͈ʌ̹ɾida̠
 어물쩍대다 ʌ̹muɭt͡ɕ͈ʌ̹k̚t͈ɛ̝da̠
@@ -40776,7 +40048,6 @@
 어불성설 ʌ̹buɭsʰʌ̹ŋsʰʌ̹ɭ
 어빡자빡 ʌ̹p͈a̠k̚t͡ɕ͈a̠p͈a̠k̚
 어빡자빡하다 ʌ̹p͈a̠k̚t͡ɕ͈a̠p͈a̠kʰa̠da̠
-어빡저빡 <EMPTY>
 어빡지빡 ʌ̹p͈a̠k̚t͡ɕ͈ip͈a̠k̚
 어빡지빡하다 ʌ̹p͈a̠k̚t͡ɕ͈ip͈a̠kʰa̠da̠
 어뿔싸 ʌ̹p͈uɭs͈a̠
@@ -40787,7 +40058,6 @@
 어색 ʌ̹sʰɛ̝k̚
 어색하다 ʌ̹sʰɛ̝kʰa̠da̠
 어서 ʌ̹sʰʌ̹
-어서 오세요 <EMPTY>
 어서석 ʌ̹sʰʌ̹sʰʌ̹k̚
 어서석거리다 ʌ̹sʰʌ̹sʰʌ̹k̚k͈ʌ̹ɾida̠
 어서석대다 ʌ̹sʰʌ̹sʰʌ̹k̚t͈ɛ̝da̠
@@ -40795,7 +40065,6 @@
 어서석어서석하다 ʌ̹sʰʌ̹sʰʌ̹ɡʌ̹sʰʌ̹sʰʌ̹kʰa̠da̠
 어서석하다 ʌ̹sʰʌ̹sʰʌ̹kʰa̠da̠
 어서어서 ʌ̹sʰʌ̹ʌ̹sʰʌ̹
-어서 오세요 <EMPTY>
 어석 ʌ̹sʰʌ̹k̚
 어석거리다 ʌ̹sʰʌ̹k̚k͈ʌ̹ɾida̠
 어석대다 ʌ̹sʰʌ̹k̚t͈ɛ̝da̠
@@ -40884,7 +40153,6 @@
 어연번듯 ʌ̹jʌ̹nbʌ̹ndɯt̚
 어엿 ʌ̹jʌ̹t̚
 어엿하다 ʌ̹jʌ̹tʰa̠da̠
-어영가시 <EMPTY>
 어영부영 ʌ̹jʌ̹ŋbujʌ̹ŋ
 어영부영하다 ʌ̹jʌ̹ŋbujʌ̹ŋɦa̠da̠
 어와 ʌ̹wa̠
@@ -41163,7 +40431,6 @@
 언덕길 ʌ̹ndʌ̹k̚k͈iɭ
 언덕바지 ʌ̹ndʌ̹k̚p͈a̠d͡ʑi
 언덕배기 ʌ̹ndʌ̹k̚p͈ɛ̝ɡi
-언덕빼기 <EMPTY>
 언도 ʌ̹ndo̞
 언동 ʌ̹ndo̞ŋ
 언듯 ʌ̹ndɯt̚
@@ -41242,7 +40509,6 @@
 얻어듣다 ʌ̹dʌ̹dɯt̚t͈a̠
 얻어맞다 ʌ̹dʌ̹ma̠t̚t͈a̠
 얻어먹다 ʌ̹dʌ̹mʌ̹k̚t͈a̠
-얻은 떡이 두레 반 <EMPTY>
 얼 ʌ̹ɭ
 얼간이 ʌ̹ɭɡa̠ni
 얼개 ʌ̹ɭɡɛ̝
@@ -41416,7 +40682,6 @@
 얼토당토않다 ʌ̹ɭtʰo̞da̠ŋtʰo̞a̠ntʰa̠
 얼핏 ʌ̹ɭpʰit̚
 얽다 ʌ̹k̚t͈a̠
-얽둑배기 <EMPTY>
 얽둑빼기 ʌ̹k̚t͈uk̚p͈ɛ̝ɡi
 얽둑얽둑 ʌ̹k̚t͈uɡʌ̹k̚t͈uk̚
 얽둑얽둑하다 ʌ̹k̚t͈uɡʌ̹k̚t͈ukʰa̠da̠
@@ -41427,11 +40692,9 @@
 얽숨얽숨 ʌ̹ks͈umʌ̹ks͈um
 얽숨얽숨하다 ʌ̹ks͈umʌ̹ks͈umɦa̠da̠
 얽어내다 ʌ̹ɭɡʌ̹nɛ̝da̠
-얽적배기 <EMPTY>
 얽적빼기 ʌ̹k̚t͡ɕ͈ʌ̹k̚p͈ɛ̝ɡi
 얽적얽적 ʌ̹k̚t͡ɕ͈ʌ̹ɡʌ̹k̚t͡ɕ͈ʌ̹k̚
 얽적얽적하다 ʌ̹k̚t͡ɕ͈ʌ̹ɡʌ̹k̚t͡ɕ͈ʌ̹kʰa̠da̠
-얽죽배기 <EMPTY>
 얽죽빼기 ʌ̹k̚t͡ɕ͈uk̚p͈ɛ̝ɡi
 얽죽얽죽 ʌ̹k̚t͡ɕ͈uɡʌ̹k̚t͡ɕ͈uk̚
 얽죽얽죽하다 ʌ̹k̚t͡ɕ͈uɡʌ̹k̚t͡ɕ͈ukʰa̠da̠
@@ -41523,12 +40786,10 @@
 업신 ʌ̹pɕ͈in
 업신여기다 ʌ̹pɕ͈iɲjʌ̹ɡida̠
 업신여김 ʌ̹pɕ͈iɲjʌ̹ɡim
-업은 아이 삼 년 찾는다 <EMPTY>
 업적 ʌ̹p̚t͡ɕ͈ʌ̹k̚
 업종 ʌ̹p̚t͡ɕ͈o̞ŋ
 업체 ʌ̹p̚t͡ɕʰe̞
 없는 ʌ̹mnɯn
-없는 놈이 찬밥 더운밥을 가리랴 <EMPTY>
 없다 ˈɘːp̚t͈a̠
 없애다 ʌ̹ps͈ɛ̝da̠
 없어지다 ʌ̹ps͈ʌ̹d͡ʑida̠
@@ -41537,7 +40798,6 @@
 엇 ʌ̹t̚
 엇갈리다 ʌ̹t̚k͈a̠ɭʎida̠
 엇걸어잡기 ʌ̹t̚k͈ʌ̹ɾʌ̹d͡ʑa̠p̚k͈i
-엇그저께 <EMPTY>
 엇먹다 ʌ̹nmʌ̹k̚t͈a̠
 엇비뚜름 ʌ̹t̚p͈it͈uɾɯm
 엇시조 ʌ̹t̚ɕ͈id͡ʑo̞
@@ -41622,7 +40882,6 @@
 엉하다 ʌ̹ŋɦa̠da̠
 엊그제 ʌ̹t̚k͈ɯd͡ʑe̞
 엊저녁 ʌ̹t̚t͡ɕ͈ʌ̹ɲjʌ̹k̚
-엎드려 절 받기 <EMPTY>
 엎드리다 ʌ̹p̚t͈ɯɾida̠
 엎어지다 ʌ̹pʰʌ̹d͡ʑida̠
 엎치락덮치락 ʌ̹p̚t͡ɕʰiɾa̠k̚t͈ʌ̹p̚t͡ɕʰiɾa̠k̚
@@ -41661,7 +40920,6 @@
 에리트레아 e̞ɾitʰɯɾe̞a̠
 에메랄드 e̞me̞ɾa̠ɭdɯ
 에멜무지로 e̞me̞ɭmud͡ʑiɾo̞
-에미 <EMPTY>
 에미나이 e̞mina̠i
 에부수수 e̞busʰusʰu
 에부수수하다 e̞busʰusʰuɦa̠da̠
@@ -41748,7 +41006,6 @@
 여드레 jʌ̹dɯɾe̞
 여드름 jʌ̹dɯɾɯm
 여든 jʌ̹dɯn
-여든에 능참봉을 하니 한 달에 거둥이 스물아홉 번이라 <EMPTY>
 여든째 jʌ̹dɯnt͡ɕ͈ɛ̝
 여디 jʌ̹di
 여래 jʌ̹ɾɛ̝
@@ -41761,7 +41018,6 @@
 여론 jʌ̹ɾo̞n
 여류 jʌ̹ɾju
 여름 jʌ̹ɾɯm
-여름 하늘에 소낙비 <EMPTY>
 여름방학 jʌ̹ɾɯmba̠ŋɦa̠k̚
 여름철 jʌ̹ɾɯmt͡ɕʰʌ̹ɭ
 여리다 jʌ̹ɾida̠
@@ -41782,7 +41038,6 @@
 여백 jʌ̹bɛ̝k̚
 여보 jʌ̹bo̞
 여보세요 jʌ̹bo̞sʰe̞jo
-여보셔요 <EMPTY>
 여부 ˈjɘːbu
 여분 jʌ̹bun
 여사 jʌ̹sʰa̠
@@ -41810,7 +41065,6 @@
 여의사 jʌ̹ɰisʰa̠
 여인 jʌ̹in
 여자 jʌ̹d͡ʑa̠
-여자가 한을 품으면 오뉴월에도 서리가 내린다 <EMPTY>
 여장 jʌ̹d͡ʑa̠ŋ
 여전 jʌ̹d͡ʑʌ̹n
 여전하다 jʌ̹d͡ʑʌ̹nɦa̠da̠
@@ -41876,13 +41130,11 @@
 역마 jʌ̹ŋma̠
 역마살 jʌ̹ŋma̠sʰa̠ɭ
 역마차 jʌ̹ŋma̠t͡ɕʰa̠
-역말도 갈아타면 낫다 <EMPTY>
 역명 jʌ̹ŋmjʌ̹ŋ
 역모 jʌ̹ŋmo̞
 역무 jʌ̹ŋmu
 역무역 jʌ̹ŋmujʌ̹k̚
 역무원 jʌ̹ŋmuwʌ̹n
-역바르다 <EMPTY>
 역반응 jʌ̹k̚p͈a̠nɯŋ
 역방향 jʌ̹k̚p͈a̠ŋʝja̠ŋ
 역법 jʌ̹k̚p͈ʌ̹p̚
@@ -41912,7 +41164,6 @@
 역산 jʌ̹ks͈a̠n
 역산하다 jʌ̹ks͈a̠nɦa̠da̠
 역상 jʌ̹ks͈a̠ŋ
-역상검색기 <EMPTY>
 역상속 jʌ̹ks͈a̠ŋsʰo̞k̚
 역서 jʌ̹ks͈ʌ̹
 역선전 jʌ̹ks͈ʌ̹nd͡ʑʌ̹n
@@ -41986,7 +41237,6 @@
 역행되다 jʌ̹kʰɛ̝ŋdø̞da̠/ ~ /jʌ̹kʰɛ̝ŋdwe̞da̠
 역행운동 jʌ̹kʰɛ̝ŋundo̞ŋ
 역행하다 jʌ̹kʰɛ̝ŋɦa̠da̠
-역활 <EMPTY>
 역효과 jʌ̹kçjoɡwa̠
 엮다 jʌ̹k̚t͈a̠
 연 jʌ̹n
@@ -42095,8 +41345,6 @@
 연회 jʌ̹nɦø̞/ ~ /jʌ̹nβwe̞
 연휴 jʌ̹nʝju
 열 jʌ̹ɭ
-열 번 찍어 안 넘어가는 나무 없다 <EMPTY>
-열 손가락 깨물어 안 아픈 손가락이 없다 <EMPTY>
 열각 jʌ̹ɭɡa̠k̚
 열간압연 jʌ̹ɭɡa̠na̠bjʌ̹n
 열강 jʌ̹ɭɡa̠ŋ
@@ -42113,7 +41361,6 @@
 열기 jʌ̹ɭɡi
 열기관 jʌ̹ɭɡiɡwa̠n
 열내림약 jʌ̹ɭɭɛ̝ɾimja̠k̚
-열네째 <EMPTY>
 열넷 jʌ̹ɭɭe̞t̚
 열넷째 jʌ̹ɭɭe̞t̚t͡ɕ͈ɛ̝
 열녀 jʌ̹ɭʎjʌ̹
@@ -42138,7 +41385,6 @@
 열도 jʌ̹ɭdo̞
 열두째 jʌ̹ɭdut͡ɕ͈ɛ̝
 열둘 jʌ̹ɭduɭ
-열둘째 <EMPTY>
 열등 jʌ̹ɭdɯŋ
 열등감 jʌ̹ɭdɯŋɡa̠m
 열등생 jʌ̹ɭdɯŋsʰɛ̝ŋ
@@ -42182,7 +41428,6 @@
 열성유전 jʌ̹ɭsʰʌ̹ŋjud͡ʑʌ̹n
 열성적 jʌ̹ɭsʰʌ̹ŋd͡ʑʌ̹k̚
 열세 jʌ̹ɭsʰe̞
-열세째 <EMPTY>
 열셋 jʌ̹ɭsʰe̞t̚
 열셋째 jʌ̹ɭsʰe̞t̚t͡ɕ͈ɛ̝
 열쇠 jʌ̹ɭsʰø̞/ ~ /jʌ̹ɭsʰwe̞
@@ -42223,7 +41468,6 @@
 열효율 jʌ̹ɾʝjojuɭ
 열후 jʌ̹ɾβu
 열흘 jʌ̹ɾɣɯɭ
-열흘 굶어 군자 없다 <EMPTY>
 엷다 jʌ̹ɭt͈a̠
 염가 jʌ̹mɡa̠
 염가품 jʌ̹mɡa̠pʰum
@@ -42233,7 +41477,6 @@
 염도 jʌ̹mdo̞
 염두 jʌ̹mdu
 염라대왕 jʌ̹mna̠dɛ̝wa̠ŋ
-염라대왕이 제 할아버지라도 <EMPTY>
 염려 jʌ̹mɲjʌ̹
 염려되다 jʌ̹mɲjʌ̹dø̞da̠/ ~ /jʌ̹mɲjʌ̹dwe̞da̠
 염려하다 jʌ̹mɲjʌ̹ɦa̠da̠
@@ -42252,7 +41495,6 @@
 염분 jʌ̹mbun
 염불 jʌ̹mbuɭ
 염불삼매 jʌ̹mbuɭsʰa̠mmɛ̝
-염불에는 마음이 없고 잿밥에만 마음이 있다 <EMPTY>
 염불왕생 jʌ̹mbuɾwa̠ŋsʰɛ̝ŋ
 염불하다 jʌ̹mbuɾɦa̠da̠
 염산 jʌ̹msʰa̠n
@@ -42308,8 +41550,6 @@
 엿샛날 jʌ̹t̚s͈ɛ̝nna̠ɭ
 영 jʌ̹ŋ
 영감 jʌ̹ŋɡa̠m
-영감 밥은 누워 먹고 아들 밥은 앉아 먹고 딸의 밥은 서서 먹는다 <EMPTY>
-영감의 상투가 커야 맛이냐 <EMPTY>
 영겁 jʌ̹ŋɡʌ̹p̚
 영광 jʌ̹ŋɡwa̠ŋ
 영광스럽다 jʌ̹ŋɡwa̠ŋsʰɯɾʌ̹p̚t͈a̠
@@ -42325,7 +41565,6 @@
 영롱하다 jʌ̹ŋno̞ŋɦa̠da̠
 영리 jʌ̹ŋni
 영리하다 jʌ̹ŋniɦa̠da̠
-영리한 고양이가 밤눈 어둡다 <EMPTY>
 영묘 jʌ̹ŋmjo
 영민 jʌ̹ŋmin
 영변화 jʌ̹ŋbjʌ̹nβwa̠
@@ -42649,7 +41888,6 @@
 오그랑오그랑 o̞ɡɯɾa̠ŋo̞ɡɯɾa̠ŋ
 오그랑오그랑하다 o̞ɡɯɾa̠ŋo̞ɡɯɾa̠ŋɦa̠da̠
 오그랑이 o̞ɡɯɾa̠ŋi
-오그랑족박 <EMPTY>
 오그랑쪼그랑 o̞ɡɯɾa̠ŋt͡ɕ͈o̞ɡɯɾa̠ŋ
 오그랑쪼그랑하다 o̞ɡɯɾa̠ŋt͡ɕ͈o̞ɡɯɾa̠ŋɦa̠da̠
 오그랑쪽박 o̞ɡɯɾa̠ŋt͡ɕ͈o̞k̚p͈a̠k̚
@@ -42682,12 +41920,6 @@
 오끼나와 o̞k͈ina̠wa̠
 오뇌 o̞nø̞/ ~ /o̞nwe̞
 오뉴월 o̞ɲjuwʌ̹ɭ
-오뉴월 감기는 개도 안 앓는다 <EMPTY>
-오뉴월 개 팔자 <EMPTY>
-오뉴월 닭이 오죽하여 지붕에 올라갈까 <EMPTY>
-오뉴월 똥파리 <EMPTY>
-오뉴월 하룻볕도 무섭다 <EMPTY>
-오는 말이 고와야 가는 말이 곱다 <EMPTY>
 오늘 o̞nɯɭ
 오늘날 o̞nɯɭɭa̠ɭ
 오다 o̞da̠
@@ -42761,10 +41993,6 @@
 오들오들 o̞dɯɾo̞dɯɭ
 오들오들하다 o̞dɯɾo̞dɯɾɦa̠da̠
 오딘 o̞din
-오또 <EMPTY>
-오똑 <EMPTY>
-오똑오똑 <EMPTY>
-오똑이 <EMPTY>
 오똘 o̞t͈o̞ɭ
 오똘거리다 o̞t͈o̞ɭɡʌ̹ɾida̠
 오똘대다 o̞t͈o̞ɭdɛ̝da̠
@@ -42774,13 +42002,11 @@
 오똘랑오똘랑하다 o̞t͈o̞ɭɭa̠ŋo̞t͈o̞ɭɭa̠ŋɦa̠da̠
 오똘오똘 o̞t͈o̞ɾo̞t͈o̞ɭ
 오똘오똘하다 o̞t͈o̞ɾo̞t͈o̞ɾɦa̠da̠
-오뚜기 <EMPTY>
 오뚝 o̞t͈uk̚
 오뚝오뚝 o̞t͈uɡo̞t͈uk̚
 오뚝오뚝하다 o̞t͈uɡo̞t͈ukʰa̠da̠
 오뚝이 o̞t͈uɡi
 오뚝하다 o̞t͈ukʰa̠da̠
-오띠기 <EMPTY>
 오라방 o̞ɾa̠ba̠ŋ
 오라버니 o̞ɾa̠bʌ̹ni
 오라범 o̞ɾa̠bʌ̹m
@@ -42798,14 +42024,12 @@
 오래 o̞ɾɛ̝
 오래간만 o̞ɾɛ̝ɡa̠nma̠n
 오래도록 o̞ɾɛ̝do̞ɾo̞k̚
-오래동안 <EMPTY>
 오래되다 o̞ɾɛ̝dø̞da̠/ ~ /o̞ɾɛ̝dwe̞da̠
 오래전 o̞ɾɛ̝d͡ʑʌ̹n
 오랜 o̞ɾɛ̝n
 오랜만 o̞ɾɛ̝nma̠n
 오램 o̞ɾɛ̝m
 오랫동안 o̞ɾɛ̝t̚t͈o̞ŋa̠n
-오랫만 <EMPTY>
 오렌부르그 o̞ɾe̞nbuɾɯɡɯ
 오렌지 o̞ɾe̞nd͡ʑi
 오련 o̞ɾjʌ̹n
@@ -42831,7 +42055,6 @@
 오르르 o̞ɾɯɾɯ
 오르르하다 o̞ɾɯɾɯɦa̠da̠
 오르를 o̞ɾɯɾɯɭ
-오르지 못할 나무는 쳐다보지도 마라 <EMPTY>
 오른 o̞ɾɯn
 오른발 o̞ɾɯnba̠ɭ
 오른손 o̞ɾɯnsʰo̞n
@@ -42845,7 +42068,6 @@
 오리너구리 o̞ɾinʌ̹ɡuɾi
 오리무중 o̞ɾimud͡ʑuŋ
 오리알 o̞ɾia̠ɭ
-오리지날 <EMPTY>
 오리지널 o̞ɾid͡ʑinʌ̹ɭ
 오마조마 o̞ma̠d͡ʑo̞ma̠
 오마조마하다 o̞ma̠d͡ʑo̞ma̠ɦa̠da̠
@@ -42995,7 +42217,6 @@
 오스트랄라시아 o̞sʰɯtʰɯɾa̠ɭɭa̠ɕʰia̠
 오스트랄리아 o̞sʰɯtʰɯɾa̠ɭʎia̠
 오스트레일리아 o̞sʰɯtʰɯɾe̞iɭʎia̠
-오스트레일리아 연방 <EMPTY>
 오스트리아 o̞sʰɯtʰɯɾia̠
 오스트리아헝가리 제국 o̞sʰɯtʰɯɾia̠ɦʌ̹ŋɡa̠ɾi t͡ɕe̞ɡuk̚
 오스트리아헝가리 제국 o̞sʰɯtʰɯɾia̠ɦʌ̹ŋɡa̠ɾi t͡ɕe̞ɡuk̚
@@ -43033,7 +42254,6 @@
 오월동주 o̞wʌ̹ɭdo̞ŋd͡ʑu
 오웨니바다수세미 o̞we̞niba̠da̠sʰusʰe̞mi
 오웰 o̞we̞ɭ
-오유 <EMPTY>
 오음 o̞ɯm
 오음음계 o̞ɯmɯmɡje̞/ ~ /o̞ɯmɯmɡe̞
 오이 o̞i
@@ -43174,7 +42394,6 @@
 옥시끼 o̞kɕ͈ik͈i
 옥신 o̞kɕ͈in
 옥실 o̞kɕ͈iɭ
-옥에도 티가 있다 <EMPTY>
 옥작 o̞k̚t͡ɕ͈a̠k̚
 옥편 o̞k̚pʰjʌ̹n
 온 o̞n
@@ -43241,7 +42460,6 @@
 옳바르다 o̞ɭpʰa̠ɾɯda̠
 옳은 o̞ɾɯn
 옳음 o̞ɾɯm
-옴 덕에 보지 긁는다 <EMPTY>
 옴스크 o̞msʰɯkxɯ
 옴실 o̞mɕʰiɭ
 옴쏙 o̞ms͈o̞k̚
@@ -43251,7 +42469,6 @@
 옷 o̞t̚
 옷감 o̞t̚k͈a̠m
 옷깃 o̞t̚k͈it̚
-옷이 날개다 <EMPTY>
 옷차림 o̞t̚t͡ɕʰa̠ɾim
 옹 o̞ŋ
 옹개옹개 o̞ŋɡɛ̝o̞ŋɡɛ̝
@@ -43313,8 +42530,6 @@
 와사비 wa̠sʰa̠bi
 와삭 wa̠sʰa̠k̚
 와어 wa̠ʌ̹
-와이샤스 <EMPTY>
-와이샤쓰 <EMPTY>
 와이셔츠 wa̠iɕʰjʌ̹t͡ɕʰɯ
 와이축 wa̠it͡ɕʰuk̚
 와인 wa̠in
@@ -43348,7 +42563,6 @@
 왁실왁실하다 wa̠kɕ͈iɾwa̠kɕ͈iɾɦa̠da̠
 왁왁 wa̠ɡwa̠k̚
 왁왁하다 wa̠ɡwa̠kʰa̠da̠
-왁자그르 <EMPTY>
 왁자그르르 wa̠k̚t͡ɕ͈a̠ɡɯɾɯɾɯ
 왁자그르르하다 wa̠k̚t͡ɕ͈a̠ɡɯɾɯɾɯɦa̠da̠
 왁자글 wa̠k̚t͡ɕ͈a̠ɡɯɭ
@@ -43393,7 +42607,6 @@
 완전히 wa̠nd͡ʑʌ̹nʝi
 완화하다 wa̠nβwa̠ɦa̠da̠
 왈레따 wa̠ɭɭe̞t͈a̠
-왈루 <EMPTY>
 왈츠 wa̠ɭt͡ɕʰɯ
 왈카닥 wa̠ɭkʰa̠da̠k̚
 왓가나이 시 wa̠t̚k͈a̠na̠i ɕʰi
@@ -43415,7 +42628,6 @@
 왕청현 wa̠ŋt͡ɕʰʌ̹ŋʝjʌ̹n
 왕초 wa̠ŋt͡ɕʰo̞
 왕후 wa̠ŋβu
-왕후장상이 씨가 있나 <EMPTY>
 왜 wɛ̝
 왜간장 wɛ̝ɡa̠nd͡ʑa̠ŋ
 왜곡 wɛ̝ɡo̞k̚
@@ -43463,7 +42675,6 @@
 외배엽형의 ø̞bɛ̝jʌ̹pʰjʌ̹ŋɰi/ ~ /we̞bɛ̝jʌ̹pʰjʌ̹ŋɰi
 외부 ø̞bu/ ~ /we̞bu
 외삼촌 ø̞sʰa̠mt͡ɕʰo̞n/ ~ /we̞sʰa̠mt͡ɕʰo̞n
-외상이면 소도 잡아먹는다 <EMPTY>
 외설 ø̞sʰʌ̹ɭ/ ~ /we̞sʰʌ̹ɭ
 외숙 ø̞sʰuk̚/ ~ /we̞sʰuk̚
 외숙부 ø̞sʰuk̚p͈u/ ~ /we̞sʰuk̚p͈u
@@ -43635,7 +42846,6 @@
 우긋하다 uɡɯtʰa̠da̠
 우기누르다 uɡinuɾɯda̠
 우눈트륨 ununtʰɯɾjum
-우는 아이는 장사도 못 당한다 <EMPTY>
 우니쉬 uniʃʰɥi/ ~ /uniʃʰy
 우다닥 uda̠da̠k̚
 우다닥우다닥 uda̠da̠ɡuda̠da̠k̚
@@ -43816,7 +43026,6 @@
 우멍구멍하다 umʌ̹ŋɡumʌ̹ŋɦa̠da̠
 우멍우멍 umʌ̹ŋumʌ̹ŋ
 우멍하다 umʌ̹ŋɦa̠da̠
-우멜라 <EMPTY>
 우모 umo̞
 우무럭 umuɾʌ̹k̚
 우무럭거리다 umuɾʌ̹k̚k͈ʌ̹ɾida̠
@@ -43846,17 +43055,12 @@
 우묵주발 umuk̚t͡ɕ͈uba̠ɭ
 우묵하다 umukʰa̠da̠
 우물 umuɭ
-우물 안 개구리 <EMPTY>
-우물 정 <EMPTY>
 우물거리다 umuɭɡʌ̹ɾida̠
 우물꾸물 umuɭk͈umuɭ
 우물꾸물하다 umuɭk͈umuɾɦa̠da̠
 우물대다 umuɭdɛ̝da̠
-우물에 가서 숭늉 찾는다 <EMPTY>
 우물우물 umuɾumuɭ
 우물우물하다 umuɾumuɾɦa̠da̠
-우물을 파도 한 우물을 파라 <EMPTY>
-우물주물 <EMPTY>
 우물쩍 umuɭt͡ɕ͈ʌ̹k̚
 우물쩍거리다 umuɭt͡ɕ͈ʌ̹k̚k͈ʌ̹ɾida̠
 우물쩍대다 umuɭt͡ɕ͈ʌ̹k̚t͈ɛ̝da̠
@@ -43912,7 +43116,6 @@
 우선하다 usʰʌ̹nɦa̠da̠
 우송 usʰo̞ŋ
 우수 usʰu
-우수 경칩에 대동강 물이 풀린다 <EMPTY>
 우수리 usʰuɾi
 우수수 usʰusʰu
 우수수하다 usʰusʰuɦa̠da̠
@@ -44074,13 +43277,11 @@
 우쭐우쭐 ut͡ɕ͈uɾut͡ɕ͈uɭ
 우쭐우쭐하다 ut͡ɕ͈uɾut͡ɕ͈uɾɦa̠da̠
 우쭐하다 ut͡ɕ͈uɾɦa̠da̠
-우천 <EMPTY>
 우체국 ut͡ɕʰe̞ɡuk̚
 우체부 ut͡ɕʰe̞bu
 우체통 ut͡ɕʰe̞tʰo̞ŋ
 우충우충 ut͡ɕʰuŋut͡ɕʰuŋ
 우충우충하다 ut͡ɕʰuŋut͡ɕʰuŋɦa̠da̠
-우취 <EMPTY>
 우치나 ut͡ɕʰina̠
 우크라이나 ukxɯɾa̠ina̠
 우크라이나어 ukxɯɾa̠ina̠ʌ̹
@@ -44093,9 +43294,7 @@
 우표 upʰjo
 우표수집 upʰjosʰud͡ʑip̚
 우표수집가 upʰjosʰud͡ʑip̚k͈a̠
-우풍 <EMPTY>
 우환 uβwa̠n
-우황 든 소 같다 <EMPTY>
 우회 uɦø̞/ ~ /uβwe̞
 우회하다 uɦø̞ɦa̠da̠/ ~ /uβwe̞ɦa̠da̠
 우후후 uβuβu
@@ -44219,7 +43418,6 @@
 울멍울멍하다 uɭmʌ̹ŋuɭmʌ̹ŋɦa̠da̠
 울멍줄멍 uɭmʌ̹ŋd͡ʑuɭmʌ̹ŋ
 울멍줄멍하다 uɭmʌ̹ŋd͡ʑuɭmʌ̹ŋɦa̠da̠
-울며 겨자 먹기 <EMPTY>
 울며불며 uɭmjʌ̹buɭmjʌ̹
 울며불며하다 uɭmjʌ̹buɭmjʌ̹ɦa̠da̠
 울묵줄묵 uɭmuk̚t͡ɕ͈uɭmuk̚
@@ -44255,7 +43453,6 @@
 울퉁울퉁 uɭtʰuŋuɭtʰuŋ
 울퉁울퉁하다 uɭtʰuŋuɭtʰuŋɦa̠da̠
 움 um
-움베 <EMPTY>
 움실 umɕʰiɭ
 움실거리다 umɕʰiɭɡʌ̹ɾida̠
 움실대다 umɕʰiɭdɛ̝da̠
@@ -44369,12 +43566,10 @@
 움푹하다 umpʰukʰa̠da̠
 웃 ut̚
 웃기다 ut̚k͈ida̠
-웃는 낯에 침 뱉으랴 <EMPTY>
 웃다 ut̚t͈a̠
 웃어른 usʰʌ̹ɾɯn
 웃음 usʰɯm
 웃음소리 usʰɯmsʰo̞ɾi
-웅까까 <EMPTY>
 웅대 uŋdɛ̝
 웅덩이 uŋdʌ̹ŋi
 웅성 uŋsʰʌ̹ŋ
@@ -44383,7 +43578,6 @@
 웅장 uŋd͡ʑa̠ŋ
 웅절 uŋd͡ʑʌ̹ɭ
 웅혼 uŋβo̞n
-웋 <EMPTY>
 워 wʌ̹
 워낙 wʌ̹na̠k̚
 워로네쥬 wʌ̹ɾo̞ne̞d͡ʑju
@@ -44421,7 +43615,6 @@
 원내총무 wʌ̹nnɛ̝t͡ɕʰo̞ŋmu
 원년 wʌ̹nɲjʌ̹n
 원노비 wʌ̹nno̞bi
-원님 덕에 나팔 분다 <EMPTY>
 원단 wʌ̹nda̠n
 원대 wʌ̹ndɛ̝
 원대하다 wʌ̹ndɛ̝ɦa̠da̠
@@ -44480,7 +43673,6 @@
 원소광물 wʌ̹nsʰo̞ɡwa̠ŋmuɭ
 원소기호 wʌ̹nsʰo̞ɡiβo̞
 원수 wʌ̹nsʰu
-원수는 외나무다리에서 만난다 <EMPTY>
 원수님 wʌ̹nsʰunim
 원숙 wʌ̹nsʰuk̚
 원숙하다 wʌ̹nsʰukʰa̠da̠
@@ -44688,7 +43880,6 @@
 웨이터 we̞itʰʌ̹
 웨이트리스 we̞itʰɯɾisʰɯ
 웨치다 we̞t͡ɕʰida̠
-웨침 <EMPTY>
 웬 we̞n
 웬만하다 we̞nma̠nɦa̠da̠
 웬셈 we̞nsʰe̞m
@@ -44933,9 +44124,7 @@
 윌렘스따드 ɥiɭɭe̞msʰɯt͈a̠dɯ/ ~ /yɭɭe̞msʰɯt͈a̠dɯ
 윕실론 ɥipɕ͈iɭɭo̞n/ ~ /ypɕ͈iɭɭo̞n
 윗몸 ɥinmo̞m/ ~ /ynmo̞m
-윗물이 맑아야 아랫물이 맑다 <EMPTY>
 윗사람 ɥit̚s͈a̠ɾa̠m/ ~ /yt̚s͈a̠ɾa̠m
-윗어른 <EMPTY>
 유 ju
 유가 juɡa̠
 유가족 juɡa̠d͡ʑo̞k̚
@@ -45159,7 +44348,6 @@
 유아기 jua̠ɡi
 유아독존 jua̠do̞k̚t͡ɕ͈o̞n
 유아세례 jua̠sʰe̞ɾje̞/ ~ /jua̠sʰe̞ɾe̞
-유아어 <EMPTY>
 유아원 jua̠wʌ̹n
 유압 jua̠p̚
 유야무야 juja̠muja̠
@@ -45223,7 +44411,6 @@
 유전학 jud͡ʑʌ̹nɦa̠k̚
 유전형 jud͡ʑʌ̹nʝjʌ̹ŋ
 유정 jud͡ʑʌ̹ŋ
-유정란 <EMPTY>
 유제 jud͡ʑe̞
 유제품 jud͡ʑe̞pʰum
 유조 jud͡ʑo̞
@@ -45320,7 +44507,6 @@
 육가야 juk̚k͈a̠ja̠
 육각형 juk̚k͈a̠kçjʌ̹ŋ
 육개장 juk̚k͈ɛ̝d͡ʑa̠ŋ
-육계장 <EMPTY>
 육군 juk̚k͈un
 육도 juk̚t͈o̞
 육상 juks͈a̠ŋ
@@ -45357,7 +44543,6 @@
 윤화 junβwa̠
 윤회 junɦø̞/ ~ /junβwe̞
 율 juɭ
-율믜 <EMPTY>
 율법 juɭp͈ʌ̹p̚
 융 juŋ
 융성 juŋsʰʌ̹ŋ
@@ -45410,7 +44595,6 @@
 은은 ɯnɯn
 은은하다 ɯnɯnɦa̠da̠
 은자메나 ɯnd͡ʑa̠me̞na̠
-은진은 강경으로 꾸려 나간다 <EMPTY>
 은퇴하다 ɯntʰø̞ɦa̠da̠/ ~ /ɯntʰwe̞ɦa̠da̠
 은폐 ɯnpʰje̞/ ~ /ɯnpʰe̞
 은하 ɯnɦa̠
@@ -45419,12 +44603,9 @@
 은하수 ɯnɦa̠sʰu
 은행 ɯnɦɛ̝ŋ
 은행나무 ɯnɦɛ̝ŋna̠mu
-은행나무도 마주 서야 연다 <EMPTY>
 은회색 ɯnɦø̞sʰɛ̝k̚/ ~ /ɯnβwe̞sʰɛ̝k̚
 을 ɯɭ
 을근 ɯɭɡɯn
-을랑이 <EMPTY>
-을리아 <EMPTY>
 을묘 ɯɭmjo
 을미 ɯɭmi
 을밋을밋 ɯɭmisʰɯɭmit̚
@@ -45546,7 +44727,6 @@
 음주 ɯmd͡ʑu
 음주하다 ɯmd͡ʑuɦa̠da̠
 음지 ɯmd͡ʑi
-음지가 양지 되고 양지가 음지 된다 <EMPTY>
 음지식물 ɯmd͡ʑiɕʰiŋmuɭ
 음질 ɯmd͡ʑiɭ
 음창 ɯmt͡ɕʰa̠ŋ
@@ -45580,7 +44760,6 @@
 음흉하다 ɯmʝjuŋɦa̠da̠
 읍 ɯp̚
 읍내 ɯmnɛ̝
-읍니다 <EMPTY>
 읍사무소 ɯps͈a̠musʰo̞
 읍소 ɯps͈o̞
 응 ɯŋ
@@ -45605,7 +44784,6 @@
 응얼응얼 ɯŋʌ̹ɾɯŋʌ̹ɭ
 응얼응얼하다 ɯŋʌ̹ɾɯŋʌ̹ɾɦa̠da̠
 응연 ɯŋjʌ̹n
-응오오 <EMPTY>
 응용 ɯŋjoŋ
 응응 ɯŋɯŋ
 응응거리다 ɯŋɯŋɡʌ̹ɾida̠
@@ -45621,7 +44799,6 @@
 의결 ɰiɡjʌ̹ɭ
 의결권 ɰiɡjʌ̹ɭɡwʌ̹n
 의결기관 ɰiɡjʌ̹ɭɡiɡwa̠n
-의곡 <EMPTY>
 의과 ɰiɡwa̠
 의과대학 ɰiɡwa̠dɛ̝ɦa̠k̚
 의관 ɰiɡwa̠n
@@ -45669,7 +44846,6 @@
 의병제대 ɰibjʌ̹ŋd͡ʑe̞dɛ̝
 의복 ɰibo̞k̚
 의부 ɰibu
-의붓어미 눈치 보듯 <EMPTY>
 의사 ɰisʰa̠
 의사능력 ɰisʰa̠nɯŋɲjʌ̹k̚
 의사당 ɰisʰa̠da̠ŋ
@@ -45743,7 +44919,6 @@
 의중 ɰid͡ʑuŋ
 의지 ɰid͡ʑi
 의지하다 ɰid͡ʑiɦa̠da̠
-의질이 병 <EMPTY>
 의처증 ɰit͡ɕʰʌ̹d͡ʑɯŋ
 의치 ɰit͡ɕʰi
 의타심 ɰitʰa̠ɕʰim
@@ -45766,7 +44941,6 @@
 의회제 ɰiɦø̞d͡ʑe̞/ ~ /ɰiβwe̞d͡ʑe̞
 의회주의 ɰiɦø̞d͡ʑuɰi/ ~ /ɰiβwe̞d͡ʑuɰi
 이 i
-이 없으면 잇몸으로 산다 <EMPTY>
 이가알코올 iɡa̠a̠ɭkʰo̞o̞ɭ
 이같이 iɡa̠t͡ɕʰi
 이개지개 iɡɛ̝d͡ʑiɡɛ̝
@@ -45831,7 +45005,6 @@
 이들이들하다 idɯɾidɯɾɦa̠da̠
 이디쉬어 idiʃʰɥiʌ̹/ ~ /idiʃʰyʌ̹
 이디시어 idiɕʰiʌ̹
-이디오피아 <EMPTY>
 이따 it͈a̠
 이따가 it͈a̠ɡa̠
 이따금 it͈a̠ɡɯm
@@ -45888,7 +45061,6 @@
 이만 ima̠n
 이맘 ima̠m
 이맘때 ima̠mt͈ɛ̝
-이맛빡 <EMPTY>
 이메일 ime̞iɭ
 이모 imo̞
 이모부 imo̞bu
@@ -45950,9 +45122,6 @@
 이상하다 isʰa̠ŋɦa̠da̠
 이성 isʰʌ̹ŋ
 이성계 isʰʌ̹ŋɡje̞/ ~ /isʰʌ̹ŋɡe̞
-이세 <EMPTY>
-이소오 <EMPTY>
-이스따나 <EMPTY>
 이스라엘 isʰɯɾa̠e̞ɭ
 이스라엘인 isʰɯɾa̠e̞ɾin
 이스머스사포테카어 isʰɯmʌ̹sʰɯsʰa̠pʰo̞tʰe̞kʰa̠ʌ̹
@@ -45987,7 +45156,6 @@
 이십칠 iɕʰip̚t͡ɕʰiɭ
 이십팔 iɕʰip̚pʰa̠ɭ
 이쑤시개 is͈uɕʰiɡɛ̝
-이아 <EMPTY>
 이악 ia̠k̚
 이악이악 ia̠ɡia̠k̚
 이악이악하다 ia̠ɡia̠kʰa̠da̠
@@ -46020,7 +45188,6 @@
 이용하다 ijoŋɦa̠da̠
 이울다 iuɭda̠
 이웃 iut̚
-이웃이 사촌보다 낫다 <EMPTY>
 이웃집 iut̚t͡ɕ͈ip̚
 이웃하다 iutʰa̠da̠
 이원론 iwʌ̹ɭɭo̞n
@@ -46042,7 +45209,6 @@
 이전 id͡ʑʌ̹n
 이점 it͡ɕ͈ʌ̹m
 이제 id͡ʑe̞
-이제서야 <EMPTY>
 이제야 id͡ʑe̞ja̠
 이주걱거리다 id͡ʑuɡʌ̹k̚k͈ʌ̹ɾida̠
 이주걱대다 id͡ʑuɡʌ̹k̚t͈ɛ̝da̠
@@ -46228,7 +45394,6 @@
 인내 innɛ̝
 인내성 innɛ̝sʰʌ̹ŋ
 인내천 innɛ̝t͡ɕʰʌ̹n
-인다우 <EMPTY>
 인대 indɛ̝
 인덕 indʌ̹k̚
 인도 indo̞
@@ -46310,7 +45475,6 @@
 인산인해 insʰa̠ninɦɛ̝
 인삼 insʰa̠m
 인삼차 insʰa̠mt͡ɕʰa̠
-인삿말 <EMPTY>
 인상 insʰa̠ŋ
 인상적 insʰa̠ŋd͡ʑʌ̹k̚
 인상주의 insʰa̠ŋd͡ʑuɰi
@@ -46746,7 +45910,6 @@
 일억 iɾʌ̹k̚
 일언반구 iɾʌ̹nba̠nɡu
 일언지하 iɾʌ̹nd͡ʑiɦa̠
-일없다 <EMPTY>
 일염기산 iɾjʌ̹mɡisʰa̠n
 일엽주 iɾjʌ̹p̚t͡ɕ͈u
 일엽지추 iɾjʌ̹p̚t͡ɕ͈it͡ɕʰu
@@ -46840,7 +46003,6 @@
 일진월보 iɭd͡ʑinwʌ̹ɭbo̞
 일진일퇴 iɭd͡ʑiniɭtʰø̞/ ~ /iɭd͡ʑiniɭtʰwe̞
 일진회 iɭd͡ʑinɦø̞/ ~ /iɭd͡ʑinβwe̞
-일찌기 <EMPTY>
 일찍 iɭt͡ɕ͈ik̚
 일찍이 iɭt͡ɕ͈iɡi
 일차 iɭt͡ɕʰa̠
@@ -46944,7 +46106,6 @@
 입구 ip̚k͈u
 입국 ip̚k͈uk̚
 입다 ip̚t͈a̠
-입다툼 <EMPTY>
 입대 ip̚t͈ɛ̝
 입덧 ip̚t͈ʌ̹t̚
 입덧하다 ip̚t͈ʌ̹tʰa̠da̠
@@ -46965,14 +46126,8 @@
 입실론 ipɕ͈iɭɭo̞n
 입씨름 ipɕ͈iɾɯm
 입씨름하다 ipɕ͈iɾɯmɦa̠da̠
-입에 맞는 떡은 구하기 어렵다 <EMPTY>
-입에 쓴 약이 병에는 좋다 <EMPTY>
 입원 ibwʌ̹n
 입원하다 ibwʌ̹nɦa̠da̠
-입은 비뚤어졌어도 말은 바로 해라 <EMPTY>
-입이 개차반이다 <EMPTY>
-입이 열 개라도 할 말이 없다 <EMPTY>
-입이 원수 <EMPTY>
 입장 ip̚t͡ɕ͈a̠ŋ
 입장료 ip̚t͡ɕ͈a̠ŋɲjo
 입증 ip̚t͡ɕ͈ɯŋ
@@ -46991,7 +46146,6 @@
 있는 innɯn
 있다 it̚t͈a̠
 있음 is͈ɯm
-잉구쉬어 <EMPTY>
 잉글랜드 iŋɡɯɭɭɛ̝ndɯ
 잉여 iŋjʌ̹
 잉크 iŋkxɯ
@@ -47113,7 +46267,6 @@
 자긍심 t͡ɕa̠ɡɯŋɕʰim
 자기 t͡ɕa̠ɡi
 자기 가림 t͡ɕa̠ɡi ka̠ɾim
-자기 배 부르면 남의 배 고픈 줄 모른다 <EMPTY>
 자기 가림 t͡ɕa̠ɡi ka̠ɾim
 자기감사 t͡ɕa̠ɡiɡa̠msʰa̠
 자기감정 t͡ɕa̠ɡiɡa̠md͡ʑʌ̹ŋ
@@ -47166,7 +46319,6 @@
 자녀관 t͡ɕa̠ɲjʌ̹ɡwa̠n
 자늑자늑하다 t͡ɕa̠nɯk̚t͡ɕ͈a̠nɯkʰa̠da̠
 자다 t͡ɕa̠da̠
-자다가 벼락을 맞는다 <EMPTY>
 자당 t͡ɕa̠da̠ŋ
 자대 t͡ɕa̠dɛ̝
 자동 t͡ɕa̠do̞ŋ
@@ -47201,7 +46353,6 @@
 자드락자드락하다 t͡ɕa̠dɯɾa̠k̚t͡ɕ͈a̠dɯɾa̠kʰa̠da̠
 자디잘다 t͡ɕa̠did͡ʑa̠ɭda̠
 자라 t͡ɕa̠ɾa̠
-자라 보고 놀란 가슴 솥뚜껑 보고 놀란다 <EMPTY>
 자라나다 t͡ɕa̠ɾa̠na̠da̠
 자라다 t͡ɕa̠ɾa̠da̠
 자락 t͡ɕa̠ɾa̠k̚
@@ -47229,7 +46380,6 @@
 자료은행 t͡ɕa̠ɾjoɯnɦɛ̝ŋ
 자료집 t͡ɕa̠ɾjod͡ʑip̚
 자루 t͡ɕa̠ɾu
-자루 속의 송곳 <EMPTY>
 자르다 t͡ɕa̠ɾɯda̠
 자르랑 t͡ɕa̠ɾɯɾa̠ŋ
 자르랑거리다 t͡ɕa̠ɾɯɾa̠ŋɡʌ̹ɾida̠
@@ -47441,9 +46591,7 @@
 자시지벽 t͡ɕa̠ɕʰid͡ʑibjʌ̹k̚
 자시하 t͡ɕa̠ɕʰiɦa̠
 자식 t͡ɕa̠ɕʰik̚
-자식도 품 안에 들 때 내 자식이다 <EMPTY>
 자식새끼 t͡ɕa̠ɕʰiks͈ɛ̝k͈i
-자식은 내 자식이 커 보이고 벼는 남의 벼가 커 보인다 <EMPTY>
 자신 t͡ɕa̠ɕʰin
 자신감 t͡ɕa̠ɕʰinɡa̠m
 자신력 t͡ɕa̠ɕʰiɭʎjʌ̹k̚
@@ -47529,7 +46677,6 @@
 자울자울 t͡ɕa̠uɭd͡ʑa̠uɭ
 자웅 t͡ɕa̠uŋ
 자웅동체 t͡ɕa̠uŋdo̞ŋt͡ɕʰe̞
-자웅이체 <EMPTY>
 자원 t͡ɕa̠wʌ̹n
 자원 민족주의 t͡ɕa̠wʌ̹n mind͡ʑo̞k̚t͡ɕ͈uɰi
 자위 t͡ɕa̠ɥi/ ~ /t͡ɕa̠y
@@ -47847,7 +46994,6 @@
 작위범 t͡ɕa̠ɡɥibʌ̹m/ ~ /t͡ɕa̠ɡybʌ̹m
 작위적 t͡ɕa̠ɡɥid͡ʑʌ̹k̚/ ~ /t͡ɕa̠ɡyd͡ʑʌ̹k̚
 작은 t͡ɕa̠ɡɯn
-작은 고추가 더 맵다 <EMPTY>
 작은각시 t͡ɕa̠ɡɯnɡa̠kɕ͈i
 작은고모 t͡ɕa̠ɡɯnɡo̞mo̞
 작은고모부 t͡ɕa̠ɡɯnɡo̞mo̞bu
@@ -47913,7 +47059,6 @@
 작호 t͡ɕa̠kʰo̞
 작황 t͡ɕa̠kʰwa̠ŋ
 잔 t͡ɕa̠n
-잔病 <EMPTY>
 잔가지 t͡ɕa̠nɡa̠d͡ʑi
 잔고 t͡ɕa̠nɡo̞
 잔공 t͡ɕa̠nɡo̞ŋ
@@ -48058,7 +47203,6 @@
 잘남 t͡ɕa̠ɭɭa̠m
 잘다 t͡ɕa̠ɭda̠
 잘되다 t͡ɕa̠ɭdø̞da̠/ ~ /t͡ɕa̠ɭdwe̞da̠
-잘되면 제 탓 못되면 조상 탓 <EMPTY>
 잘디잘다 t͡ɕa̠ɭdid͡ʑa̠ɭda̠
 잘똑 t͡ɕa̠ɭt͈o̞k̚
 잘라먹다 t͡ɕa̠ɭɭa̠mʌ̹k̚t͈a̠
@@ -48208,7 +47352,6 @@
 잡숫다 t͡ɕa̠ps͈ut̚t͈a̠
 잡스럽다 t͡ɕa̠ps͈ɯɾʌ̹p̚t͈a̠
 잡식 t͡ɕa̠pɕ͈ik̚
-잡식동물 <EMPTY>
 잡식성 t͡ɕa̠pɕ͈iks͈ʌ̹ŋ
 잡아가다 t͡ɕa̠ba̠ɡa̠da̠
 잡아끌다 t͡ɕa̠ba̠k͈ɯɭda̠
@@ -48261,13 +47404,11 @@
 장기적 t͡ɕa̠ŋɡid͡ʑʌ̹k̚
 장깨이뽀 t͡ɕa̠ŋk͈ɛ̝ip͈o̞
 장꼬방 t͡ɕa̠ŋk͈o̞ba̠ŋ
-장끼 <EMPTY>
 장난 t͡ɕa̠ŋna̠n
 장난감 t͡ɕa̠ŋna̠nk͈a̠m
 장난꾸러기 t͡ɕa̠ŋna̠nk͈uɾʌ̹ɡi
 장남 t͡ɕa̠ŋna̠m
 장녀 t͡ɕa̠ŋɲjʌ̹
-장농 <EMPTY>
 장님 t͡ɕa̠ŋnim
 장단 t͡ɕa̠ŋda̠n
 장담 t͡ɕa̠ŋda̠m
@@ -48495,7 +47636,6 @@
 재산세 t͡ɕɛ̝sʰa̠nsʰe̞
 재산압류 t͡ɕɛ̝sʰa̠na̠mɲju
 재삼 t͡ɕɛ̝sʰa̠m
-재삿밥 <EMPTY>
 재상 t͡ɕɛ̝sʰa̠ŋ
 재색 t͡ɕɛ̝sʰɛ̝k̚
 재생 t͡ɕɛ̝sʰɛ̝ŋ
@@ -48587,7 +47727,6 @@
 재종형 t͡ɕɛ̝d͡ʑo̞ŋʝjʌ̹ŋ
 재종형제 t͡ɕɛ̝d͡ʑo̞ŋʝjʌ̹ŋd͡ʑe̞
 재주 t͡ɕɛ̝d͡ʑu
-재주는 곰이 넘고 돈은 되놈이 받는다 <EMPTY>
 재중 t͡ɕɛ̝d͡ʑuŋ
 재즈 t͡ɕɛ̝d͡ʑɯ
 재지 t͡ɕɛ̝d͡ʑi
@@ -48609,7 +47748,6 @@
 재침략 t͡ɕɛ̝t͡ɕʰimɲja̠k̚
 재탈환 t͡ɕɛ̝tʰa̠ɾβwa̠n
 재탕 t͡ɕɛ̝tʰa̠ŋ
-재털이 <EMPTY>
 재테크 t͡ɕɛ̝tʰe̞kxɯ
 재투자 t͡ɕɛ̝tʰud͡ʑa̠
 재판 t͡ɕɛ̝pʰa̠n
@@ -48661,10 +47799,8 @@
 쟁탈 t͡ɕɛ̝ŋtʰa̠ɭ
 쟁탈전 t͡ɕɛ̝ŋtʰa̠ɭd͡ʑʌ̹n
 쟁탈하다 t͡ɕɛ̝ŋtʰa̠ɾɦa̠da̠
-쟈감 <EMPTY>
 쟈까르따 t͡ɕja̠k͈a̠ɾɯt͈a̠
 쟈즈 t͡ɕja̠d͡ʑɯ
-쟝르 <EMPTY>
 저 t͡ɕʌ̹
 저가 t͡ɕʌ̹ɡa̠
 저가락 t͡ɕʌ̹ɡa̠ɾa̠k̚
@@ -48902,7 +48038,6 @@
 적갈색 t͡ɕʌ̹k̚k͈a̠ɭsʰɛ̝k̚
 적개 t͡ɕʌ̹k̚k͈ɛ̝
 적개심 t͡ɕʌ̹k̚k͈ɛ̝ɕʰim
-적게 먹으면 약주요 많이 먹으면 망주라 <EMPTY>
 적격 t͡ɕʌ̹k̚k͈jʌ̹k̚
 적격하다 t͡ɕʌ̹k̚k͈jʌ̹kʰa̠da̠
 적국 t͡ɕʌ̹k̚k͈uk̚
@@ -49217,7 +48352,6 @@
 전력투구 t͡ɕʌ̹ɭʎjʌ̹k̚tʰuɡu
 전력하다 t͡ɕʌ̹ɭʎjʌ̹kʰa̠da̠
 전력화 t͡ɕʌ̹ɭʎjʌ̹kʰwa̠
-전력화하다 <EMPTY>
 전령 t͡ɕʌ̹ɭʎjʌ̹ŋ
 전령병 t͡ɕʌ̹ɭʎjʌ̹ŋbjʌ̹ŋ
 전례 t͡ɕʌ̹ɭʎje̞/ ~ /t͡ɕʌ̹ɭɭe̞
@@ -49385,7 +48519,6 @@
 전야 t͡ɕʌ̹ɲja̠
 전야제 t͡ɕʌ̹ɲja̠d͡ʑe̞
 전어 t͡ɕʌ̹nʌ̹
-전어 굽는 냄새에 나갔던 며느리 다시 돌아온다 <EMPTY>
 전언 t͡ɕʌ̹nʌ̹n
 전업 t͡ɕʌ̹nʌ̹p̚
 전업하다 t͡ɕʌ̹nʌ̹pʰa̠da̠
@@ -49670,7 +48803,6 @@
 절대 t͡ɕʌ̹ɭdɛ̝
 절대로 t͡ɕʌ̹ɭdɛ̝ɾo̞
 절대적 t͡ɕʌ̹ɭdɛ̝d͡ʑʌ̹k̚
-절대절명 <EMPTY>
 절뚝 t͡ɕʌ̹ɭt͈uk̚
 절로 t͡ɕʌ̹ɭɭo̞
 절리 t͡ɕʌ̹ɭʎi
@@ -49684,8 +48816,6 @@
 절쑥 t͡ɕʌ̹ɭs͈uk̚
 절약 t͡ɕʌ̹ɾja̠k̚
 절약하다 t͡ɕʌ̹ɾja̠kʰa̠da̠
-절에 가면 중노릇하고 싶다 <EMPTY>
-절에 간 색시 재에는 뜻이 없고 재밥에만 눈이 간다 <EMPTY>
 절용 t͡ɕʌ̹ɾjoŋ
 절절 t͡ɕʌ̹ɭd͡ʑʌ̹ɭ
 절차 t͡ɕʌ̹ɭt͡ɕʰa̠
@@ -49696,7 +48826,6 @@
 절해 t͡ɕʌ̹ɾɦɛ̝
 젊다 ˈt͡ɕɘːmt͈a̠
 젊은 t͡ɕʌ̹ɭmɯn
-젊은 과부 한숨 쉬듯 <EMPTY>
 젊은이 t͡ɕʌ̹ɭmɯni
 젊음 t͡ɕʌ̹ɭmɯm
 점 t͡ɕʌ̹m
@@ -49745,13 +48874,11 @@
 접속표시화면 t͡ɕʌ̹ps͈o̞k̚pʰjoɕʰiβwa̠mjʌ̹n
 접수계 t͡ɕʌ̹ps͈uɡje̞/ ~ /t͡ɕʌ̹ps͈uɡe̞
 접시 t͡ɕʌ̹pɕ͈i
-접시 물에 빠져 죽지 <EMPTY>
 접지선 t͡ɕʌ̹p̚t͡ɕ͈isʰʌ̹n
 접촉 t͡ɕʌ̹p̚t͡ɕʰo̞k̚
 접촉하다 t͡ɕʌ̹p̚t͡ɕʰo̞kʰa̠da̠
 접치기 t͡ɕʌ̹p̚t͡ɕʰiɡi
 접하다 t͡ɕʌ̹pʰa̠da̠
-젓 <EMPTY>
 젓가락 t͡ɕʌ̹t̚k͈a̠ɾa̠k̚
 젓가락질 t͡ɕʌ̹t̚k͈a̠ɾa̠k̚t͡ɕ͈iɭ
 젓갈 t͡ɕʌ̹t̚k͈a̠ɭ
@@ -49815,7 +48942,6 @@
 정수 t͡ɕʌ̹ŋsʰu
 정수리 t͡ɕʌ̹ŋsʰuɾi
 정숙 t͡ɕʌ̹ŋsʰuk̚
-정승도 저 싫으면 안 한다 <EMPTY>
 정식 t͡ɕʌ̹ŋɕʰik̚
 정신 t͡ɕʌ̹ŋɕʰin
 정신과 t͡ɕʌ̹ŋɕʰinɡwa̠
@@ -49878,10 +49004,6 @@
 젖버듬 t͡ɕʌ̹t̚p͈ʌ̹dɯm
 젖싸개 t͡ɕʌ̹t̚s͈a̠ɡɛ̝
 젖통 t͡ɕʌ̹t̚tʰo̞ŋ
-제 것 주고 뺨 맞는다 <EMPTY>
-제 논에 물 대기 <EMPTY>
-제 똥 구린 줄 모른다 <EMPTY>
-제 버릇 개 줄까 <EMPTY>
 제가 t͡ɕe̞ɡa̠
 제갈 t͡ɕe̞ɡa̠ɭ
 제강 t͡ɕe̞ɡa̠ŋ
@@ -49935,7 +49057,6 @@
 제등명법 t͡ɕe̞dɯŋmjʌ̹ŋbʌ̹p̚
 제등행렬 t͡ɕe̞dɯŋɦɛ̝ŋɲjʌ̹ɭ
 제때 t͡ɕe̞t͈ɛ̝
-제라빠 <EMPTY>
 제련 t͡ɕe̞ɾjʌ̹n
 제련되다 t͡ɕe̞ɾjʌ̹ndø̞da̠/ ~ /t͡ɕe̞ɾjʌ̹ndwe̞da̠
 제련소 t͡ɕe̞ɾjʌ̹nsʰo̞
@@ -50000,7 +49121,6 @@
 제수답 t͡ɕe̞sʰuda̠p̚
 제수전 t͡ɕe̞sʰud͡ʑʌ̹n
 제스처 t͡ɕe̞sʰɯt͡ɕʰʌ̹
-제스쳐 <EMPTY>
 제습 t͡ɕe̞sʰɯp̚
 제습하다 t͡ɕe̞sʰɯpʰa̠da̠
 제시 t͡ɕe̞ɕʰi
@@ -50169,7 +49289,6 @@
 젠장 t͡ɕe̞nd͡ʑa̠ŋ
 젠젠하다 t͡ɕe̞nd͡ʑe̞nɦa̠da̠
 져메이커 t͡ɕjʌ̹me̞ikʰʌ̹
-젼ᄎᆞ <EMPTY>
 조 t͡ɕo̞
 조가비 t͡ɕo̞ɡa̠bi
 조각 t͡ɕo̞ɡa̠k̚
@@ -50356,7 +49475,6 @@
 조산원 t͡ɕo̞sʰa̠nwʌ̹n
 조삼모사 t͡ɕo̞sʰa̠mmo̞sʰa̠
 조상 t͡ɕo̞sʰa̠ŋ
-조상 덕에 이밥 먹는다 <EMPTY>
 조상숭배 t͡ɕo̞sʰa̠ŋsʰuŋbɛ̝
 조색 t͡ɕo̞sʰɛ̝k̚
 조생종 t͡ɕo̞sʰɛ̝ŋd͡ʑo̞ŋ
@@ -50368,7 +49486,6 @@
 조선남해 t͡ɕo̞sʰʌ̹nna̠mɦɛ̝
 조선동해 t͡ɕo̞sʰʌ̹ndo̞ŋɦɛ̝
 조선말 t͡ɕo̞sʰʌ̹nma̠ɭ
-조선민족 <EMPTY>
 조선민주주의인민공화국 t͡ɕo̞sʰʌ̹nmind͡ʑud͡ʑuɰiinminɡo̞ŋβwa̠ɡuk̚
 조선반도 t͡ɕo̞sʰʌ̹nba̠ndo̞
 조선범 t͡ɕo̞sʰʌ̹nbʌ̹m
@@ -50421,7 +49538,6 @@
 조영 t͡ɕo̞jʌ̹ŋ
 조예 t͡ɕo̞je̞
 조용하다 t͡ɕo̞joŋɦa̠da̠
-조용한 고양이가 부뚜막에 먼저 올라간다 <EMPTY>
 조용하다 t͡ɕo̞joŋɦa̠da̠
 조용히 t͡ɕo̞joŋʝi
 조우 t͡ɕo̞u
@@ -50660,8 +49776,6 @@
 종려나무 t͡ɕo̞ŋɲjʌ̹na̠mu
 종례 t͡ɕo̞ŋɲje̞/ ~ /t͡ɕo̞ŋne̞
 종로 t͡ɕo̞ŋno̞
-종로에서 뺨 맞고 한강에 가서 눈 흘긴다 <EMPTY>
-종로에서 뺨 맞고 한강에서 눈 흘긴다 <EMPTY>
 종료 t͡ɕo̞ŋɲjo
 종료되다 t͡ɕo̞ŋɲjodø̞da̠/ ~ /t͡ɕo̞ŋɲjodwe̞da̠
 종료하다 t͡ɕo̞ŋɲjoɦa̠da̠
@@ -50747,7 +49861,6 @@
 종이돈 t͡ɕo̞ŋido̞n
 종이비행기 t͡ɕo̞ŋibiɦɛ̝ŋɡi
 종이접기 t͡ɕo̞ŋid͡ʑʌ̹p̚k͈i
-종이조각 <EMPTY>
 종이컵 t͡ɕo̞ŋikʰʌ̹p̚
 종이학 t͡ɕo̞ŋiɦa̠k̚
 종일 t͡ɕo̞ŋiɭ
@@ -50906,10 +50019,8 @@
 주막 t͡ɕuma̠k̚
 주말 t͡ɕuma̠ɭ
 주머니 t͡ɕumʌ̹ni
-주머니 돈이 쌈지돈 <EMPTY>
 주먹 t͡ɕumʌ̹k̚
 주먹가위 t͡ɕumʌ̹k̚k͈a̠ɥi/ ~ /t͡ɕumʌ̹k̚k͈a̠y
-주먹은 가깝고 법은 멀다 <EMPTY>
 주무랑마봉 t͡ɕumuɾa̠ŋma̠bo̞ŋ
 주무르다 t͡ɕumuɾɯda̠
 주무시다 t͡ɕumuɕʰida̠
@@ -51023,7 +50134,6 @@
 주차 t͡ɕut͡ɕʰa̠
 주차장 t͡ɕut͡ɕʰa̠d͡ʑa̠ŋ
 주차하다 t͡ɕut͡ɕʰa̠ɦa̠da̠
-주착 <EMPTY>
 주책 t͡ɕut͡ɕʰɛ̝k̚
 주척거리다 t͡ɕut͡ɕʰʌ̹k̚k͈ʌ̹ɾida̠
 주척대다 t͡ɕut͡ɕʰʌ̹k̚t͈ɛ̝da̠
@@ -51050,8 +50160,6 @@
 주필 t͡ɕupʰiɭ
 주한 t͡ɕuɦa̠n
 주행성 t͡ɕuɦɛ̝ŋsʰʌ̹ŋ
-주행성 동물 <EMPTY>
-주행성 동물 <EMPTY>
 주화 t͡ɕuβwa̠
 주황 t͡ɕuβwa̠ŋ
 주황색 t͡ɕuβwa̠ŋsʰɛ̝k̚
@@ -51067,7 +50175,6 @@
 죽세공 t͡ɕuks͈e̞ɡo̞ŋ
 죽순 t͡ɕuks͈un
 죽엽 t͡ɕuɡjʌ̹p̚
-죽은 자식 자지 만져 보기 <EMPTY>
 죽음 t͡ɕuɡɯm
 죽이다 t͡ɕuɡida̠
 죽임 t͡ɕuɡim
@@ -51366,8 +50473,6 @@
 중의 t͡ɕuŋɰi
 중의법 t͡ɕuŋɰibʌ̹p̚
 중이 t͡ɕuŋi
-중이 고기 맛을 알면 절에 빈대가 안 남는다 <EMPTY>
-중이 제 머리를 못 깎는다 <EMPTY>
 중이병 t͡ɕuŋibjʌ̹ŋ
 중이염 t͡ɕuŋijʌ̹m
 중인 t͡ɕuŋin
@@ -51445,11 +50550,8 @@
 중흥 t͡ɕuŋɣɯŋ
 쥉이 t͡ɕwe̞ŋi
 쥐 t͡ɕɥi/ ~ /t͡ɕy
-쥐가 고양이를 무는 식 <EMPTY>
 쥐과 t͡ɕɥiɡwa̠/ ~ /t͡ɕyɡwa̠
 쥐구멍 t͡ɕɥiɡumʌ̹ŋ/ ~ /t͡ɕyɡumʌ̹ŋ
-쥐구멍에 홍살문 세우겠다 <EMPTY>
-쥐구멍에도 볕 들 날 있다 <EMPTY>
 쥐노래미 t͡ɕɥino̞ɾɛ̝mi/ ~ /t͡ɕyno̞ɾɛ̝mi
 쥐다 ˈt͡ɕɥiːda̠/ ~ /ˈt͡ɕyːda̠
 쥐덫 t͡ɕɥidʌ̹t̚/ ~ /t͡ɕydʌ̹t̚
@@ -51464,7 +50566,6 @@
 쥐치 t͡ɕɥit͡ɕʰi/ ~ /t͡ɕyt͡ɕʰi
 쥠봉 t͡ɕɥimbo̞ŋ/ ~ /t͡ɕymbo̞ŋ
 쥣과 t͡ɕɥit̚k͈wa̠/ ~ /t͡ɕyt̚k͈wa̠
-쥬련 <EMPTY>
 쥬스 t͡ɕjusʰɯ
 즈믄 t͡ɕɯmɯn
 즈봉 t͡ɕɯbo̞ŋ
@@ -51641,7 +50742,6 @@
 지뢰 t͡ɕiɾø̞/ ~ /t͡ɕiɾwe̞
 지루 t͡ɕiɾu
 지루하다 t͡ɕiɾuɦa̠da̠
-지룽 <EMPTY>
 지류 t͡ɕiɾju
 지르다 t͡ɕiɾɯda̠
 지르코늄 t͡ɕiɾɯkʰo̞ɲjum
@@ -51732,7 +50832,6 @@
 지선 t͡ɕisʰʌ̹n
 지성 t͡ɕisʰʌ̹ŋ
 지성감천 t͡ɕisʰʌ̹ŋɡa̠mt͡ɕʰʌ̹n
-지성이면 감천 <EMPTY>
 지성인 t͡ɕisʰʌ̹ŋin
 지성적 t͡ɕisʰʌ̹ŋd͡ʑʌ̹k̚
 지소 t͡ɕisʰo̞
@@ -51800,9 +50899,6 @@
 지원 t͡ɕiwʌ̹n
 지원군 t͡ɕiwʌ̹nɡun
 지원하다 t͡ɕiwʌ̹nɦa̠da̠
-지원하지 않는 제목/공백 <EMPTY>
-지원하지 않는 제목/쌍점 <EMPTY>
-지원하지 않는 제목/오른쪽 대괄호 <EMPTY>
 지위 t͡ɕiɥi/ ~ /t͡ɕiy
 지은옷 t͡ɕiɯno̞t̚
 지음 t͡ɕiɯm
@@ -51818,7 +50914,6 @@
 지장보살 t͡ɕid͡ʑa̠ŋbo̞sʰa̠ɭ
 지저 t͡ɕid͡ʑʌ̹
 지저분 t͡ɕid͡ʑʌ̹bun
-지저분하기는 오간수 다리 밑이다 <EMPTY>
 지저분하다 t͡ɕid͡ʑʌ̹bunɦa̠da̠
 지적 t͡ɕid͡ʑʌ̹k̚
 지적 재산권 t͡ɕid͡ʑʌ̹k̚ t͡ɕɛ̝sʰa̠nɡwʌ̹n
@@ -51847,7 +50942,6 @@
 지지다 t͡ɕid͡ʑida̠
 지지바 t͡ɕid͡ʑiba̠
 지지바이 t͡ɕid͡ʑiba̠i
-지지배 <EMPTY>
 지지부진 t͡ɕid͡ʑibud͡ʑin
 지지조직 t͡ɕid͡ʑid͡ʑo̞d͡ʑik̚
 지지지지 t͡ɕid͡ʑid͡ʑid͡ʑi
@@ -52076,7 +51170,6 @@
 진분수 t͡ɕinbunsʰu
 진사 t͡ɕinsʰa̠
 진상 t͡ɕinsʰa̠ŋ
-진상은 꼬챙이에 꿰고 인정은 바리로 싣는다 <EMPTY>
 진상하다 t͡ɕinsʰa̠ŋɦa̠da̠
 진서 t͡ɕinsʰʌ̹
 진선미 t͡ɕinsʰʌ̹nmi
@@ -52134,7 +51227,6 @@
 진정되다 t͡ɕind͡ʑʌ̹ŋdø̞da̠/ ~ /t͡ɕind͡ʑʌ̹ŋdwe̞da̠
 진정서 t͡ɕind͡ʑʌ̹ŋsʰʌ̹
 진정제 t͡ɕind͡ʑʌ̹ŋd͡ʑe̞
-진정코 <EMPTY>
 진정하다 t͡ɕind͡ʑʌ̹ŋɦa̠da̠
 진종일 t͡ɕind͡ʑo̞ŋiɭ
 진주 t͡ɕind͡ʑu
@@ -52288,7 +51380,6 @@
 집계 t͡ɕip̚k͈je̞/ ~ /t͡ɕip̚k͈e̞
 집계되다 t͡ɕip̚k͈je̞dø̞da̠/ ~ /t͡ɕip̚k͈e̞dwe̞da̠
 집계하다 t͡ɕip̚k͈je̞ɦa̠da̠/ ~ /t͡ɕip̚k͈e̞ɦa̠da̠
-집과 계집은 가꾸기 탓 <EMPTY>
 집광 t͡ɕip̚k͈wa̠ŋ
 집광기 t͡ɕip̚k͈wa̠ŋɡi
 집권 t͡ɕip̚k͈wʌ̹n
@@ -52322,7 +51413,6 @@
 집달하다 t͡ɕip̚t͈a̠ɾɦa̠da̠
 집대성 t͡ɕip̚t͈ɛ̝sʰʌ̹ŋ
 집도 t͡ɕip̚t͈o̞
-집도 절도 없다 <EMPTY>
 집도하다 t͡ɕip̚t͈o̞ɦa̠da̠
 집들이 t͡ɕip̚t͈ɯɾi
 집들이하다 t͡ɕip̚t͈ɯɾiɦa̠da̠
@@ -52468,7 +51558,6 @@
 징징 t͡ɕiŋd͡ʑiŋ
 징표 t͡ɕiŋpʰjo
 징후 t͡ɕiŋβu
-짖는 개는 물지 않는다 <EMPTY>
 짖다 t͡ɕit̚t͈a̠
 짙다 t͡ɕit̚t͈a̠
 짙어지다 t͡ɕitʰʌ̹d͡ʑida̠
@@ -52476,7 +51565,6 @@
 짙음 t͡ɕitʰɯm
 짚 t͡ɕip̚
 짚다 t͡ɕip̚t͈a̠
-짚신도 제짝이 있다 <EMPTY>
 짜 t͡ɕ͈a̠
 짜개 t͡ɕ͈a̠ɡɛ̝
 짜개다 t͡ɕ͈a̠ɡɛ̝da̠
@@ -52621,9 +51709,7 @@
 짜증 t͡ɕ͈a̠d͡ʑɯŋ
 짜증스럽다 t͡ɕ͈a̠d͡ʑɯŋsʰɯɾʌ̹p̚t͈a̠
 짜지다 t͡ɕ͈a̠d͡ʑida̠
-짜집기 <EMPTY>
 짜하다 t͡ɕ͈a̠ɦa̠da̠
-짜헤아 <EMPTY>
 짝 t͡ɕ͈a̠k̚
 짝꿍 t͡ɕ͈a̠k̚k͈uŋ
 짝배기 t͡ɕ͈a̠k̚p͈ɛ̝ɡi
@@ -52897,7 +51983,6 @@
 째보 t͡ɕ͈ɛ̝bo̞
 째어지다 t͡ɕ͈ɛ̝ʌ̹d͡ʑida̠
 째지다 t͡ɕ͈ɛ̝d͡ʑida̠
-째째하다 <EMPTY>
 짹짹 t͡ɕ͈ɛ̝k̚t͡ɕ͈ɛ̝k̚
 쨈 t͡ɕ͈ɛ̝m
 쨍 t͡ɕ͈ɛ̝ŋ
@@ -52931,7 +52016,6 @@
 쩨쩨 t͡ɕ͈e̞t͡ɕ͈e̞
 쩨쩨하다 t͡ɕ͈e̞t͡ɕ͈e̞ɦa̠da̠
 쪼가리 t͡ɕ͈o̞ɡa̠ɾi
-쪼각 <EMPTY>
 쪼개다 t͡ɕ͈o̞ɡɛ̝da̠
 쪼개지다 t͡ɕ͈o̞ɡɛ̝d͡ʑida̠
 쪼골쪼골 t͡ɕ͈o̞ɡo̞ɭt͡ɕ͈o̞ɡo̞ɭ
@@ -53006,9 +52090,7 @@
 쪽무이 t͡ɕ͈o̞ŋmui
 쪽무이그림 t͡ɕ͈o̞ŋmuiɡɯɾim
 쪽문 t͡ɕ͈o̞ŋmun
-쪽바리 <EMPTY>
 쪽박 t͡ɕ͈o̞k̚p͈a̠k̚
-쪽박 쓰고 벼락을 피하랴 <EMPTY>
 쪽박신세 t͡ɕ͈o̞k̚p͈a̠kɕ͈insʰe̞
 쪽반달 t͡ɕ͈o̞k̚p͈a̠nda̠ɭ
 쪽발이 t͡ɕ͈o̞k̚p͈a̠ɾi
@@ -53016,8 +52098,6 @@
 쪽빛 t͡ɕ͈o̞k̚p͈it̚
 쪽자 t͡ɕ͈o̞k̚t͡ɕ͈a̠
 쪽지 t͡ɕ͈o̞k̚t͡ɕ͈i
-쪽집개 <EMPTY>
-쪽집게 <EMPTY>
 쪽쪽 t͡ɕ͈o̞k̚t͡ɕ͈o̞k̚
 쪽쪽이 t͡ɕ͈o̞k̚t͡ɕ͈o̞ɡi
 쪽찌다 t͡ɕ͈o̞k̚t͡ɕ͈ida̠
@@ -53085,7 +52165,6 @@
 찌걱찌걱하다 t͡ɕ͈iɡʌ̹k̚t͡ɕ͈iɡʌ̹kʰa̠da̠
 찌겁찌겁 t͡ɕ͈iɡʌ̹p̚t͡ɕ͈iɡʌ̹p̚
 찌겁찌겁하다 t͡ɕ͈iɡʌ̹p̚t͡ɕ͈iɡʌ̹pʰa̠da̠
-찌게 <EMPTY>
 찌구덩 t͡ɕ͈iɡudʌ̹ŋ
 찌구덩하다 t͡ɕ͈iɡudʌ̹ŋɦa̠da̠
 찌국 t͡ɕ͈iɡuk̚
@@ -53156,7 +52235,6 @@
 찌꺽 t͡ɕ͈ik͈ʌ̹k̚
 찌꺽거리다 t͡ɕ͈ik͈ʌ̹k̚k͈ʌ̹ɾida̠
 찌꺽대다 t͡ɕ͈ik͈ʌ̹k̚t͈ɛ̝da̠
-찌꺽지 <EMPTY>
 찌꺽찌꺽 t͡ɕ͈ik͈ʌ̹k̚t͡ɕ͈ik͈ʌ̹k̚
 찌꺽찌꺽하다 t͡ɕ͈ik͈ʌ̹k̚t͡ɕ͈ik͈ʌ̹kʰa̠da̠
 찌껍찌껍 t͡ɕ͈ik͈ʌ̹p̚t͡ɕ͈ik͈ʌ̹p̚
@@ -53267,7 +52345,6 @@
 찌뿌드드 t͡ɕ͈ip͈udɯdɯ
 찌뿌드드하다 t͡ɕ͈ip͈udɯdɯɦa̠da̠
 찌뿌듯 t͡ɕ͈ip͈udɯt̚
-찌아 <EMPTY>
 찌아찌아어 t͡ɕ͈ia̠t͡ɕ͈ia̠ʌ̹
 찌죽 t͡ɕ͈id͡ʑuk̚
 찌죽거리다 t͡ɕ͈id͡ʑuk̚k͈ʌ̹ɾida̠
@@ -53283,7 +52360,6 @@
 찌직찌직 t͡ɕ͈id͡ʑik̚t͡ɕ͈id͡ʑik̚
 찌직찌직하다 t͡ɕ͈id͡ʑik̚t͡ɕ͈id͡ʑikʰa̠da̠
 찌직하다 t͡ɕ͈id͡ʑikʰa̠da̠
-찌찌 <EMPTY>
 찌창 t͡ɕ͈it͡ɕʰa̠ŋ
 찌쿠덩 t͡ɕ͈ikʰudʌ̹ŋ
 찌쿠덩하다 t͡ɕ͈ikʰudʌ̹ŋɦa̠da̠
@@ -53313,16 +52389,13 @@
 찔꺽 t͡ɕ͈iɭk͈ʌ̹k̚
 찔끔 t͡ɕ͈iɭk͈ɯm
 찔뚝 t͡ɕ͈iɭt͈uk̚
-찔러도 피 한 방울 안 나겠다 <EMPTY>
 찔레 t͡ɕ͈iɭɭe̞
 찔레꽃 t͡ɕ͈iɭɭe̞k͈o̞t̚
 찔레나무 t͡ɕ͈iɭɭe̞na̠mu
-찔르다 <EMPTY>
 찔름 t͡ɕ͈iɭɭɯm
 찔리다 t͡ɕ͈iɭʎida̠
 찔쑥 t͡ɕ͈iɭs͈uk̚
 찜 t͡ɕ͈im
-찜부루 <EMPTY>
 찜질 t͡ɕ͈imd͡ʑiɭ
 찜질방 t͡ɕ͈imd͡ʑiɭba̠ŋ
 찜찜 t͡ɕ͈imt͡ɕ͈im
@@ -53363,14 +52436,12 @@
 찢어지다 t͡ɕ͈id͡ʑʌ̹d͡ʑida̠
 찧다 t͡ɕ͈itʰa̠
 차 t͡ɕʰa̠
-차 치고 포 친다 <EMPTY>
 차가운 암흑물질 t͡ɕʰa̠ɡa̠un a̠mɣɯŋmuɭd͡ʑiɭ
 차가워지다 t͡ɕʰa̠ɡa̠wʌ̹d͡ʑida̠
 차감 t͡ɕʰa̠ɡa̠m
 차감되다 t͡ɕʰa̠ɡa̠mdø̞da̠/ ~ /t͡ɕʰa̠ɡa̠mdwe̞da̠
 차감하다 t͡ɕʰa̠ɡa̠mɦa̠da̠
 차갑다 t͡ɕʰa̠ɡa̠p̚t͈a̠
-차겁다 <EMPTY>
 차고 t͡ɕʰa̠ɡo̞
 차고앉다 t͡ɕʰa̠ɡo̞a̠nt͈a̠
 차곡 t͡ɕʰa̠ɡo̞k̚
@@ -53644,7 +52715,6 @@
 찬례 t͡ɕʰa̠ɭʎje̞/ ~ /t͡ɕʰa̠ɭɭe̞
 찬모 t͡ɕʰa̠nmo̞
 찬물 t͡ɕʰa̠nmuɭ
-찬물도 위아래가 있다 <EMPTY>
 찬물미역 t͡ɕʰa̠nmuɭmijʌ̹k̚
 찬미 t͡ɕʰa̠nmi
 찬미가 t͡ɕʰa̠nmiɡa̠
@@ -53900,7 +52970,6 @@
 참극 t͡ɕʰa̠mɡɯk̚
 참기름 t͡ɕʰa̠mɡiɾɯm
 참깨 t͡ɕʰa̠mk͈ɛ̝
-참깨 들깨 노는데 아주까리가 못 놀까 <EMPTY>
 참나도히초미 t͡ɕʰa̠mna̠do̞ʝit͡ɕʰo̞mi
 참나래박쥐 t͡ɕʰa̠mna̠ɾɛ̝ba̠k̚t͡ɕ͈ɥi/ ~ /t͡ɕʰa̠mna̠ɾɛ̝ba̠k̚t͡ɕ͈y
 참나래새 t͡ɕʰa̠mna̠ɾɛ̝sʰɛ̝
@@ -53934,8 +53003,6 @@
 참살 t͡ɕʰa̠msʰa̠ɭ
 참상 t͡ɕʰa̠msʰa̠ŋ
 참새 t͡ɕʰa̠msʰɛ̝
-참새가 방앗간을 그저 지나랴 <EMPTY>
-참새가 죽어도 짹 한다 <EMPTY>
 참석 t͡ɕʰa̠msʰʌ̹k̚
 참석자 t͡ɕʰa̠msʰʌ̹k̚t͡ɕ͈a̠
 참석하다 t͡ɕʰa̠msʰʌ̹kʰa̠da̠
@@ -53954,10 +53021,8 @@
 참여하다 t͡ɕʰa̠mjʌ̹ɦa̠da̠
 참오동 t͡ɕʰa̠mo̞do̞ŋ
 참외 t͡ɕʰa̠mø̞/ ~ /t͡ɕʰa̠mwe̞
-참우렁이 <EMPTY>
 참위 t͡ɕʰa̠mɥi/ ~ /t͡ɕʰa̠my
 참으로 t͡ɕʰa̠mɯɾo̞
-참을 인 자 셋이면 살인도 피한다 <EMPTY>
 참을성 t͡ɕʰa̠mɯɭsʰʌ̹ŋ
 참의 t͡ɕʰa̠mɰi
 참의부 t͡ɕʰa̠mɰibu
@@ -54162,16 +53227,11 @@
 챔피언 t͡ɕʰɛ̝mpʰiʌ̹n
 챙 t͡ɕʰɛ̝ŋ
 챙기다 t͡ɕʰɛ̝ŋɡida̠
-챙피 <EMPTY>
 챠드 t͡ɕʰja̠dɯ
-챠트 <EMPTY>
 처 t͡ɕʰʌ̹
-처ᅀᅥᆷ <EMPTY>
 처가 t͡ɕʰʌ̹ɡa̠
-처가살이 십 년이면 아이들도 외탁한다 <EMPTY>
 처가속 t͡ɕʰʌ̹ɡa̠sʰo̞k̚
 처갓집 t͡ɕʰʌ̹ɡa̠t̚t͡ɕ͈ip̚
-처갓집에 송곳 차고 간다 <EMPTY>
 처격 t͡ɕʰʌ̹ɡjʌ̹k̚
 처결 t͡ɕʰʌ̹ɡjʌ̹ɭ
 처궁 t͡ɕʰʌ̹ɡuŋ
@@ -54183,9 +53243,6 @@
 처끈처끈하다 t͡ɕʰʌ̹k͈ɯnt͡ɕʰʌ̹k͈ɯnɦa̠da̠
 처남 t͡ɕʰʌ̹na̠m
 처녀 t͡ɕʰʌ̹ɲjʌ̹
-처녀 오장은 깊어야 좋고 총각 오장은 얕아야 좋다 <EMPTY>
-처녀 장딴지를 보고 씹 봤다 한다 <EMPTY>
-처녀 한창때는 말똥 굴러 가는 것 보고도 웃는다 <EMPTY>
 처녀궁 t͡ɕʰʌ̹ɲjʌ̹ɡuŋ
 처녀림 t͡ɕʰʌ̹ɲjʌ̹ɾim
 처녀막 t͡ɕʰʌ̹ɲjʌ̹ma̠k̚
@@ -54319,7 +53376,6 @@
 척살 t͡ɕʰʌ̹ks͈a̠ɭ
 척살되다 t͡ɕʰʌ̹ks͈a̠ɭdø̞da̠/ ~ /t͡ɕʰʌ̹ks͈a̠ɭdwe̞da̠
 척살하다 t͡ɕʰʌ̹ks͈a̠ɾɦa̠da̠
-척색 <EMPTY>
 척소 t͡ɕʰʌ̹ks͈o̞
 척속 t͡ɕʰʌ̹ks͈o̞k̚
 척수 t͡ɕʰʌ̹ks͈u
@@ -54359,9 +53415,6 @@
 척후병 t͡ɕʰʌ̹kʰubjʌ̹ŋ
 척후전 t͡ɕʰʌ̹kʰud͡ʑʌ̹n
 천 t͡ɕʰʌ̹n
-천 길 물속은 알아도 한 길 사람의 속은 모른다 <EMPTY>
-천 냥 빚도 말로 갚는다 <EMPTY>
-천 리 길도 한 걸음부터 <EMPTY>
 천간 t͡ɕʰʌ̹nɡa̠n
 천갈궁 t͡ɕʰʌ̹nɡa̠ɭɡuŋ
 천개 t͡ɕʰʌ̹nɡɛ̝
@@ -54465,7 +53518,6 @@
 천생 t͡ɕʰʌ̹nsʰɛ̝ŋ
 천생배필 t͡ɕʰʌ̹nsʰɛ̝ŋbɛ̝pʰiɭ
 천생연분 t͡ɕʰʌ̹nsʰɛ̝ŋjʌ̹nbun
-천석꾼은 천 가지 걱정 만석꾼에 만 가지 걱정 <EMPTY>
 천성 t͡ɕʰʌ̹nsʰʌ̹ŋ
 천수 t͡ɕʰʌ̹nsʰu
 천수경 t͡ɕʰʌ̹nsʰuɡjʌ̹ŋ
@@ -54553,7 +53605,6 @@
 천차만별 t͡ɕʰʌ̹nt͡ɕʰa̠ma̠nbjʌ̹ɭ
 천착 t͡ɕʰʌ̹nt͡ɕʰa̠k̚
 천천 t͡ɕʰʌ̹nt͡ɕʰʌ̹n
-천천이 <EMPTY>
 천천히 t͡ɕʰʌ̹nt͡ɕʰʌ̹nʝi
 천체 t͡ɕʰʌ̹nt͡ɕʰe̞
 천체관측 t͡ɕʰʌ̹nt͡ɕʰe̞ɡwa̠nt͡ɕʰɯk̚
@@ -54619,7 +53670,6 @@
 철근 t͡ɕʰʌ̹ɭɡɯn
 철기 t͡ɕʰʌ̹ɭɡi
 철기시대 t͡ɕʰʌ̹ɭɡiɕʰidɛ̝
-철나자 망령 난다 <EMPTY>
 철도 t͡ɕʰʌ̹ɭt͈o̞
 철도교 t͡ɕʰʌ̹ɭdo̞ɡjo
 철도망 t͡ɕʰʌ̹ɭdo̞ma̠ŋ
@@ -54745,14 +53795,11 @@
 첩치가 t͡ɕʰʌ̹p̚t͡ɕʰiɡa̠
 첩화 t͡ɕʰʌ̹pʰwa̠
 첫 t͡ɕʰʌ̹t̚
-첫 딸은 살림 밑천이다 <EMPTY>
 첫걸음마 t͡ɕʰʌ̹t̚k͈ʌ̹ɾɯmma̠
 첫날 t͡ɕʰʌ̹nna̠ɭ
 첫눈 t͡ɕʰʌ̹nnun
 첫마수걸이 t͡ɕʰʌ̹nma̠sʰuɡʌ̹ɾi
-첫모 방정에 새 까먹는다 <EMPTY>
 첫사랑 t͡ɕʰʌ̹t̚s͈a̠ɾa̠ŋ
-첫술에 배부르랴 <EMPTY>
 첫째 t͡ɕʰʌ̹t̚t͡ɕ͈ɛ̝
 첫차기 t͡ɕʰʌ̹t̚t͡ɕʰa̠ɡi
 첫차기표 t͡ɕʰʌ̹t̚t͡ɕʰa̠ɡipʰjo
@@ -54763,7 +53810,6 @@
 청결하다 t͡ɕʰʌ̹ŋɡjʌ̹ɾɦa̠da̠
 청구 t͡ɕʰʌ̹ŋɡu
 청국장 t͡ɕʰʌ̹ŋɡuk̚t͡ɕ͈a̠ŋ
-청국장이 장이냐 거적문이 문이냐 <EMPTY>
 청년 t͡ɕʰʌ̹ŋɲjʌ̹n
 청더구리 t͡ɕʰʌ̹ŋdʌ̹ɡuɾi
 청동색 t͡ɕʰʌ̹ŋdo̞ŋsʰɛ̝k̚
@@ -54963,7 +54009,6 @@
 체환되다 t͡ɕʰe̞βwa̠ndø̞da̠/ ~ /t͡ɕʰe̞βwa̠ndwe̞da̠
 체환하다 t͡ɕʰe̞βwa̠nɦa̠da̠
 체후 t͡ɕʰe̞βu
-쳇불관 쓰고 몽둥이 맞는다 <EMPTY>
 쳉스토호바 t͡ɕʰe̞ŋsʰɯtʰo̞βo̞ba̠
 쳐넘기기 t͡ɕʰjʌ̹nʌ̹mɡiɡi
 쳐넣기 t͡ɕʰjʌ̹nʌ̹kçi
@@ -54989,7 +54034,6 @@
 초급 t͡ɕʰo̞ɡɯp̚
 초기 t͡ɕʰo̞ɡi
 초년 t͡ɕʰo̞ɲjʌ̹n
-초년고생은 사서라도 한다 <EMPTY>
 초년병 t͡ɕʰo̞ɲjʌ̹nbjʌ̹ŋ
 초년생 t͡ɕʰo̞ɲjʌ̹nsʰɛ̝ŋ
 초능력 t͡ɕʰo̞nɯŋɲjʌ̹k̚
@@ -55018,7 +54062,6 @@
 초로인생 t͡ɕʰo̞ɾo̞insʰɛ̝ŋ
 초록 t͡ɕʰo̞ɾo̞k̚
 초록색 t͡ɕʰo̞ɾo̞ks͈ɛ̝k̚
-초록은 동색 <EMPTY>
 초막 t͡ɕʰo̞ma̠k̚
 초만원 t͡ɕʰo̞ma̠nwʌ̹n
 초면 t͡ɕʰo̞mjʌ̹n
@@ -55041,16 +54084,13 @@
 초비상 t͡ɕʰo̞bisʰa̠ŋ
 초빙 t͡ɕʰo̞biŋ
 초빙교수 t͡ɕʰo̞biŋɡjosʰu
-초사흘 달은 잰 며느리가 본다 <EMPTY>
 초산 t͡ɕʰo̞sʰa̠n
 초산균 t͡ɕʰo̞sʰa̠nɡjun
 초산발효 t͡ɕʰo̞sʰa̠nba̠ɾʝjo
 초산부 t͡ɕʰo̞sʰa̠nbu
 초상 t͡ɕʰo̞sʰa̠ŋ
 초상권 t͡ɕʰo̞sʰa̠ŋɡwʌ̹n
-초상집 개 같다 <EMPTY>
 초상화 t͡ɕʰo̞sʰa̠ŋβwa̠
-초생달 <EMPTY>
 초서 t͡ɕʰo̞sʰʌ̹
 초석 t͡ɕʰo̞sʰʌ̹k̚
 초성 t͡ɕʰo̞sʰʌ̹ŋ
@@ -55103,8 +54143,6 @@
 초췌하다 t͡ɕʰo̞t͡ɕʰwe̞ɦa̠da̠
 초칠일 t͡ɕʰo̞t͡ɕʰiɾiɭ
 초침 t͡ɕʰo̞t͡ɕʰim
-초코렛 <EMPTY>
-초코릿 <EMPTY>
 초콜릿 t͡ɕʰo̞kʰo̞ɭʎit̚
 초콜릿색 t͡ɕʰo̞kʰo̞ɭʎit̚s͈ɛ̝k̚
 초탈 t͡ɕʰo̞tʰa̠ɭ
@@ -55112,7 +54150,6 @@
 초특급 t͡ɕʰo̞tʰɯk̚k͈ɯp̚
 초판 t͡ɕʰo̞pʰa̠n
 초판본 t͡ɕʰo̞pʰa̠nbo̞n
-초하로 <EMPTY>
 초하루 t͡ɕʰo̞ɦa̠ɾu
 초학 t͡ɕʰo̞ɦa̠k̚
 초학자 t͡ɕʰo̞ɦa̠k̚t͡ɕ͈a̠
@@ -55154,8 +54191,6 @@
 촌가 t͡ɕʰo̞nɡa̠
 촌각 t͡ɕʰo̞nɡa̠k̚
 촌극 t͡ɕʰo̞nɡɯk̚
-촌년이 늦바람 나면 속곳 밑에 단추 단다 <EMPTY>
-촌놈은 밥그릇 높은 것만 친다 <EMPTY>
 촌락 t͡ɕʰo̞ɭɭa̠k̚
 촌로 t͡ɕʰo̞ɭɭo̞
 촌민 t͡ɕʰo̞nmin
@@ -55642,8 +54677,6 @@
 충정 t͡ɕʰuŋd͡ʑʌ̹ŋ
 충정하다 t͡ɕʰuŋd͡ʑʌ̹ŋɦa̠da̠
 충족하다 t͡ɕʰuŋd͡ʑo̞kʰa̠da̠
-충주 결은 고비 <EMPTY>
-충주 자린고비 <EMPTY>
 충직 t͡ɕʰuŋd͡ʑik̚
 충충 t͡ɕʰuŋt͡ɕʰuŋ
 충충거리다 t͡ɕʰuŋt͡ɕʰuŋɡʌ̹ɾida̠
@@ -55742,7 +54775,6 @@
 치르어지다 t͡ɕʰiɾɯʌ̹d͡ʑida̠
 치름치름 t͡ɕʰiɾɯmt͡ɕʰiɾɯm
 치마 t͡ɕʰima̠
-치마가 열두 폭인가 <EMPTY>
 치마꼬리 t͡ɕʰima̠k͈o̞ɾi
 치마선 t͡ɕʰima̠sʰʌ̹n
 치마저고리 t͡ɕʰima̠d͡ʑʌ̹ɡo̞ɾi
@@ -55795,7 +54827,6 @@
 치욕스럽다 t͡ɕʰijoks͈ɯɾʌ̹p̚t͈a̠
 치우다 t͡ɕʰiuda̠
 치우치다 t͡ɕʰiut͡ɕʰida̠
-偏 <EMPTY>
 치워지다 t͡ɕʰiwʌ̹d͡ʑida̠
 치유 t͡ɕʰiju
 치유되다 t͡ɕʰijudø̞da̠/ ~ /t͡ɕʰijudwe̞da̠
@@ -55838,7 +54869,6 @@
 치탈도첩 t͡ɕʰitʰa̠ɭdo̞t͡ɕʰʌ̹p̚
 치통 t͡ɕʰitʰo̞ŋ
 치하 t͡ɕʰiɦa̠
-치하다 <EMPTY>
 치한 t͡ɕʰiɦa̠n
 치환하다 t͡ɕʰiβwa̠nɦa̠da̠
 칙 t͡ɕʰik̚
@@ -55863,7 +54893,6 @@
 친교 t͡ɕʰinɡjo
 친교하다 t͡ɕʰinɡjoɦa̠da̠
 친구 t͡ɕʰinɡu
-친구 따라 강남 간다 <EMPTY>
 친구지간 t͡ɕʰinɡud͡ʑiɡa̠n
 친근 t͡ɕʰinɡɯn
 친근감 t͡ɕʰinɡɯnɡa̠m
@@ -55886,7 +54915,6 @@
 친선전 t͡ɕʰinsʰʌ̹nd͡ʑʌ̹n
 친손녀 t͡ɕʰinsʰo̞nɲjʌ̹
 친손자 t͡ɕʰinsʰo̞nd͡ʑa̠
-친손자는 걸리고 외손자는 업고 간다 <EMPTY>
 친숙 t͡ɕʰinsʰuk̚
 친숙성 t͡ɕʰinsʰuks͈ʌ̹ŋ
 친숙하다 t͡ɕʰinsʰukʰa̠da̠
@@ -55964,7 +54992,6 @@
 칠십팔 t͡ɕʰiɭɕʰip̚pʰa̠ɭ
 칠야 t͡ɕʰiɾja̠
 칠월 t͡ɕʰiɾwʌ̹ɭ
-칠월 장마는 꾸어서 해도 한다 <EMPTY>
 칠칠 t͡ɕʰiɭt͡ɕʰiɭ
 칠칠맞다 t͡ɕʰiɭt͡ɕʰiɭma̠t̚t͈a̠
 칠칠하다 t͡ɕʰiɭt͡ɕʰiɾɦa̠da̠
@@ -55986,11 +55013,9 @@
 침체 t͡ɕʰimt͡ɕʰe̞
 침침 t͡ɕʰimt͡ɕʰim
 침투 t͡ɕʰimtʰu
-침판지 <EMPTY>
 침팬지 t͡ɕʰimpʰɛ̝nd͡ʑi
 침학 t͡ɕʰimɦa̠k̚
 침해 t͡ɕʰimɦɛ̝
-칩거 <EMPTY>
 칫솔 t͡ɕʰit̚s͈o̞ɭ
 칭 t͡ɕʰiŋ
 칭얼 t͡ɕʰiŋʌ̹ɭ
@@ -56033,10 +55058,8 @@
 카바 kʰa̠ba̠
 카바레 kʰa̠ba̠ɾe̞
 카바이드 kʰa̠ba̠idɯ
-카바이트 <EMPTY>
 카보베르데 kʰa̠bo̞be̞ɾɯde̞
 카본 kʰa̠bo̞n
-카부베르드 <EMPTY>
 카불 kʰa̠buɭ
 카빈총 kʰa̠bint͡ɕʰo̞ŋ
 카세트 kʰa̠sʰe̞tʰɯ
@@ -56060,8 +55083,6 @@
 카탈로그 kʰa̠tʰa̠ɭɭo̞ɡɯ
 카탈루냐어 kʰa̠tʰa̠ɭɭuɲja̠ʌ̹
 카테고리 kʰa̠tʰe̞ɡo̞ɾi
-분류:언어별 사용자 <EMPTY>
-카톨릭 <EMPTY>
 카투사 kʰa̠tʰusʰa̠
 카트리지 kʰa̠tʰɯɾid͡ʑi
 카파 kʰa̠pʰa̠
@@ -56074,7 +55095,6 @@
 칸나 kʰa̠nna̠
 칸막이 kʰa̠nma̠ɡi
 칸수 kʰa̠nsʰu
-칸츄리 <EMPTY>
 칸칸 kʰa̠nkʰa̠n
 칸타타 kʰa̠ntʰa̠tʰa̠
 칼 kʰa̠ɭ
@@ -56088,7 +55108,6 @@
 칼라 kʰa̠ɭɭa̠
 칼럼 kʰa̠ɭɭʌ̹m
 칼럼니스트 kʰa̠ɭɭʌ̹mnisʰɯtʰɯ
-칼로 물 베기 <EMPTY>
 칼로리 kʰa̠ɭɭo̞ɾi
 칼륨 kʰa̠ɭʎjum
 칼륨염 kʰa̠ɭʎjumjʌ̹m
@@ -56163,7 +55182,6 @@
 커피색 kʰʌ̹pʰisʰɛ̝k̚
 컨디션 kʰʌ̹ndiɕʰjʌ̹n
 컨베이어 kʰʌ̹nbe̞iʌ̹
-컨츄리 <EMPTY>
 컬러 kʰʌ̹ɭɭʌ̹
 컴싸 kʰʌ̹ms͈a̠
 컴컴 kʰʌ̹mkʰʌ̹m
@@ -56188,7 +55206,6 @@
 켜지다 kçjʌ̹d͡ʑida̠
 켤레 kçjʌ̹ɭɭe̞
 코 kʰo̞
-코 묻은 떡이라도 뺏어 먹겠다 <EMPTY>
 코같다 kʰo̞ɡa̠t̚t͈a̠
 코구멍 kʰo̞ɡumʌ̹ŋ
 코끝 kʰo̞k͈ɯt̚
@@ -56209,7 +55226,6 @@
 코리코리하다 kʰo̞ɾikʰo̞ɾiɦa̠da̠
 코리타분 kʰo̞ɾitʰa̠bun
 코리타분하다 kʰo̞ɾitʰa̠bunɦa̠da̠
-코리탑탑하다 <EMPTY>
 코린내 kʰo̞ɾinnɛ̝
 코릿코릿 kʰo̞ɾit̚kʰo̞ɾit̚
 코릿코릿하다 kʰo̞ɾit̚kʰo̞ɾitʰa̠da̠
@@ -56318,9 +55334,6 @@
 콧잔등 kʰo̞t̚t͡ɕ͈a̠ndɯŋ
 콧잔등이 kʰo̞t̚t͡ɕ͈a̠ndɯŋi
 콩 kʰo̞ŋ
-콩 볶아 먹다가 가마솥 깨뜨린다 <EMPTY>
-콩 심어라 팥 심어라 한다 <EMPTY>
-콩 심은 데 콩 나고 팥 심은 데 팥 난다 <EMPTY>
 콩가루 kʰo̞ŋɡa̠ɾu
 콩고 kʰo̞ŋɡo̞
 콩고공화국 kʰo̞ŋɡo̞ɡo̞ŋβwa̠ɡuk̚
@@ -56360,7 +55373,6 @@
 콩새 kʰo̞ŋsʰɛ̝
 콩알 kʰo̞ŋa̠ɭ
 콩우유 kʰo̞ŋuju
-콩으로 메주를 쑨다 하여도 곧이듣지 않는다 <EMPTY>
 콩잎 kʰo̞ŋip̚
 콩자반 kʰo̞ŋd͡ʑa̠ba̠n
 콩작 kʰo̞ŋd͡ʑa̠k̚
@@ -56390,7 +55402,6 @@
 콩콩이다 kʰo̞ŋkʰo̞ŋida̠
 콩콩하다 kʰo̞ŋkʰo̞ŋɦa̠da̠
 콩쿠르 kʰo̞ŋkʰuɾɯ
-콩크리트 <EMPTY>
 콩트 kʰo̞ŋtʰɯ
 콩팥 kʰo̞ŋpʰa̠t̚
 콩팥결핵 kʰo̞ŋpʰa̠t̚k͈jʌ̹ɾɦɛ̝k̚
@@ -56451,7 +55462,6 @@
 쾨뻰하븐 kʰø̞p͈e̞nɦa̠bɯn/ ~ /kʰwe̞p͈e̞nɦa̠bɯn
 쾨쾨 kʰø̞kʰø̞/ ~ /kʰwe̞kʰwe̞
 쾰른 kʰø̞ɭɭɯn/ ~ /kʰwe̞ɭɭɯn
-쿄토 <EMPTY>
 쿠데타 kʰude̞tʰa̠
 쿠렁쿠렁 kʰuɾʌ̹ŋkʰuɾʌ̹ŋ
 쿠렁쿠렁하다 kʰuɾʌ̹ŋkʰuɾʌ̹ŋɦa̠da̠
@@ -56678,7 +55688,6 @@
 킁킁 kxɯŋkxɯŋ
 킁킁거리다 kxɯŋkxɯŋɡʌ̹ɾida̠
 키 kçi
-키 크고 싱겁지 않은 사람 없다 <EMPTY>
 키다리 kçida̠ɾi
 키득 kçidɯk̚
 키득거리다 kçidɯk̚k͈ʌ̹ɾida̠
@@ -56737,7 +55746,6 @@
 타글타글 tʰa̠ɡɯɭtʰa̠ɡɯɭ
 타글타글하다 tʰa̠ɡɯɭtʰa̠ɡɯɾɦa̠da̠
 타나토스 tʰa̠na̠tʰo̞sʰɯ
-타네에 <EMPTY>
 타다 tʰa̠da̠
 타다닥 tʰa̠da̠da̠k̚
 타다닥거리다 tʰa̠da̠da̠k̚k͈ʌ̹ɾida̠
@@ -56831,7 +55839,6 @@
 타이베이 tʰa̠ibe̞i
 타이어 tʰa̠iʌ̹
 타이완 tʰa̠iwa̠n
-타이페이 <EMPTY>
 타인 tʰa̠in
 타일 tʰa̠iɭ
 타입 tʰa̠ip̚
@@ -56847,7 +55854,6 @@
 타팔대다 tʰa̠pʰa̠ɭdɛ̝da̠
 타팔타팔 tʰa̠pʰa̠ɭtʰa̠pʰa̠ɭ
 타팔타팔하다 tʰa̠pʰa̠ɭtʰa̠pʰa̠ɾɦa̠da̠
-타향 <EMPTY>
 타협 tʰa̠ʝjʌ̹p̚
 타협안 tʰa̠ʝjʌ̹ba̠n
 타협적 tʰa̠ʝjʌ̹p̚t͡ɕ͈ʌ̹k̚
@@ -56982,7 +55988,6 @@
 탈강탈강하다 tʰa̠ɭɡa̠ŋtʰa̠ɭɡa̠ŋɦa̠da̠
 탈강하다 tʰa̠ɭɡa̠ŋɦa̠da̠
 탈격 tʰa̠ɭɡjʌ̹k̚
-탈구 <EMPTY>
 탈락 tʰa̠ɭɭa̠k̚
 탈락거리다 tʰa̠ɭɭa̠k̚k͈ʌ̹ɾida̠
 탈락대다 tʰa̠ɭɭa̠k̚t͈ɛ̝da̠
@@ -57083,7 +56088,6 @@
 탈파닥하다 tʰa̠ɭpʰa̠da̠kʰa̠da̠
 탐 tʰa̠m
 탐관오리 tʰa̠mɡwa̠no̞ɾi
-탐관의 밑은 안반 같고 염관의 밑은 송곳 같다 <EMPTY>
 탐바당 tʰa̠mba̠da̠ŋ
 탐바당거리다 tʰa̠mba̠da̠ŋɡʌ̹ɾida̠
 탐바당대다 tʰa̠mba̠da̠ŋdɛ̝da̠
@@ -57118,7 +56122,6 @@
 탓 tʰa̠t̚
 탕목읍 tʰa̠ŋmo̞ɡɯp̚
 탕수육 tʰa̠ŋsʰujuk̚
-탕약에 감초가 빠질까 <EMPTY>
 탕탕 tʰa̠ŋtʰa̠ŋ
 탕탕거리다 tʰa̠ŋtʰa̠ŋɡʌ̹ɾida̠
 탕탕대다 tʰa̠ŋtʰa̠ŋdɛ̝da̠
@@ -57305,7 +56308,6 @@
 터울대다 tʰʌ̹uɭdɛ̝da̠
 터울터울 tʰʌ̹uɭtʰʌ̹uɭ
 터울터울하다 tʰʌ̹uɭtʰʌ̹uɾɦa̠da̠
-터주에 놓고 조왕에 놓고 나면 아무것도 없다 <EMPTY>
 터지다 tʰʌ̹d͡ʑida̠
 터치스크린 tʰʌ̹t͡ɕʰisʰɯkxɯɾin
 터키 tʰʌ̹kçi
@@ -57333,7 +56335,6 @@
 털버덩 tʰʌ̹ɭbʌ̹dʌ̹ŋ
 털실천 tʰʌ̹ɭɕʰiɭt͡ɕʰʌ̹n
 털썩 tʰʌ̹ɭs͈ʌ̹k̚
-털어서 먼지 안 나는 사람 없다 <EMPTY>
 털털 tʰʌ̹ɭtʰʌ̹ɭ
 털퍼덕 tʰʌ̹ɭpʰʌ̹dʌ̹k̚
 텁석 tʰʌ̹ps͈ʌ̹k̚
@@ -57385,7 +56386,6 @@
 토기점 tʰo̞ɡid͡ʑʌ̹m
 토깽이 tʰo̞k͈ɛ̝ŋi
 토끼 tʰo̞k͈i
-토끼가 제 방귀에 놀란다 <EMPTY>
 토끼풀 tʰo̞k͈ipʰuɭ
 토닥 tʰo̞da̠k̚
 토닥거리다 tʰo̞da̠k̚k͈ʌ̹ɾida̠
@@ -57425,7 +56425,6 @@
 토론회 tʰo̞ɾo̞nɦø̞/ ~ /tʰo̞ɾo̞nβwe̞
 토롱 tʰo̞ɾo̞ŋ
 토룡 tʰo̞ɾjoŋ
-토루아 <EMPTY>
 토류 tʰo̞ɾju
 토류금속 tʰo̞ɾjuɡɯmsʰo̞k̚
 토륨 tʰo̞ɾjum
@@ -57528,7 +56527,6 @@
 토착화 tʰo̞t͡ɕʰa̠kʰwa̠
 토착화되다 tʰo̞t͡ɕʰa̠kʰwa̠dø̞da̠/ ~ /tʰo̞t͡ɕʰa̠kʰwa̠dwe̞da̠
 토착화하다 tʰo̞t͡ɕʰa̠kʰwa̠ɦa̠da̠
-토쿄 <EMPTY>
 토탄 tʰo̞tʰa̠n
 토판장 tʰo̞pʰa̠nd͡ʑa̠ŋ
 토포사 tʰo̞pʰo̞sʰa̠
@@ -58036,7 +57034,6 @@
 틀어잡다 tʰɯɾʌ̹d͡ʑa̠p̚t͈a̠
 틀어쥐다 tʰɯɾʌ̹d͡ʑɥida̠/ ~ /tʰɯɾʌ̹d͡ʑyda̠
 틀어지다 tʰɯɾʌ̹d͡ʑida̠
-틀이다 <EMPTY>
 틈 tʰɯm
 틈나다 tʰɯmna̠da̠
 틈바구니 tʰɯmba̠ɡuni
@@ -58046,7 +57043,6 @@
 틈틈이 tʰɯmtʰɯmi
 틔우다 tʰiuda̠
 티 tʰi
-티끌 모아 태산 <EMPTY>
 티라노사우루스 tʰiɾa̠no̞sʰa̠uɾusʰɯ
 티미하다 tʰimiɦa̠da̠
 티베트어 tʰibe̞tʰɯʌ̹
@@ -58305,7 +57301,6 @@
 파편화되다 pʰa̠pʰjʌ̹nβwa̠dø̞da̠/ ~ /pʰa̠pʰjʌ̹nβwa̠dwe̞da̠
 파푸아뉴기네아 pʰa̠pʰua̠ɲjuɡine̞a̠
 파푸아뉴기니 pʰa̠pʰua̠ɲjuɡini
-파푸아뉴기니아 <EMPTY>
 파피루스 pʰa̠pʰiɾusʰɯ
 파하다 pʰa̠ɦa̠da̠
 파행 pʰa̠ɦɛ̝ŋ
@@ -58515,7 +57510,6 @@
 팔구월 pʰa̠ɭɡuwʌ̹ɭ
 팔굽대기 pʰa̠ɭɡup̚t͈ɛ̝ɡi
 팔꿈치 pʰa̠ɭk͈umt͡ɕʰi
-팔난봉에 뫼 썼다 <EMPTY>
 팔다 pʰa̠ɭda̠
 팔대가 pʰa̠ɭdɛ̝ɡa̠
 팔대행성 pʰa̠ɭdɛ̝ɦɛ̝ŋsʰʌ̹ŋ
@@ -58595,9 +57589,7 @@
 팔싹하다 pʰa̠ɭs͈a̠kʰa̠da̠
 팔월 pʰa̠ɾwʌ̹ɭ
 팔월대보름 pʰa̠ɾwʌ̹ɭdɛ̝bo̞ɾɯm
-팔이 들이굽지 내굽나 <EMPTY>
 팔자 pʰa̠ɭd͡ʑa̠
-팔자가 사나우니까 의붓아들이 삼 년 맏이라 <EMPTY>
 팔자소관 pʰa̠ɭd͡ʑa̠sʰo̞ɡwa̠n
 팔자타령 pʰa̠ɭd͡ʑa̠tʰa̠ɾjʌ̹ŋ
 팔절 pʰa̠ɭd͡ʑʌ̹ɭ
@@ -58621,7 +57613,6 @@
 팔프 pʰa̠ɭpʰɯ
 팔학사 pʰa̠ɾɦa̠ks͈a̠
 팔행시 pʰa̠ɾɦɛ̝ŋɕʰi
-팜플렛 <EMPTY>
 팝송 pʰa̠ps͈o̞ŋ
 팡 pʰa̠ŋ
 팡당 pʰa̠ŋda̠ŋ
@@ -58858,7 +57849,6 @@
 페미니즘 pʰe̞minid͡ʑɯm
 페샤와르 pʰe̞ɕʰja̠wa̠ɾɯ
 페쇄 pʰe̞sʰwɛ̝
-페스티발 <EMPTY>
 페이지 pʰe̞id͡ʑi
 페인트 pʰe̞intʰɯ
 페지 pʰe̞d͡ʑi
@@ -59114,7 +58104,6 @@
 평심 pʰjʌ̹ŋɕʰim
 평심서기 pʰjʌ̹ŋɕʰimsʰʌ̹ɡi
 평안 pʰjʌ̹ŋa̠n
-평안 감사도 저 싫으면 그만이다 <EMPTY>
 평안계 pʰjʌ̹ŋa̠nɡje̞/ ~ /pʰjʌ̹ŋa̠nɡe̞
 평안하다 pʰjʌ̹ŋa̠nɦa̠da̠
 평안히 pʰjʌ̹ŋa̠nʝi
@@ -59285,7 +58274,6 @@
 폐쇄되다 pʰje̞sʰwɛ̝dø̞da̠/ ~ /pʰe̞sʰwɛ̝dwe̞da̠
 폐쇄음 pʰje̞sʰwɛ̝ɯm/ ~ /pʰe̞sʰwɛ̝ɯm
 폐쇄하다 pʰje̞sʰwɛ̝ɦa̠da̠/ ~ /pʰe̞sʰwɛ̝ɦa̠da̠
-폐쇠 <EMPTY>
 폐수 pʰje̞sʰu/ ~ /pʰe̞sʰu
 폐수관 pʰje̞sʰuɡwa̠n/ ~ /pʰe̞sʰuɡwa̠n
 폐수종 pʰje̞sʰud͡ʑo̞ŋ/ ~ /pʰe̞sʰud͡ʑo̞ŋ
@@ -59296,7 +58284,6 @@
 폐업 pʰje̞ʌ̹p̚/ ~ /pʰe̞ʌ̹p̚
 폐업하다 pʰje̞ʌ̹pʰa̠da̠/ ~ /pʰe̞ʌ̹pʰa̠da̠
 폐열회수보일러 pʰje̞jʌ̹ɾɦø̞sʰubo̞iɭɭʌ̹/ ~ /pʰe̞jʌ̹ɾβwe̞sʰubo̞iɭɭʌ̹
-폐염 <EMPTY>
 폐엽 pʰje̞jʌ̹p̚/ ~ /pʰe̞jʌ̹p̚
 폐옥 pʰje̞o̞k̚/ ~ /pʰe̞o̞k̚
 폐위 pʰje̞ɥi/ ~ /pʰe̞ɥi/ ~ /pʰje̞y/ ~ /pʰe̞y
@@ -59394,10 +58381,8 @@
 포도주색 pʰo̞do̞d͡ʑusʰɛ̝k̚
 포도즙 pʰo̞do̞d͡ʑɯp̚
 포도청 pʰo̞do̞t͡ɕʰʌ̹ŋ
-포도청의 문고리 빼겠다 <EMPTY>
 포동포동 pʰo̞do̞ŋpʰo̞do̞ŋ
 포동포동하다 pʰo̞do̞ŋpʰo̞do̞ŋɦa̠da̠
-포두 <EMPTY>
 포드닥 pʰo̞dɯda̠k̚
 포드닥거리다 pʰo̞dɯda̠k̚k͈ʌ̹ɾida̠
 포드닥대다 pʰo̞dɯda̠k̚t͈ɛ̝da̠
@@ -59469,7 +58454,6 @@
 포르테 pʰo̞ɾɯtʰe̞
 포르투갈 pʰo̞ɾɯtʰuɡa̠ɭ
 포르투갈어 pʰo̞ɾɯtʰuɡa̠ɾʌ̹
-포르투칼 <EMPTY>
 포르티시모 pʰo̞ɾɯtʰiɕʰimo̞
 포륵 pʰo̞ɾɯk̚
 포륵거리다 pʰo̞ɾɯk̚k͈ʌ̹ɾida̠
@@ -59596,13 +58580,11 @@
 포함하다 pʰo̞ɦa̠mɦa̠da̠
 포항 pʰo̞ɦa̠ŋ
 포화 pʰo̞βwa̠
-포화 증기압 <EMPTY>
 포화상태 pʰo̞βwa̠sʰa̠ŋtʰɛ̝
 포화압력 pʰo̞βwa̠a̠mɲjʌ̹k̚
 포화용액 pʰo̞βwa̠joŋɛ̝k̚
 포화인구 pʰo̞βwa̠inɡu
 포화증기 pʰo̞βwa̠d͡ʑɯŋɡi
-포화 증기압 <EMPTY>
 포환 pʰo̞βwa̠n
 포획 pʰo̞ɦø̞k̚/ ~ /pʰo̞βwe̞k̚
 포획하다 pʰo̞ɦø̞kʰa̠da̠/ ~ /pʰo̞βwe̞kʰa̠da̠
@@ -59799,8 +58781,6 @@
 푸떡푸떡 pʰut͈ʌ̹k̚pʰut͈ʌ̹k̚
 푸떡푸떡하다 pʰut͈ʌ̹k̚pʰut͈ʌ̹kʰa̠da̠
 푸떡하다 pʰut͈ʌ̹kʰa̠da̠
-푸뜩 <EMPTY>
-푸뜩푸뜩 <EMPTY>
 푸르께 pʰuɾɯk͈e̞
 푸르다 pʰuɾɯda̠
 푸르데데 pʰuɾɯde̞de̞
@@ -59940,7 +58920,6 @@
 풀풀대다 pʰuɭpʰuɭdɛ̝da̠
 풀풀하다 pʰuɭpʰuɾɦa̠da̠
 품 pʰum
-품 안의 자식 <EMPTY>
 품계 pʰumɡje̞/ ~ /pʰumɡe̞
 품다 pʰumda̠
 품목 pʰummo̞k̚
@@ -60006,7 +58985,6 @@
 프랑 pʰɯɾa̠ŋ
 프랑슘 pʰɯɾa̠ŋɕʰjum
 프랑스 pʰɯɾa̠ŋsʰɯ
-프랑스령 기아나 <EMPTY>
 프랑스어 pʰɯɾa̠ŋsʰɯʌ̹
 프랑스인 pʰɯɾa̠ŋsʰɯin
 프랑크족 pʰɯɾa̠ŋkxɯd͡ʑo̞k̚
@@ -60022,7 +59000,6 @@
 프로페셔널 pʰɯɾo̞pʰe̞ɕʰjʌ̹nʌ̹ɭ
 프리라이더 pʰɯɾiɾa̠idʌ̹
 프리랜서 pʰɯɾiɾɛ̝nsʰʌ̹
-프리킥 <EMPTY>
 프사이그 pʰɯsʰa̠iɡɯ
 프시 pʰɯɕʰi
 플라세보 pʰɯɭɭa̠sʰe̞bo̞
@@ -60153,8 +59130,6 @@
 피차 pʰit͡ɕʰa̠
 피차간 pʰit͡ɕʰa̠ɡa̠n
 피차일반 pʰit͡ɕʰa̠iɭba̠n
-피천 한 닢 없다 <EMPTY>
-피쿠 <EMPTY>
 피트 pʰitʰɯ
 피폐 pʰipʰje̞/ ~ /pʰipʰe̞
 피하 pʰiɦa̠
@@ -60192,7 +59167,6 @@
 필독 pʰiɭdo̞k̚
 필드하키 pʰiɭdɯɦa̠kçi
 필라프 pʰiɭɭa̠pʰɯ
-필란드 <EMPTY>
 필력 pʰiɭʎjʌ̹k̚
 필름 pʰiɭɭɯm
 필리핀 pʰiɭʎipʰin
@@ -60250,11 +59224,9 @@
 핍박 pʰip̚p͈a̠k̚
 핏줄 pʰit̚t͡ɕ͈uɭ
 핑계 pʰiŋɡje̞/ ~ /pʰiŋɡe̞
-핑계 없는 무덤이 없다 <EMPTY>
 핑퐁 pʰiŋpʰo̞ŋ
 핑핑 pʰiŋpʰiŋ
 하 ha̠
-하ᄫᅡᆯ리 <EMPTY>
 하가라 ˈha̠ːɡa̠ɾa̠
 하가라국 ˈha̠ːɡa̠ɾa̠ɡuk̚
 하강 ha̠ɡa̠ŋ
@@ -60290,7 +59262,6 @@
 하나같이 ha̠na̠ɡa̠t͡ɕʰi
 하나님 ha̠na̠nim
 하나둘 ha̠na̠duɭ
-하나를 듣고 열을 안다 <EMPTY>
 하나주의 ha̠na̠d͡ʑuɰi
 하나하나 ha̠na̠ɦa̠na̠
 하녀 ha̠ɲjʌ̹
@@ -60309,10 +59280,6 @@
 하늑하늑 ha̠nɯkʰa̠nɯk̚
 하늑하늑하다 ha̠nɯkʰa̠nɯkʰa̠da̠
 하늘 ha̠nɯɭ
-하늘 높은 줄만 알고 땅 넓은 줄은 모른다 <EMPTY>
-하늘 높은 줄은 모르고 땅 넓은 줄만 안다 <EMPTY>
-하늘 보고 주먹질한다 <EMPTY>
-하늘 천 하면 검을 현 한다 <EMPTY>
 하늘가 ha̠nɯɭɡa̠
 하늘거리다 ha̠nɯɭɡʌ̹ɾida̠
 하늘나라 ha̠nɯɭɭa̠ɾa̠
@@ -60320,10 +59287,6 @@
 하늘대다 ha̠nɯɭdɛ̝da̠
 하늘빛 ha̠nɯɭbit̚
 하늘색 ha̠nɯɭsʰɛ̝k̚
-하늘은 스스로 돕는 자를 돕는다 <EMPTY>
-하늘을 보아야 별도 따지 <EMPTY>
-하늘의 별 따기 <EMPTY>
-하늘이 무너져도 솟아날 구멍이 있다 <EMPTY>
 하늘짝 ha̠nɯɭt͡ɕ͈a̠k̚
 하늘짝거리다 ha̠nɯɭt͡ɕ͈a̠k̚k͈ʌ̹ɾida̠
 하늘짝대다 ha̠nɯɭt͡ɕ͈a̠k̚t͈ɛ̝da̠
@@ -60342,7 +59305,6 @@
 하달식 ha̠da̠ɭɕʰik̚
 하달하다 ha̠da̠ɾɦa̠da̠
 하대 ha̠dɛ̝
-하던 지랄도 멍석 펴 놓으면 안 한다 <EMPTY>
 하데스 ha̠de̞sʰɯ
 하도 ha̠do̞
 하도급 ha̠do̞ɡɯp̚
@@ -60371,7 +59333,6 @@
 하들하들하다 ha̠dɯɾɦa̠dɯɾɦa̠da̠
 하들하들히 ha̠dɯɾɦa̠dɯɾʝi
 하등 ha̠dɯŋ
-하떼 <EMPTY>
 하락 ha̠ɾa̠k̚
 하락기 ha̠ɾa̠k̚k͈i
 하락되다 ha̠ɾa̠k̚t͈ø̞da̠/ ~ /ha̠ɾa̠k̚t͈we̞da̠
@@ -60398,10 +59359,8 @@
 하루하루 ha̠ɾuɦa̠ɾu
 하루해 ha̠ɾuɦɛ̝
 하룻강아지 ha̠ɾut̚k͈a̠ŋa̠d͡ʑi
-하룻강아지 범 무서운 줄 모른다 <EMPTY>
 하룻길 ha̠ɾut̚k͈iɭ
 하룻밤 ha̠ɾut̚p͈a̠m/ ~ /ha̠ɾup͈a̠m
-하룻밤을 자도 만리성을 쌓는다 <EMPTY>
 하룻볕 ha̠ɾut̚p͈jʌ̹t̚
 하류 ha̠ɾju
 하르르 ha̠ɾɯɾɯ
@@ -60510,7 +59469,6 @@
 하십시오체 ha̠ɕʰipɕ͈io̞t͡ɕʰe̞
 하싼 ha̠s͈a̠n
 하야 ha̠ja̠
-하야로비 <EMPTY>
 하야말갛다 ha̠ja̠ma̠ɭɡa̠tʰa̠
 하야말끔 ha̠ja̠ma̠ɭk͈ɯm
 하야말끔하다 ha̠ja̠ma̠ɭk͈ɯmɦa̠da̠
@@ -60569,7 +59527,6 @@
 하중 ha̠d͡ʑuŋ
 하중도 ha̠d͡ʑuŋdo̞
 하지 ha̠d͡ʑi
-하지 지낸 뜸부기 <EMPTY>
 하지만 ha̠d͡ʑima̠n
 하직 ha̠d͡ʑik̚
 하직하다 ha̠d͡ʑikʰa̠da̠
@@ -60723,9 +59680,6 @@
 학회지 ha̠kʰø̞d͡ʑi/ ~ /ha̠kʰwe̞d͡ʑi
 학훈단 ha̠kʰunda̠n
 한 ha̠n
-한 귀로 듣고 한 귀로 흘린다 <EMPTY>
-한 어미 자식도 아롱이다롱이 <EMPTY>
-한 입 건너 두 입 <EMPTY>
 한가 ha̠nɡa̠
 한가득 ha̠nɡa̠dɯk̚
 한가로이 ha̠nɡa̠ɾo̞i
@@ -60738,7 +59692,6 @@
 한가하다 ha̠nɡa̠ɦa̠da̠
 한갓 ha̠nɡa̠t̚
 한갓지다 ha̠nɡa̠t̚t͡ɕ͈ida̠
-한강에 배 지나간 자리 있나 <EMPTY>
 한거 ha̠nɡʌ̹
 한걸음 ha̠nɡʌ̹ɾɯm
 한겨레 ha̠nɡjʌ̹ɾe̞
@@ -60764,9 +59717,7 @@
 한국방송공사 ha̠nɡuk̚p͈a̠ŋsʰo̞ŋɡo̞ŋsʰa̠
 한국어 ˈha̠ːnɡuɡʌ̹
 한국어 위키낱말사전 ha̠nɡuɡʌ̹ ɥikçina̠nma̠ɭsʰa̠d͡ʑʌ̹n/ ~ /ha̠nɡuɡʌ̹ ykçina̠nma̠ɭsʰa̠d͡ʑʌ̹n
-한국어 위키뉴스 <EMPTY>
 한국어 위키백과 ha̠nɡuɡʌ̹ ɥikçibɛ̝k̚k͈wa̠/ ~ /ha̠nɡuɡʌ̹ ykçibɛ̝k̚k͈wa̠
-한국어 형용사 <EMPTY>
 한국어족 ha̠nɡuɡʌ̹d͡ʑo̞k̚
 한국얼룩날개모기 ha̠nɡuɡʌ̹ɭɭuŋna̠ɭɡɛ̝mo̞ɡi
 한국인 ha̠nɡuɡin
@@ -60790,7 +59741,6 @@
 한나산 ha̠nna̠sʰa̠n
 한나절 ha̠nna̠d͡ʑʌ̹ɭ
 한날한시 ha̠nna̠ɾɦa̠nɕʰi
-한날한시에 난 손가락도 길고 짧다 <EMPTY>
 한낮 ha̠nna̠t̚
 한낱 ha̠nna̠t̚
 한눈 ha̠nnun
@@ -60872,7 +59822,6 @@
 한방차 ha̠nba̠ŋt͡ɕʰa̠
 한배 ha̠nbɛ̝
 한번 ha̠nbʌ̹n
-한번 엎지른 물은 다시 주워 담지 못한다 <EMPTY>
 한번깃꼴겹잎 ha̠nbʌ̹nɡit̚k͈o̞ɭɡjʌ̹bip̚
 한번깃모양겹잎 ha̠nbʌ̹nɡinmo̞ja̠ŋɡjʌ̹bip̚
 한복 ha̠nbo̞k̚
@@ -60902,7 +59851,6 @@
 한시바삐 ha̠nɕʰiba̠p͈i
 한식 ha̠nɕʰik̚
 한식구 ha̠nɕʰik̚k͈u
-한식에 죽으나 청명에 죽으나 <EMPTY>
 한식집 ha̠nɕʰik̚t͡ɕ͈ip̚
 한심 ha̠nɕʰim
 한심스러워하다 ha̠nɕʰimsʰɯɾʌ̹wʌ̹ɦa̠da̠
@@ -61126,7 +60074,6 @@
 함께 ha̠mk͈e̞
 함께살이 ha̠mk͈e̞sʰa̠ɾi
 함께하다 ha̠mk͈e̞ɦa̠da̠
-함박 시키면 바가지 시키고 바가지 시키면 쪽박 시킨다 <EMPTY>
 함부로 ha̠mbuɾo̞
 함부르크 ha̠mbuɾɯkxɯ
 함수 ha̠msʰu
@@ -61200,7 +60147,6 @@
 해괴하다 hɛ̝ɡø̞ɦa̠da̠/ ~ /hɛ̝ɡwe̞ɦa̠da̠
 해군 hɛ̝ɡun
 해금 hɛ̝ɡɯm
-해꼬지 <EMPTY>
 해끄무레 hɛ̝k͈ɯmuɾe̞
 해끔 hɛ̝k͈ɯm
 해내다 hɛ̝nɛ̝da̠
@@ -61286,7 +60232,6 @@
 해커 hɛ̝kʰʌ̹
 해코지 hɛ̝kʰo̞d͡ʑi
 해코지하다 hɛ̝kʰo̞d͡ʑiɦa̠da̠
-해쿠지 <EMPTY>
 해토머리 hɛ̝tʰo̞mʌ̹ɾi
 해트트릭 hɛ̝tʰɯtʰɯɾik̚
 해파리 hɛ̝pʰa̠ɾi
@@ -61347,7 +60292,6 @@
 행동 hɛ̝ŋdo̞ŋ
 행동하다 hɛ̝ŋdo̞ŋɦa̠da̠
 행랑 hɛ̝ŋna̠ŋ
-행랑 빌리면 안방까지 든다 <EMPTY>
 행복 hɛ̝ŋbo̞k̚
 행복스럽다 hɛ̝ŋbo̞ks͈ɯɾʌ̹p̚t͈a̠
 행복하다 hɛ̝ŋbo̞kʰa̠da̠
@@ -61497,7 +60441,6 @@
 허약 hʌ̹ja̠k̚
 허약자 hʌ̹ja̠k̚t͡ɕ͈a̠
 허약하다 hʌ̹ja̠kʰa̠da̠
-허얘지다 <EMPTY>
 허언 hʌ̹ʌ̹n
 허여멀겋다 hʌ̹jʌ̹mʌ̹ɭɡʌ̹tʰa̠
 허여멀끔 hʌ̹jʌ̹mʌ̹ɭk͈ɯm
@@ -61608,7 +60551,6 @@
 허틀허틀하다 hʌ̹tʰɯɾɦʌ̹tʰɯɾɦa̠da̠
 허파 hʌ̹pʰa̠
 허파꽈리 hʌ̹pʰa̠k͈wa̠ɾi
-허파에 쉬슨 놈 <EMPTY>
 허풍 hʌ̹pʰuŋ
 허풍선 hʌ̹pʰuŋsʰʌ̹n
 허허 hʌ̹ɦʌ̹
@@ -61883,7 +60825,6 @@
 협력하다 çjʌ̹mɲjʌ̹kʰa̠da̠
 협박 çjʌ̹p̚p͈a̠k̚
 협박하다 çjʌ̹p̚p͈a̠kʰa̠da̠
-협상하다 <EMPTY>
 협심증 çjʌ̹pɕ͈imd͡ʑɯŋ
 협의 çjʌ̹bɰi
 협의하다 çjʌ̹bɰiɦa̠da̠
@@ -61896,7 +60837,6 @@
 형 çjʌ̹ŋ
 형님 çjʌ̹ŋnim
 형덕 çjʌ̹ŋdʌ̹k̚
-형만 한 아우 없다 <EMPTY>
 형명법술 çjʌ̹ŋmjʌ̹ŋbʌ̹ps͈uɭ
 형부 çjʌ̹ŋbu
 형사 çjʌ̹ŋsʰa̠
@@ -61989,8 +60929,6 @@
 호락호락 ɸʷo̞ɾa̠kʰo̞ɾa̠k̚
 호락호락하다 ɸʷo̞ɾa̠kʰo̞ɾa̠kʰa̠da̠
 호랑이 ɸʷo̞ɾa̠ŋi
-호랑이 없는 골에 토끼가 왕 노릇 한다 <EMPTY>
-호랑이에게 물려 가도 정신만 차리면 산다 <EMPTY>
 호래아들 ɸʷo̞ɾɛ̝a̠dɯɭ
 호로로 ɸʷo̞ɾo̞ɾo̞
 호로로하다 ɸʷo̞ɾo̞ɾo̞ɦa̠da̠
@@ -62000,7 +60938,6 @@
 호로록하다 ɸʷo̞ɾo̞ɾo̞kʰa̠da̠
 호로록호로록 ɸʷo̞ɾo̞ɾo̞kʰo̞ɾo̞ɾo̞k̚
 호로록호로록하다 ɸʷo̞ɾo̞ɾo̞kʰo̞ɾo̞ɾo̞kʰa̠da̠
-호로자식 <EMPTY>
 호록 ɸʷo̞ɾo̞k̚
 호록거리다 ɸʷo̞ɾo̞k̚k͈ʌ̹ɾida̠
 호록대다 ɸʷo̞ɾo̞k̚t͈ɛ̝da̠
@@ -62044,12 +60981,9 @@
 호물대다 ɸʷo̞muɭdɛ̝da̠
 호물호물 ɸʷo̞muɾβo̞muɭ
 호물호물하다 ɸʷo̞muɾβo̞muɾɦa̠da̠
-호미로 막을 것을 가래로 막는다 <EMPTY>
 호박 ɸʷo̞ba̠k̚
 호박고구마 ɸʷo̞ba̠k̚k͈o̞ɡuma̠
 호박색 ɸʷo̞ba̠ks͈ɛ̝k̚
-호박씨 까서 한입에 털어 넣는다 <EMPTY>
-호박이 넝쿨째로 굴러떨어졌다 <EMPTY>
 호비다 ɸʷo̞bida̠
 호비작 ɸʷo̞bid͡ʑa̠k̚
 호비작거리다 ɸʷo̞bid͡ʑa̠k̚k͈ʌ̹ɾida̠
@@ -62120,7 +61054,6 @@
 호흡 ɸʷo̞ɣɯp̚
 호흡하다 ɸʷo̞ɣɯpʰa̠da̠
 혹 ɸʷo̞k̚
-혹 떼러 갔다가 혹 붙여 온다 <EMPTY>
 혹가이도 ɸʷo̞k̚k͈a̠ido̞
 혹독 ɸʷo̞k̚t͈o̞k̚
 혹성 ɸʷo̞ks͈ʌ̹ŋ
@@ -62198,12 +61131,10 @@
 혼잡 ɸʷo̞nd͡ʑa̠p̚
 혼잡하다 ɸʷo̞nd͡ʑa̠pʰa̠da̠
 혼잣말 ɸʷo̞nd͡ʑa̠nma̠ɭ
-혼저 <EMPTY>
 혼저옵서예 ɸʷo̞nd͡ʑʌ̹o̞ps͈ʌ̹je̞
 혼전 ɸʷo̞nd͡ʑʌ̹n
 혼종어 ɸʷo̞nd͡ʑo̞ŋʌ̹
 혼죠 시 ɸʷo̞nd͡ʑjo ɕʰi
-혼차 <EMPTY>
 혼처 ɸʷo̞nt͡ɕʰʌ̹
 혼천의 ɸʷo̞nt͡ɕʰʌ̹nɰi
 혼춘 ɸʷo̞nt͡ɕʰun
@@ -62249,7 +61180,6 @@
 홀쭉 ɸʷo̞ɭt͡ɕ͈uk̚
 홀쭉하다 ɸʷo̞ɭt͡ɕ͈ukʰa̠da̠
 홈런 ɸʷo̞mnʌ̹n
-홈베 <EMPTY>
 홈켜잡다 ɸʷo̞mkçjʌ̹d͡ʑa̠p̚t͈a̠
 홈켜쥐다 ɸʷo̞mkçjʌ̹d͡ʑɥida̠/ ~ /ɸʷo̞mkçjʌ̹d͡ʑyda̠
 홈키다 ɸʷo̞mkçida̠
@@ -62299,7 +61229,6 @@
 홍수경보 ɸʷo̞ŋsʰuɡjʌ̹ŋbo̞
 홍수예보 ɸʷo̞ŋsʰuje̞bo̞
 홍시 ɸʷo̞ŋɕʰi
-홍시 먹다가 이 빠진다 <EMPTY>
 홍실 ɸʷo̞ŋɕʰiɭ
 홍아리 ɸʷo̞ŋa̠ɾi
 홍안 ɸʷo̞ŋa̠n
@@ -62512,7 +61441,6 @@
 확약 ɸwa̠ɡja̠k̚
 확언 ɸwa̠ɡʌ̹n
 확연 ɸwa̠ɡjʌ̹n
-확율 <EMPTY>
 확인 ɸwa̠ɡin
 확인되다 ɸwa̠ɡindø̞da̠/ ~ /ɸwa̠ɡindwe̞da̠
 확인소송 ɸwa̠ɡinsʰo̞sʰo̞ŋ
@@ -62671,7 +61599,6 @@
 활력 ɸwa̠ɭʎjʌ̹k̚
 활력소 ɸwa̠ɭʎjʌ̹ks͈o̞
 활로 ɸwa̠ɭɭo̞
-활루 <EMPTY>
 활발 ɸwa̠ɭba̠ɭ
 활발랄 ɸwa̠ɭba̠ɭɭa̠ɭ
 활발발 ɸwa̠ɭba̠ɭba̠ɭ
@@ -62687,11 +61614,9 @@
 활성 ɸwa̠ɭsʰʌ̹ŋ
 활성화 ɸwa̠ɭsʰʌ̹ŋβwa̠
 활승 안개 ɸwa̠ɭsʰɯŋ a̠nɡɛ̝
-활승 전선 <EMPTY>
 활승구름 ɸwa̠ɭsʰɯŋɡuɾɯm
 활승류 ɸwa̠ɭsʰɯŋɲju
 활승 안개 ɸwa̠ɭsʰɯŋ a̠nɡɛ̝
-활승 전선 <EMPTY>
 활약 ɸwa̠ɾja̠k̚
 활어 ɸwa̠ɾʌ̹
 활엽 ɸwa̠ɾjʌ̹p̚
@@ -62715,9 +61640,7 @@
 활판술 ɸwa̠ɭpʰa̠nsʰuɭ
 활화산 ɸwa̠ɾβwa̠sʰa̠n
 활활 ɸwa̠ɾβwa̠ɭ
-홧김에 서방질한다 <EMPTY>
 황 ɸwa̠ŋ
-황건적의 난 <EMPTY>
 황금 ɸwa̠ŋɡɯm
 황급 ɸwa̠ŋɡɯp̚
 황당무계 ɸwa̠ŋda̠ŋmuɡje̞/ ~ /ɸwa̠ŋda̠ŋmuɡe̞
@@ -62726,14 +61649,11 @@
 황보 ɸwa̠ŋbo̞
 황사 ɸwa̠ŋsʰa̠
 황산 ɸwa̠ŋsʰa̠n
-황새 조알 까먹은 것 같다 <EMPTY>
 황새치 ɸwa̠ŋsʰɛ̝t͡ɕʰi
 황색 ɸwa̠ŋsʰɛ̝k̚
 황소 ɸwa̠ŋsʰo̞
-황소 뒷걸음치다가 쥐 잡는다 <EMPTY>
 황소개구리 ɸwa̠ŋsʰo̞ɡɛ̝ɡuɾi
 황실 ɸwa̠ŋɕʰiɭ
-황아장수 망신은 고불통이 시킨다 <EMPTY>
 황옥 ɸwa̠ŋo̞k̚
 황제 ɸwa̠ŋd͡ʑe̞
 황충 ɸwa̠ŋt͡ɕʰuŋ
@@ -62855,7 +61775,6 @@
 회의장 hø̞ɰid͡ʑa̠ŋ/ ~ /ɸwe̞ɰid͡ʑa̠ŋ
 회의적 hø̞ɰid͡ʑʌ̹k̚/ ~ /ɸwe̞ɰid͡ʑʌ̹k̚
 회의체 hø̞ɰit͡ɕʰe̞/ ~ /ɸwe̞ɰit͡ɕʰe̞
-회자정리 <EMPTY>
 회장 hø̞d͡ʑa̠ŋ/ ~ /ɸwe̞d͡ʑa̠ŋ
 회장단 hø̞d͡ʑa̠ŋda̠n/ ~ /ɸwe̞d͡ʑa̠ŋda̠n
 회장석 hø̞d͡ʑa̠ŋsʰʌ̹k̚/ ~ /ɸwe̞d͡ʑa̠ŋsʰʌ̹k̚
@@ -63038,9 +61957,6 @@
 후두음 ɸʷuduɯm
 후들 ɸʷudɯɭ
 후딱 ɸʷut͈a̠k̚
-후라이 <EMPTY>
-후라이드치킨 <EMPTY>
-후라이팬 <EMPTY>
 후략 ɸʷuɾja̠k̚
 후려치다 ɸʷuɾjʌ̹t͡ɕʰida̠
 후련 ɸʷuɾjʌ̹n
@@ -63140,7 +62056,6 @@
 후줄근하다 ɸʷud͡ʑuɭɡɯnɦa̠da̠
 후지 산 ɸʷud͡ʑi sʰa̠n
 후지다 ɸʷud͡ʑida̠
-후지와라 효과 <EMPTY>
 후진 ɸʷud͡ʑin
 후진국 ɸʷud͡ʑinɡuk̚
 후진성 ɸʷud͡ʑinsʰʌ̹ŋ
@@ -63238,7 +62153,6 @@
 휘끗 hɥik͈ɯt̚/ ~ /hyk͈ɯt̚
 휘끗하다 hɥik͈ɯtʰa̠da̠/ ~ /hyk͈ɯtʰa̠da̠
 휘두르다 hɥiduɾɯda̠/ ~ /hyduɾɯda̠
-휘둥그래지다 <EMPTY>
 휘둥그러지다 hɥiduŋɡɯɾʌ̹d͡ʑida̠/ ~ /hyduŋɡɯɾʌ̹d͡ʑida̠
 휘둥그렇다 hɥiduŋɡɯɾʌ̹tʰa̠/ ~ /hyduŋɡɯɾʌ̹tʰa̠
 휘둥그레지다 hɥiduŋɡɯɾe̞d͡ʑida̠/ ~ /hyduŋɡɯɾe̞d͡ʑida̠
@@ -63480,11 +62394,8 @@
 흐름 xɯɾɯm
 흐름새 xɯɾɯmsʰɛ̝
 흐리다 xɯɾida̠
-흐리멍텅하다 <EMPTY>
 흐리터분 xɯɾitʰʌ̹bun
 흐린 xɯɾin
-흐린 날씨 <EMPTY>
-흐린 날씨 <EMPTY>
 흐림 xɯɾim
 흐릿 xɯɾit̚
 흐무뭇 xɯmumut̚
@@ -63567,7 +62478,6 @@
 흠정 xɯmd͡ʑʌ̹ŋ
 흠정헌법 xɯmd͡ʑʌ̹ŋɦʌ̹nbʌ̹p̚
 흠칫 xɯmt͡ɕʰit̚
-흠품 <EMPTY>
 흡 xɯp̚
 흡기음 xɯp̚k͈iɯm
 흡사 xɯps͈a̠
@@ -63617,8 +62527,6 @@
 흥얼 xɯŋʌ̹ɭ
 흥인지문 xɯŋind͡ʑimun
 흥정 xɯŋd͡ʑʌ̹ŋ
-흥정은 붙이고 싸움은 말리랬다 <EMPTY>
-흥진비래 <EMPTY>
 흥청 xɯŋt͡ɕʰʌ̹ŋ
 흥행 xɯŋɦɛ̝ŋ
 흥행권 xɯŋɦɛ̝ŋɡwʌ̹n
@@ -63751,7 +62659,6 @@
 힐끗힐끗하다 çiɭk͈ɯtʰiɭk͈ɯtʰa̠da̠
 힐난 çiɭɭa̠n
 힐책 çiɭt͡ɕʰɛ̝k̚
-힐후다 <EMPTY>
 힘 çim
 힘겨운 çimɡjʌ̹un
 힘겨움 çimɡjʌ̹um
