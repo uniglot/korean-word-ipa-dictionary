@@ -9,3 +9,14 @@ From this list, I filtered out all entries which is not written in Hangul, and s
 
 I ran `crawl.py` on 11 subsets of `kodict_entry.txt`, which consist of 6000 words (except the last one), simultaneously.
 After the crawlling processes are all completed, I appended the results and deleted entries with empty IPA.
+
+## 3. Converting IPA to X-SAMPA
+
+From any word-IPA dictionary files, you can convert it to word-X-SAMPA dictionary.
+
+```python
+from convert import Converter
+
+conv = Converter()
+conv.subst_dict(<NAME_OF_DICT>)
+```
