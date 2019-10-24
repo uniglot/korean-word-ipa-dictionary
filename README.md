@@ -20,3 +20,7 @@ from convert import Converter
 conv = Converter()
 conv.subst_dict(<NAME_OF_DICT>)
 ```
+
+## 4. Licenses
+
+You can make use of the **results of scripts** (i.e., .dict files and kodict_entry.txt file) under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You can use the **scripts themselves** under MIT License.
