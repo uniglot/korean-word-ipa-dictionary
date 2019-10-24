@@ -2,7 +2,7 @@
 
 ## 1. Getting List of Word Entries
 
-From [the latest Kowiktionary dump](https://dumps.wikimedia.org/kowiktionary/20181101/), I got the list of every word in main namespace.
+From [the latest Kowiktionary dump](https://dumps.wikimedia.org/kowiktionary/latest/), I got the list of every word in main namespace.
 After getting this list, I filtered out all entries which are not written in Hangul, and stored Korean word entries in the file `kodict_entry.txt`.
 
 ## 2. Crawling
@@ -23,4 +23,4 @@ conv.subst_dict(<NAME_OF_DICT>)
 
 ## 4. Licenses
 
-You can make use of the **results of scripts** (i.e., .dict files and kodict_entry.txt file) under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You can use the **scripts themselves** under MIT License.
+You can make use of the **results** of scripts (i.e., .dict files and kodict_entry.txt file) under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You can use the **scripts** under MIT License.
