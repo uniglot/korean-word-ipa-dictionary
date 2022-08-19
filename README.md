@@ -1,5 +1,11 @@
 # Korean Word-IPA Dictionary
 
+### Notice (19 Aug, 2022)
+
+I'm going to refactor the entire code soon and add a CI pipeline to keep the dictionary updated!
+
+I'll put efforts to get it done within September.
+
 ## 1. Getting List of Word Entries
 
 From [the latest Kowiktionary dump](https://dumps.wikimedia.org/kowiktionary/latest/), I got the list of every word in main namespace.
