@@ -4,7 +4,7 @@
 
 Sorry, I just realized that I'm a weary lazy procrastinator.
 
-I restructured the codebase earlier, but no update yet. I'll do remaining things maybe... within September?
+I restructured the codebase earlier, but I've got no notable updates yet. I'll do remaining things maybe... within September?
 
 ### Notice (19 Aug, 2022)
 
