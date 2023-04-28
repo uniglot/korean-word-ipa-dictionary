@@ -1,5 +1,11 @@
 # Korean Word-IPA Dictionary
 
+### Notice 2 (28 Apr, 2023)
+
+Sorry, I just realized that I'm a weary lazy procrastinator.
+
+I restructured the codebase earlier, but no update yet. I'll do remaining things maybe... within September?
+
 ### Notice (19 Aug, 2022)
 
 I'm going to refactor the entire code soon and add a CI pipeline to keep the dictionary updated!
